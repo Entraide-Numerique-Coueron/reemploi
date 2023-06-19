@@ -19,14 +19,14 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - file: "content/page/_apropos.md"
+      - file: "content/page"
         label: "A propos"
         name: "apropos"
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: string }
           -  { label: "Text", name: "text", widget: "text" }
-      - file: "content/page/contact.md"
+      - file: "content/page"
         label: "Contact"
         name: "contact"
         fields:
