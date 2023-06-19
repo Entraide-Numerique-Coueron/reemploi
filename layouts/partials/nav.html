@@ -1,14 +1,12 @@
-<header class="site-header">
-    <nav class="site-nav">
-        <a class="logo" href="/">
-            {{ .Site.Title }}
-        </a>
-        <ul class="main-menu">
+<div class="header">
+    <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
+        <a class="pure-menu-heading" href="">{{ .Site.Title }}</a>
+        <ul class="pure-menu-list">
             {{ range.Site.Menus.main }}
-            <li>
+            <li class="pure-menu-item"><a href="#" class="pure-menu-link">
                 <a href="{{ .URL }}">{{ .Name }}</a>
             </li>
             {{ end }}
         </ul>
-    </nav>
-</header>
+    </div>
+</div>
