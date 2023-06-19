@@ -12,7 +12,7 @@
 
 
 <ul>
-    {{ range (where .Pages "Type" "blog") }}
+    {{ range .Pages }}
     <li>
         <a href="{{ .RelPermalink }}">
             {{ .Title }}
