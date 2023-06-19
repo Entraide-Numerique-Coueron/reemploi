@@ -12,7 +12,7 @@
 <h1>Nice. It's looking good already.</h1>
 
 {{ partial "menu" . }}
-
+aaa
 {{ range .Data.Pages }}
 <div class="ph1-ns w-50-ns flex">
     <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
@@ -24,7 +24,7 @@
 
 </div>
 {{ end }}
-
+bbb
 {{ range first 4 (where .Pages "Type" "blog") }}
 <div class="ph1-ns w-50-ns flex">
     <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
@@ -36,7 +36,7 @@
 
 </div>
 {{ end }}
-
+cccc
 {{ range first 10 .Site.RegularPages }}
 {{ .Render "summary" }}
 {{ end }}
