@@ -10,7 +10,7 @@ title = "My New Hugo Site"
     weight = 10
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
+    identifier = "a-propos"
+    name = "A propos"
+    url = "/a-propos"
     weight = 20
