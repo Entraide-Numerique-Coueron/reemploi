@@ -6,7 +6,8 @@ public_folder: /img
 collections:
   - name: 'blog'
     label: 'Blog'
-    folder: 'content/blog/{{slug}}/index'
+    folder: 'content/blog'
+    path: '{{slug}}/index
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
