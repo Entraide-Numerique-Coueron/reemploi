@@ -9,7 +9,6 @@ collections:
     folder: 'content/blog'
     path: '{{slug}}/index'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
