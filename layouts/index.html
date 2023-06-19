@@ -1,67 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Document</title>
-</head>
+{{ partial "header.html" . }}
 
-<body>
+<h1>{{ .Params.title }}</h1>
 
-<h1>Nice. It's looking good already.</h1>
+<p>{{ .Params.blurb }}</p>
 
-{{ partial "menu" . }}
-aaa
-{{ range .Data.Pages }}
-<div class="ph1-ns w-50-ns flex">
-    <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-        <h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-        <p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-        <p class="mb0">{{ .Description }}</p>
-        <p class="link b dib black mb0">Read more →</p>
-    </a>
+<h2>{{ .Params.section.heading }}</h2>
 
-</div>
-{{ end }}
-bbb
-{{ range first 4 (where .Pages "Type" "blog") }}
-<div class="ph1-ns w-50-ns flex">
-    <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-        <h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-        <p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-        <p class="mb0">{{ .Description }}</p>
-        <p class="link b dib black mb0">Read more →</p>
-    </a>
+<p>{{ .Params.section.text }}</p>
 
-</div>
-{{ end }}
-cccc
-{{ range first 10 .Site.RegularPages }}
-{{ .Render "summary" }}
-{{ end }}
-
-<ul>
-    {{ range .Pages }}
-    <li>
-        <a href="{{ .RelPermalink }}">
-            {{ .Title }}
-        </a>
-    </li>
-    {{ end }}
-</ul>
-
-<script>
-    if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-            if (!user) {
-                window.netlifyIdentity.on("login", () => {
-                    document.location.href = "/admin/";
-                });
-            }
-        });
-    }
-</script>
-</body>
-
-</html>
+{{ partial "footer.html" . }}
