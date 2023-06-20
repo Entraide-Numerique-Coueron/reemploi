@@ -46,15 +46,15 @@ collections:
           - {label: "Bloc 2", name: bloc2, widget: object, fields: [
             {label: "Heading", name: "heading", widget: string},
             {label: "Text", name: "text", widget: "text"},
-            { label: "Lien 1", name: "lien_1", widget: "text" },
-            { label: "Libellé lien 1", name: "libelle_lien_1", widget: "text" },
-            { label: "Lien 2", name: "lien_2", widget: "text" },
-            { label: "Libellé lien 2", name: "libelle_lien_2", widget: "text" }]}
+            { label: "Lien 1", name: "lien_1", widget: "string" },
+            { label: "Libellé lien 1", name: "libelle_lien_1", widget: "string" },
+            { label: "Lien 2", name: "lien_2", widget: "string" },
+            { label: "Libellé lien 2", name: "libelle_lien_2", widget: "string" }]}
           - {label: "Bloc 3", name: "bloc3", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: string},
             {label: "Text", name: "text", widget: "text"},
-            {label: "Lien 1", name: "lien_1", widget: "text"},
-            {label: "Libellé lien 1", name: "libelle_lien_1", widget: "text"},
-            {label: "Lien 2", name: "lien_2", widget: "text"},
-            {label: "Libellé lien 2", name: "libelle_lien_2", widget: "text"}
+            {label: "Lien 1", name: "lien_1", widget: "string"},
+            {label: "Libellé lien 1", name: "libelle_lien_1", widget: "string"},
+            {label: "Lien 2", name: "lien_2", widget: "string"},
+            {label: "Libellé lien 2", name: "libelle_lien_2", widget: "string"}
           ]}
