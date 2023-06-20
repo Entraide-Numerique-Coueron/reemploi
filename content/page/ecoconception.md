@@ -35,3 +35,5 @@ C﻿e site Internet a été conçu de sorte que la navigation sur celui-ci conso
 ### Technique
 
 P﻿our ce faire un générateur de site statique a été utilisé ([Hugo](https://gohugo.io)), et afin d'en faciliter l'administration il a été couplé avec l'outil [DecapCMS](https://decapcms.org).
+
+Les librairies CSS utilisées sont : [HTML5Boilerplate](https://html5boilerplate.com/) et [PureCss](https://purecss.io/), qui lui même embarque [Normalize.css](http://necolas.github.io/normalize.css/) et permet de faciliter le fait d'avoir un rendu identique sur les différents navigateurs.

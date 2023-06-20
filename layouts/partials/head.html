@@ -4,15 +4,16 @@
     <meta name="description" content="A layout example that shows off a responsive product landing page.">
     <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 
+    {{- $CSS := slice
+                    (resources.Get "css/pure-min.css")
+                    (resources.Get "css/grids-responsive-min.css")
+                    (resources.Get "css/html5-boilerplate.css")
+                    (resources.Get "css/style.css")
+                    | resources.Concat "assets/css/main.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $CSS.RelPermalink }}" media="all">
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css" 
-        integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/grids-responsive-min.css">
-
-    <link rel="stylesheet" href="/css/html5-boilerplate.css">
-    <link rel="stylesheet" href="/css/style.css">
-
-    <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"/>
+    {{- $CSSPRINT := slice (resources.Get "css/print.css") | resources.Concat "assets/css/print.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $CSSPRINT.RelPermalink }}" media="print">
 
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
