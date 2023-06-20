@@ -3,13 +3,13 @@
     <h2>{{.heading}}</h2>
     <p>{{.text}}</p>
 
-    {{ if .lien_1 and .libelle_lien_1 }}
+    {{ if and .lien_1 .libelle_lien_1 }}
     <a href="{{ .lien_1 }}">
       {{.libelle_lien_1}}
     </a>
     {{ end }}
 
-    {{ if .lien_2 and .libelle_lien_2 }}
+    {{ if and .lien_2 .libelle_lien_2 }}
     <a href="{{ .lien_2 }}">
       {{.libelle_lien_2}}
     </a>
