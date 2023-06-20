@@ -5,10 +5,10 @@ menu:
 weight: -1
 image: /img/image1-carre.jpg
 blurb:
-  heading: Titre 1
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed
-    bibendum nisi, vel semper eros. Sed suscipit enim non dolor dapibus, non
-    auctor nisi interdum. "
+  heading: Collectif d'entraide numérique à Couëron
+  text: Nous œuvrons pour un numérique plus inclusif, aidons les personnes en
+    difficulté face au numérique, et agissons pour réduire les impacts
+    environnementaux du numérique par la réparation et le réemploi.
 intro:
   heading: Titre 2
   text: >-
