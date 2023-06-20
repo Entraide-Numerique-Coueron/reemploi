@@ -1,19 +1,19 @@
 {{ define "main-wrapper" }}
 
-<div class="content">
+<div class="home-margin">
     <h1>{{ .Title }}</h1>
 </div>
 
-<article class="light-ribbon">
+<div class="light-ribbon">
     {{ partial "short-text" .Params.blurb}}
-</article>
+</div>
 
-<article class="dark-ribbon">
+<div class="dark-ribbon">
     {{ partial "short-text" .Params.intro}}
-</article>
+</div>
 
-<article class="light-ribbon">
+<div class="light-ribbon">
     {{ partial "short-text" .Params.values}}
-</article>
+</div>
 
 {{ end }}

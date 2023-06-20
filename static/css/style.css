@@ -184,6 +184,10 @@ a.button-calltoaction {
     padding: 1em 1em 3em;
 }
 
+.home-margin {
+    padding: 0 0 3em 0;
+}
+
 /* This is the class used for the main content headers (<h2>) */
 .content-head {
     font-weight: 400;
@@ -196,6 +200,10 @@ a.button-calltoaction {
 .dark-ribbon {
     padding: 1em 1em 3em;
     background: #444;
+    color: #ddd;
+}
+
+.dark-ribbon h2 {
     color: #ddd;
 }
 
