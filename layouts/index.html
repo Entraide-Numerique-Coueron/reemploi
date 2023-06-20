@@ -1,10 +1,6 @@
-{{ define "main" }}
+{{ define "content-wrapper" }}
 
 <h1>{{ .Title }}</h1>
-
-<article>
-    {{ .Content }}
-</article>
 
 <article class="ribbon">
     {{ partial "short-text" .Params.blurb}}
@@ -13,7 +9,6 @@
 <article>
     {{ partial "short-text" .Params.intro}}
 </article>
-
 
 <article class="ribbon">
     {{ partial "short-text" .Params.values}}
