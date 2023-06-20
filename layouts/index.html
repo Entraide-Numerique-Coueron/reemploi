@@ -1,12 +1,14 @@
 {{ define "content-wrapper" }}
 
-<h1>{{ .Title }}</h1>
+<div class="content">
+    <h1>{{ .Title }}</h1>
+</div>
 
 <article class="light-ribbon">
     {{ partial "short-text" .Params.blurb}}
 </article>
 
-<article class="dack-ribbon">
+<article class="dark-ribbon">
     {{ partial "short-text" .Params.intro}}
 </article>
 
