@@ -22,16 +22,16 @@ L'enjeu de l'écoconception d'un site Internet est avant tout de ne pas provoque
 
 Lorsqu'un smartphone de quelques années qui fonctionne toujours, rencontre des problèmes de compatibilités avec des applications ou sites Internet, ou de grosses lenteurs, nous nous retrouvons dans la situation absurde où son propriétaire va être tenté d'en acheter un nouveau. Le problème n'est pas le vieux smartphone ou le vieil ordinateur, mais ces sites Internet et applications qui sont mal conçus.
 
-\#﻿# Ce site Internet
+## Ce site Internet
 
-\#﻿## Compatibilité maximale
+### Compatibilité maximale
 
 Ce site Internet a été pensé pour fonctionner correctement et rapidement sur un maximum de matériel.
 
-\#﻿## Sobriété
+### Sobriété
 
 C﻿e site Internet a été conçu de sorte que la navigation sur celui-ci consomme le moins d'énergie possible, en limitant les calculs et en évitant de trop solliciter le réseau Internet.
 
-\#﻿## Technique
+### Technique
 
 P﻿our ce faire un générateur de site statique a été utilisé ([Hugo](https://gohugo.io)), et afin d'en faciliter l'administration il a été couplé avec l'outil [DecapCMS](https://decapcms.org).
