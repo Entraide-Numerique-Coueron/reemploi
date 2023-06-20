@@ -1,18 +1,14 @@
 {{ define "main-wrapper" }}
 
-<div class="home-margin">
-    <h1>{{ .Title }}</h1>
-</div>
-
-<div class="light-ribbon">
+<div class="dark-ribbon">
     {{ partial "short-text" .Params.blurb}}
 </div>
 
-<div class="dark-ribbon">
+<div class="light-ribbon">
     {{ partial "short-text" .Params.intro}}
 </div>
 
-<div class="light-ribbon">
+<div class="dark-ribbon">
     {{ partial "short-text" .Params.values}}
 </div>
 
