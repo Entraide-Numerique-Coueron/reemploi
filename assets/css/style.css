@@ -136,7 +136,7 @@ a.button-calltoaction {
     box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
 }
 .home-menu {
-    background: #fff;
+    background: #0E9594;
 }
 .first-header-menu {
     background: #fff;
@@ -149,7 +149,7 @@ a.button-calltoaction {
 }
 
 .home-menu .pure-menu-heading {
-    color: #F2542D;
+    color: #F5DFBB;
     font-weight: 400;
     font-size: 120%;
 }
@@ -159,13 +159,13 @@ a.button-calltoaction {
 }
 
 .home-menu a {
- color: #F2542D;
+ color: #F5DFBB;
 }
 .home-menu li a:hover,
 .home-menu li a:focus {
     background: none;
     border: none;
-    color: #562C2C;
+    color: #F2542D;
 }
 
 /*
@@ -178,7 +178,7 @@ a.button-calltoaction {
     width: 100%;
     min-height: 100vh;
     z-index: 2;
-    background: white;
+    background: #fff;
     padding-bottom: 40px;
 }
 
@@ -212,7 +212,7 @@ a.button-calltoaction {
 
 .light-ribbon {
     padding: 1em 1em 3em;
-    background: #F5DFBB;
+    background: #fff;
     color: #000;
 }
 
