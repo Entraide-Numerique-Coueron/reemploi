@@ -5,11 +5,13 @@
 
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
-    <main class="content">
-      {{ block "main" . }}{{ end }}
-    </main>
+    <div class="content-wrapper">
+      <main class="content">
+        {{ block "main" . }}{{ end }}
+      </main>
 
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+      {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+    </div>
 
   </body>
 </html>
