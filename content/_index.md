@@ -4,12 +4,12 @@ menu:
   - main
 weight: -1
 image: /img/image1-carre.jpg
-blurb:
+bloc1:
   heading: Collectif d'entraide numérique à Couëron
   text: Nous œuvrons pour un numérique plus inclusif, aidons les personnes en
     difficulté face au numérique, et agissons pour réduire les impacts
     environnementaux du numérique par la réparation et le réemploi.
-intro:
+bloc2:
   heading: Contre l'illectronisme et la fracture numérique
   text: >-
     1 français sur 5 est démuni face à l'usage d'Internet (Source : INSEE).
@@ -27,7 +27,7 @@ intro:
     Nos actions :
 
     Une fois par mois, nous tenons une permanence dans les locaux du Centre Pierre Legendre.
-values:
+bloc3:
   heading: Contre les impacts environnementaux du numérique
   text: >-
     L﻿e secteur du numérique est responsable à l’échelle mondiale de 4% des
