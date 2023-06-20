@@ -25,8 +25,8 @@ collections:
       preview: false
     fields:
       - { label: 'Titre', name: 'title', widget: 'string' }
-      - { label: 'Menu', name: 'menu', widget: "select", multiple: true, options: ["main", "footer" ] }
-      - { label: 'Ordre dans le menu', name: 'weight', widget: "number" }
+      - { label: 'Menu', name: 'menu', widget: "select", required: false, multiple: true, options: ["main", "footer" ] }
+      - { label: 'Ordre dans le menu', name: 'weight', required: false, widget: "number" }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Contenu', name: 'body', widget: 'markdown' }
   - name: "pagescustom"
