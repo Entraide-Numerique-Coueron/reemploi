@@ -12,10 +12,10 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Date de publication', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown' }
   - name: 'page'
     label: 'Pages au menu'
     folder: 'content/page'
@@ -24,11 +24,11 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Titre', name: 'title', widget: 'string' }
       - { label: 'Menu', name: 'menu', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Date de publication', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown' }
   - name: "pagescustom"
     label: "Pages personnalisées"
     files:
@@ -36,15 +36,15 @@ collections:
         label: "Home Page"
         name: "home"
         fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Titre', name: 'title', widget: 'string' }
+          - { label: 'Date de publication', name: 'date', widget: 'datetime' }
           - { label: 'Description', name: 'description', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Contenu', name: 'body', widget: 'markdown' }
       - file: "content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
         fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Titre', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
           - { label: 'Description', name: 'description', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Contenu', name: 'body', widget: 'markdown' }
