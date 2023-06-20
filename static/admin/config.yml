@@ -37,6 +37,8 @@ collections:
         name: "home"
         fields:
           - { label: 'Titre', name: 'title', widget: 'string' }
+          - { label: 'Menu', name: 'menu', widget: "select", multiple: true, options: [ "main", "footer" ] }
+          - { label: 'Ordre dans le menu', name: 'weight', widget: "number" }
           - {label: Image, name: image, widget: image}
           - {label: "Blurb", name: blurb, widget: object, fields: [
             {label: "Heading", name: "heading", widget: string},
