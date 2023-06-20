@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "fr-fr"
+title = "Sitename"
 
 [menu]
   [[menu.main]]
@@ -8,15 +8,3 @@ title = "My New Hugo Site"
     name = "Blog"
     url = "/blog"
     weight = 10
-
-  [[menu.main]]
-    identifier = "a-propos"
-    name = "A propos"
-    url = "/a-propos"
-    weight = 20
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact"
-    weight = 30
