@@ -1,12 +1,8 @@
 ---
-title: A propos
-subtitle: pour en savoir plus
-text: nous sommes
-menu:
-  - main
-weight: 40
-date: 2023-06-20T08:13:54.200Z
-description: A propos
+title: Mentions légales
+menu: footer
+date: 2023-06-20T08:02:36.770Z
+description: "Mentions légales"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed bibendum nisi, vel semper eros. Sed suscipit enim non dolor dapibus, non auctor nisi interdum. Nullam ultricies gravida sagittis. Curabitur tristique neque eget aliquam vestibulum. Cras sed purus metus. Etiam fringilla pulvinar tincidunt. Cras dapibus efficitur mauris eget viverra. Proin maximus quis felis varius pellentesque. Vivamus at mollis leo. Aliquam vitae commodo tortor. Vivamus nisl nisi, vehicula sed risus eget, euismod vulputate dui. Morbi quam urna, gravida non nisl eget, pellentesque ultrices orci. Etiam quis dignissim nunc.
 
