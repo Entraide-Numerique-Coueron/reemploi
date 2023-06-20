@@ -193,9 +193,16 @@ a.button-calltoaction {
 }
 
 /* This is the class used for the dark-background areas. */
-.ribbon {
+.dark-ribbon {
+    padding: 1em 1em 3em;
     background: #444;
     color: #ddd;
+}
+
+.light-ribbon {
+    padding: 1em 1em 3em;
+    background: #fff;
+    color: #000;
 }
 
 /* This is the class used for the footer */
