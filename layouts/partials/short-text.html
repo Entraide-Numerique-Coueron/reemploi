@@ -4,13 +4,13 @@
     <p>{{.text}}</p>
 
     {{ if and .lien_1 .libelle_lien_1 }}
-    <a href="{{ .lien_1 }}">
+    <a href="{{ .lien_1 }}" class="button-calltoaction pure-button">
       {{.libelle_lien_1}}
     </a>
     {{ end }}
 
     {{ if and .lien_2 .libelle_lien_2 }}
-    <a href="{{ .lien_2 }}">
+    <a href="{{ .lien_2 }}" class="button-calltoaction pure-button">
       {{.libelle_lien_2}}
     </a>
     {{ end }}
