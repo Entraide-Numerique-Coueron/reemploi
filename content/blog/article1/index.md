@@ -1,10 +1,8 @@
 ---
 title: Où acheter un nouveau téléphone ?
 date: 2023-06-19T15:42:45.895Z
-description: Où acheter un nouveau téléphone ?
+description: Besoin d'un nouveau téléphone ? Cet article est pour vous.
 ---
-
-# Où acheter un nouveau téléphone ?
 
 ## Intro
 
