@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/* https://coolors.co/562c2c-f2542d-f5dfbb-0e9594-127475 */
+
 /*
  * -- BASE STYLES --
  * Most of these are inherited from Base, but I want to change a few.
@@ -22,7 +24,7 @@ h4,
 h5,
 h6,
 label {
-    color: #181f1c;
+    color: #3c4858;
     font-weight: normal;
     white-space: normal;
 }
@@ -115,7 +117,7 @@ a.pure-button-primary {
 }
 
 a.button-calltoaction {
-    background: #181f1c;
+    background: #F2542D;
     color: #fff;
 }
 
@@ -134,7 +136,7 @@ a.button-calltoaction {
     box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
 }
 .home-menu {
-    background: #999999;
+    background: #fff;
 }
 .first-header-menu {
     background: #fff;
@@ -147,7 +149,7 @@ a.button-calltoaction {
 }
 
 .home-menu .pure-menu-heading {
-    color: white;
+    color: #F2542D;
     font-weight: 400;
     font-size: 120%;
 }
@@ -157,13 +159,13 @@ a.button-calltoaction {
 }
 
 .home-menu a {
-    color: #fcfcfc;
+ color: #F2542D;
 }
 .home-menu li a:hover,
 .home-menu li a:focus {
     background: none;
     border: none;
-    color: #AECFE5;
+    color: #562C2C;
 }
 
 /*
@@ -200,17 +202,17 @@ a.button-calltoaction {
 /* This is the class used for the dark-background areas. */
 .dark-ribbon {
     padding: 1em 1em 3em;
-    background: #444;
-    color: #ddd;
+    background: #127475;
+    color: #fff;
 }
 
 .dark-ribbon h2 {
-    color: #ddd;
+    color: #fff;
 }
 
 .light-ribbon {
     padding: 1em 1em 3em;
-    background: #fff;
+    background: #F5DFBB;
     color: #000;
 }
 
