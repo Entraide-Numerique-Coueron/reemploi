@@ -16,7 +16,7 @@ L﻿e numérique est aussi gourmand en métaux, qu'il faut extraire puis purifie
 
 L'essentiel des impacts du numériques réside dans les milliards d'objets numériques la planète : nos TV, smartphones, ordinateurs, console de jeux, robots de cuisine etc...
 
-## L﻿'ecoconception
+## L﻿'écoconception
 
 L'enjeu de l'écoconception d'un site Internet est avant tout de ne pas provoquer chez le visiteur un sentiment d'obsolescence : le site Internet doit fonctionner, et s'afficher rapidement, sur tous les ordinateurs et smartphones qu'ils soient récents ou très vieux.
 
