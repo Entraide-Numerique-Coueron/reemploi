@@ -28,10 +28,10 @@ bloc2:
     Nos actions :
 
     Une fois par mois, nous tenons une permanence dans les locaux du Centre Pierre Legendre.
-  lien_1: http://www.google.fr
+  lien_1: /page/fracture-numérique/
   libelle_lien_1: Découvrir les enjeux
   libelle_lien_2: Nos actions
-  lien_2: http://www.google.fr
+  lien_2: /page/fracture-numérique/
 bloc3:
   heading: Contre les impacts environnementaux du numérique
   text: >-
@@ -49,7 +49,7 @@ bloc3:
     Nos actions : réparer et réemployer vos équipements numériques.
   libelle_lien_2: Nos actions
   libelle_lien_1: Découvrir les enjeux
-  lien_2: http://www.google.fr
-  lien_1: http://www.google.fr
+  lien_2: /page/les-impacts-environnementaux-du-num%C3%A9rique/
+  lien_1: /page/les-impacts-environnementaux-du-num%C3%A9rique/
 description: Accueil
 ---
