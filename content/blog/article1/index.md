@@ -1,14 +1,109 @@
 ---
-title: Article 1
+title: Où acheter un nouveau téléphone ?
 date: 2023-06-19T15:42:45.895Z
-description: Article 1
+description: Où acheter un nouveau téléphone ?
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed bibendum nisi, vel semper eros. Sed suscipit enim non dolor dapibus, non auctor nisi interdum. Nullam ultricies gravida sagittis. Curabitur tristique neque eget aliquam vestibulum. Cras sed purus metus. Etiam fringilla pulvinar tincidunt. Cras dapibus efficitur mauris eget viverra. Proin maximus quis felis varius pellentesque. Vivamus at mollis leo. Aliquam vitae commodo tortor. Vivamus nisl nisi, vehicula sed risus eget, euismod vulputate dui. Morbi quam urna, gravida non nisl eget, pellentesque ultrices orci. Etiam quis dignissim nunc.
 
-Integer aliquam lacus odio, et tempor dolor aliquam lacinia. Phasellus aliquam ligula ligula, sed fringilla nunc laoreet a. Nunc eget elit sit amet mauris congue scelerisque. Etiam imperdiet purus sit amet consequat mollis. Pellentesque consequat quis nunc eget ultricies. Sed iaculis malesuada mattis. Nullam nunc tortor, convallis vel lobortis bibendum, fringilla sed ipsum. Sed sapien metus, suscipit vel diam sit amet, volutpat volutpat diam. In condimentum dui eu tellus luctus egestas. Aliquam sollicitudin imperdiet tellus non tincidunt. Quisque gravida ornare nisi a pellentesque. Ut id sollicitudin mi, facilisis mattis mauris. Duis pulvinar volutpat tortor, at faucibus libero rhoncus sit amet.
+# Où acheter un nouveau téléphone ?
 
-Nunc id tellus tempus, tristique risus nec, lacinia urna. Nam ut vulputate tortor. Nulla sit amet purus est. Donec massa nisl, ultrices eget placerat in, semper id magna. Nulla pulvinar leo lorem, eu efficitur elit aliquam molestie. Sed consectetur lacus non facilisis sollicitudin. Mauris viverra facilisis lorem. Vivamus iaculis scelerisque tellus, vel pharetra sapien porta vel. Curabitur maximus massa ac posuere dictum. Nulla sodales, ex eu suscipit mattis, nunc odio pharetra sapien, eu porttitor augue ante et nibh. Suspendisse sem mi, luctus ac posuere ut, mollis vitae elit. Aliquam sit amet enim et eros elementum dictum et ac leo. Pellentesque gravida velit ligula, eget porta dolor venenatis a.
+## Intro
 
-Aliquam vehicula lacus leo, sed mollis neque lacinia vel. Vestibulum vel bibendum arcu, et rutrum mi. Sed quis rhoncus tortor. Donec pulvinar velit quis sapien accumsan dictum. Integer enim erat, pulvinar eget felis ac, fermentum feugiat quam. Suspendisse purus elit, auctor vel tortor sed, commodo euismod sem. Etiam nibh mauris, sollicitudin sed faucibus consequat, facilisis id justo. Nulla mi nisi, semper at nisl a, congue rutrum velit. Sed vestibulum sem porta lectus faucibus porta. Nam molestie felis nisi, vitae semper urna volutpat ac. Vestibulum semper ultricies diam, in euismod nulla efficitur in. Proin laoreet aliquet odio, ac euismod tortor eleifend id. Nunc sed velit id libero laoreet tincidunt. Suspendisse eu porta libero. Aliquam convallis sollicitudin turpis ut posuere.
+L'empreinte carbone d'un smartphone est d'environ 80kg. Plus l'écran est grand, plus cette empreinte le sera aussi.
+La durée de vie moyenne des smartphones est passée de 2 ans en 2014, à 3 ans en 2018.
+En 2019, 52% des smartphones ne dépassaient pas 3 ans de durée de vie (dont 26% ne dépassaient pas 2 ans).
+Afin d'éviter le renouvellement fréquent des smartphones, il faut allonger leurs durées de vie.
+Pour ce faire plusieurs options sont envisageables : achat d'un téléphone durable et réparable, achat d'un téléphone d'occasion ou encore la location.
+Enfin, protégez votre téléphone avec une bonne coque et un film de protection d'écran en verre trempé.
 
-Vestibulum feugiat purus et odio accumsan finibus. Ut sit amet aliquam eros, at tincidunt libero. Ut eu nisl ut nulla iaculis laoreet eget eget leo. Aenean augue diam, mattis eget mauris sed, aliquet imperdiet ex. Aenean ac leo porttitor, tincidunt magna eu, luctus mauris. Fusce molestie vulputate urna quis fermentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec vel vehicula quam. Suspendisse suscipit ligula ac dignissim euismod. Vestibulum bibendum elit tortor, vel tincidunt purus finibus eget. Aenean vitae est mattis, dapibus eros at, ultricies magna. Nunc a tortor hendrerit, placerat libero sed, mattis nisi. In quis nisl at nibh posuere faucibus at ut nulla.
+### Smartphone ou téléphone
+
+L'empreinte carbone d'un smartphone est supérieure à celle d'un simple téléphone portable.
+Est-ce qu'un simple téléphone portable ne suffirait-il pas à vos besoins ?
+
+Sachez toutefois que l'empreinte carbone d'un smartphone est inférieure à tous les objets qu'il peut remplacer : appareil photo, baladeur Mp3, GPS, réveil, console de jeu portable, etc. Il est préférable de prendre un bon smartphone remplaçant tous ces usages plutôt que d'acheter ces différents objets : prévoyez peut-être plus d'espace disque. Un smartphone avec 64Go sera plus polyvalent et fera par exemple un bien meilleur baladeur MP3 que celui avec seulement 32Go (il est plus écologique d'écouter la musique stockée sur le téléphone plutôt que de la lire en streaming).
+
+### Double carte SIM
+
+Vous avez besoin d'un téléphone pro et perso ? Prenez un unique téléphone pouvant prendre deux cartes SIM. Ou demandez à votre employeur un smartphone de ce type.
+
+## Smartphone d'occasion ou reconditionné
+
+### Différence entre occasion et reconditionné
+
+Les smartphones d'occasion ou reconditionnés sont des produits de secondes mains déjà utilisés. Mais les smartphones reconditionnés ont été contrôlés et vérifiés, les pièces défectueuses ont été remplacées, ils bénéficient aussi d'une garantie. Il apparaît préférable d'acheter du matériel reconditionné.
+
+### Quelques sites
+
+* [La bootique - Les ateliers du bocage](https://la-bootique.com/) Les ateliers du bocage sont une coopérative, entreprise adaptée et d’insertion, membre du mouvement Emmaüs.
+* [ReCommerce](https://www.recommerce.com/fr/) Pionier du reconditionnement, ils sous-traitent le reconditionnement en Europe de l'est.
+* [Remade](https://remade.com/) Spécialisé dans le reconditionnement d'iPhone. Son usine est basée près du Mont-Saint-Michel.
+* [Smaaart](https://smaaart.fr/) Son usine est basée près de Montpellier/
+* [ReBuy](https://www.rebuy.fr/) Reconditionneme des smartphones. Et "climatiquement neutre".
+* [CertiDeal](https://smaaart.fr/) Reconditionneme des smartphones. Certification ISO14001.
+* [Iodé](https://iode.tech/) Reconditionnes des smartphones avec un systèmes d'exploitations basé sur Android, mais débarrasé des trackeurs Google/Android.
+* [Largo](https://www.largo.fr/) Reconditionné en France, à Saint-Luce-sur-Loire (44)
+* [Reepeat](https://www.reepeat.fr) Un comparateur de reconditionné qui permet de trouver des offres venant d'autres sites (Amazon, Cdiscount, Backmarket, Fnac, Darty, Philips, Bose, etc.. )
+* [Back Market](https://www.backmarket.fr/) Back Market est une marketplace, c’est-à-dire qu'elle met en contacte les clients et les reconditionneurs basés partout dans le monde.
+
+## Acheter neuf : choisir du matériel durable et réparable
+
+Vous voulez acheter neuf ? Privilégiez le matériel durable et réparable. Un smartphone réparable c'est bien, un smartphone solide qui ne casse pas et ne tombe pas en panne c'est mieux.
+Plusieurs indices existent et se completent entre eux puisqu'ils n'ont pas la même grille d'évaluation les notes varient d'un indice à l'autre.
+* [Article comparant les indices français et iFixit](https://www.lesnumeriques.com/vie-du-net/ifixit-vs-indice-de-reparabilite-deux-approches-pour-un-meme-probleme-n160205.html)
+
+### Indice de réparabilité en français
+
+En France, l'indice de réparabilité permet d'obtenir une note sur des produits, dont les smartphones, afin d'évaluer leur réparabilité. La durabilité n'est en revanche pas prise en compte.
+L'indice de réparabilité français tiens compte des réparateurs tiers, le smartphone peut être difficilement réparable par vos soins, mais l'être facilement chez un réparateur professionnel, dans ce cas il aura une bonne note.
+L'indice de réparabilité français tient aussi davantage compte de la documentation, de la disponibilité des pièces, de la publication des prix des pièces etc... Cet indice bénéficie donc aux plus grosses structures capablent de mettre en place cette logistique.
+
+* [Site internet de l'incide de réparabilité](https://www.indicereparabilite.fr/appareils/smartphone/?orderby=rating)
+
+### Indice de réparabilité de iFixit
+
+iFixit est un site Internet spécialisé dans la réparation de nos appareils. Ils ont élaboré leur propre indice de réparabilité.
+L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'est à dire celle faisable par vous même sans devoir aller voir un réparateur professionel.
+
+* [Indice de réparabilité de iFixit](https://fr.ifixit.com/smartphone-repairability?sort=score)
+
+### EcoRating
+
+L'EcoRating est un indice créé par les acteurs de la téléphonie. Il sera utilisé à partir de juin 2021. L'un de ses avantages est d'être plus large qu'un indice de réparabilité, en tenant compte aussi de la durabilité, de la recyclabilité, de la préservation des ressources et de la présenvation du climat (son empreinte carbone). Son inconvénient est qu'il s'agit d'un indice auto-évalué.
+
+* [Site Internet de l'EcoRating](https://www.ecoratingdevices.com)
+* [Article de numerama](https://www.numerama.com/sciences/714949-leco-rating-peut-il-chiffrer-precisement-lempreinte-carbone-des-smartphones.html)
+* [Article des numériques](https://www.lesnumeriques.com/telephone-portable/eco-rating-un-nouvel-indice-environnemental-par-et-pour-les-acteurs-de-la-telephonie-n164407.html)
+
+### Le Fairphone
+
+Le Fairphone est un smartphone durable, réparable et éthique. Il est l'un des premiers fabricants à s'être positionné sur le domaine des smartphones réparables.
+Bien que de plus en plus de fabricants proposent à leur tour des smartphones réparables, le Fairphone se distingue encore par sa dimension éthique en étant plus soucieux des conditions des travailleurs.
+Un Fairphone est un téléphone modulaire, qui permet de remplacer facilement une pièce par un autre, soit parce que la pièce est défectueuse, soit parce que vous souhaitez améliorer le module en question (exemple : avoir un meilleur objectif photo).
+Fairphone tente de changer le système de l'intérieur et d'inciter leurs concurrents à faire de même. Acheter Fairphone c'est inciter les fabricants à changer.
+
+* [Site Internet de Fairphone](https://www.fairphone.com/fr)
+
+
+## La location avec Commown
+
+Commown est une coopérative engagée pour une électronique durable. Ils proposent du matériel à la location, dont des smartphones.
+La location met la pression sur le loueur, qui doit proposer du matériel durable et réparable, puisque c'est dans son intérêt financier d'éviter d'avoir des réparations coûteuses.
+En cas de panne matérielle, c'est donc à Commown que revient la charge financière de remplacer la pièce.
+
+* [Site Internet de Commown](https://commown.coop/)
+
+## Aller plus loin
+
+#### A évaluer
+
+* [Shift phones](https://www.shiftphones.com/en/)
+
+### Réparer son smartphone
+
+* [iFixit](https://fr.ifixit.com/)
+* [SosAv](https://www.sosav.fr/)
+
+### Donner son smartphone usagé
+
+* [Je donne mon téléphpne](https://www.jedonnemontelephone.fr)
+* [LaCollecte.tech](https://lacollecte.tech/)
