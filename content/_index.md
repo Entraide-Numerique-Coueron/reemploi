@@ -1,4 +1,5 @@
 ---
+date: 2023-06-20T07:37:35.442Z
 title: Accueil
 menu:
   - main
@@ -27,6 +28,10 @@ bloc2:
     Nos actions :
 
     Une fois par mois, nous tenons une permanence dans les locaux du Centre Pierre Legendre.
+  lien_1: http://www.google.fr
+  libelle_lien_1: Découvrir les enjeux
+  libelle_lien_2: Nos actions
+  lien_2: http://www.google.fr
 bloc3:
   heading: Contre les impacts environnementaux du numérique
   text: >-
@@ -42,6 +47,9 @@ bloc3:
 
 
     Nos actions : réparer et réemployer vos équipements numériques.
-date: 2023-06-20T07:37:35.442Z
+  libelle_lien_2: Nos actions
+  libelle_lien_1: Découvrir les enjeux
+  lien_2: http://www.google.fr
+  lien_1: http://www.google.fr
 description: Accueil
 ---
