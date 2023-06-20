@@ -177,6 +177,7 @@ a.button-calltoaction {
     min-height: 100vh;
     z-index: 2;
     background: white;
+    padding-bottom: 40px;
 }
 
 /* We want to give the content area some more padding */
@@ -221,7 +222,7 @@ a.button-calltoaction {
     width: 100%;
     position: absolute;
     bottom: 0;
-    padding :0;
+    padding: 0;
 }
 
 .footer li {
