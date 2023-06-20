@@ -15,14 +15,20 @@ intro:
     1 français sur 5 est démuni face à l'usage d'Internet (Source : INSEE).
 
 
-    L'illectronisme désigne la difficulté à utiliser les appareils numériques en raison d'un manque de connaissance  à propos de leur fonctionnement.
+    L'illectronisme désigne la difficulté à utiliser les appareils numériques en raison d'un manque de connaissance à propos de leur fonctionnement.
 
-    Lorsque ces difficultés deviennent préjudiciables (démarche en ligne) on parle alors de fracture numérique. 
+    Lorsque ces difficultés deviennent préjudiciables (démarche en ligne) on parle alors de fracture numérique d'usage.
 
+    La fracture numérique d'accès concerne les personnes qui n'ont pas l'équipement numérique adéquate, ou des difficultés de connexions (zone blanche).
+
+    La fracture numérique accroit d'autres fractures : accès à l'emploi, à la formation, aux soins. Et créé de l'exclusion.
+
+
+    Nos actions :
 
     Une fois par mois, nous tenons une permanence dans les locaux du Centre Pierre Legendre
 values:
-  heading: Contre les impacts environnementaux du numériques
+  heading: Contre les impacts environnementaux du numérique
   text: >-
     L﻿e secteur du numérique est responsable à l’échelle mondiale de 4% des
     émissions de CO2, un gaz à effet de serre responsable du réchauffement
