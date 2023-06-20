@@ -4,7 +4,6 @@
 
 <article>
     {{ .Content }}
-
 </article>
 
 <article class="ribbon">
@@ -12,7 +11,12 @@
 </article>
 
 <article>
+    {{ partial "short-text" .Params.intro}}
+</article>
 
+
+<article class="ribbon">
+    {{ partial "short-text" .Params.values}}
 </article>
 
 {{ end }}
