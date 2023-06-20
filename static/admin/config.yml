@@ -26,6 +26,7 @@ collections:
     fields:
       - { label: 'Titre', name: 'title', widget: 'string' }
       - { label: 'Menu', name: 'menu', widget: "select", multiple: true, options: ["main", "footer" ] }
+      - { label: 'Ordre dans le menu', name: 'menuweight', widget: "number" }
       - { label: 'Date de publication', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Contenu', name: 'body', widget: 'markdown' }
