@@ -5,15 +5,17 @@
 
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
-    {{ block "content-wrapper" . }}
+
       <div class="content-wrapper">
-        <main class="content">
-          {{ block "main" . }}{{ end }}
-        </main>
+        {{ block "main-wrapper" . }}
+          <main class="content">
+            {{ block "main" . }}{{ end }}
+          </main>
+        {{end}}
 
         {{ block "footer" . }}{{ partial "footer" . }}{{end}}
       </div>
-    {{end}}
+
 
   </body>
 </html>
