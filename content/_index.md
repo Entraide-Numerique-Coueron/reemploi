@@ -26,7 +26,7 @@ intro:
 
     Nos actions :
 
-    Une fois par mois, nous tenons une permanence dans les locaux du Centre Pierre Legendre
+    Une fois par mois, nous tenons une permanence dans les locaux du Centre Pierre Legendre.
 values:
   heading: Contre les impacts environnementaux du numérique
   text: >-
