@@ -1,18 +1,6 @@
-<div class="l-box-lrg pure-u-1 pure-u-md-3-5">
-    <h4>Contact Us</h4>
-    <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat.
-    </p>
 
-    <h4>More Information</h4>
-    <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.
-    </p>
 </div>
+
 </div>
 
 </div>
@@ -20,15 +8,13 @@
 <div class="footer l-box is-center">
 
     <ul class="pure-menu-list">
-        {{ range.Site.Menus.footer }}
+        {{ range.Site.Menus.footer.ByWeight }}
         <li class="pure-menu-item">
             <a href="{{ .URL }}" class="pure-menu-link">{{ .Name }}</a>
         </li>
         {{ end }}
     </ul>
 
-
-</div>
 
 </div>
 
