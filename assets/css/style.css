@@ -185,6 +185,8 @@ a.button-calltoaction {
 /* We want to give the content area some more padding */
 .content {
     padding: 1em 1em 3em;
+    margin: auto;
+    max-width: 1200px;
 }
 
 .home-margin {

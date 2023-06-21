@@ -1,15 +1,21 @@
 {{ define "main-wrapper" }}
 
 <div class="dark-ribbon">
-    {{ partial "intro" .Params.bloc1}}
+    <div class="content">
+        {{ partial "intro" .Params.bloc1}}
+    </div>
 </div>
 
 <div class="light-ribbon">
-    {{ partial "short-text-titleonleft" .Params.bloc2}}
+    <div class="content">
+        {{ partial "short-text-titleonleft" .Params.bloc2}}
+    </div>
 </div>
 
 <div class="dark-ribbon">
-    {{ partial "short-text-titleonright" .Params.bloc3}}
+    <div class="content">
+        {{ partial "short-text-titleonright" .Params.bloc3}}
+    </div>
 </div>
 
 {{ end }}
