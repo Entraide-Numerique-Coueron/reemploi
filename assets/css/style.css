@@ -153,7 +153,7 @@ a.button-calltoaction {
 }
 
 .home-menu .pure-menu-heading {
-    color: #F5DFBB;
+    color: #fff;
     font-weight: 400;
     font-size: 90%;
     line-height: 50px;
@@ -164,7 +164,7 @@ a.button-calltoaction {
 }
 
 .home-menu a {
- color: #F5DFBB;
+ color: #fff;
 }
 .home-menu li a:hover,
 .home-menu li a:focus {
