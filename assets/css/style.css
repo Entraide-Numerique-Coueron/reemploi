@@ -81,6 +81,11 @@ h3 {
     text-align: center;
 }
 
+.is-justify {
+    text-align: justify;
+    text-justify: auto;
+}
+
 /*
  * -- PURE FORM STYLES --
  * Style the form inputs and labels
