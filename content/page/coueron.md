@@ -25,6 +25,6 @@ Vous y trouverez :
 Plusieurs professionnels peuvent vous aider à utiliser, réparer votre matériel numérique.
 
 * [Atelier 220](https://latelier-220.odoo.com/) : spécialisé dans les smartphones et consoles de jeux
-* [ACDM](https://www.acmd.net/) : Dépannage de réparation d'ordinateur, PC, portable, smartphones/téléphones, tablettes, imprimantes et consoles de jeux
+* [ACMD](https://www.acmd.net/) : Dépannage de réparation d'ordinateur, PC, portable, smartphones/téléphones, tablettes, imprimantes et consoles de jeux
 * [Alerte Informatique](https://alerteinfo.com/) : Dépannage, vente, formation, sécurité
 * [NTD 44](https://www.ntd44.fr/) : Dépannage informatique à domicile
