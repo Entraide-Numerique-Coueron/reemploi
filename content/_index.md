@@ -8,7 +8,7 @@ image: /img/image1-carre.jpg
 bloc1:
   heading: Collectif d'entraide numérique à Couëron
   text: Nous œuvrons pour un numérique plus inclusif, aidons les personnes en
-    difficulté face au numérique, et agissons pour réduire les impacts
+    difficulté face au numérique et agissons pour réduire les impacts
     environnementaux du numérique par la réparation et le réemploi.
 bloc2:
   heading: Contre l'illectronisme et la fracture numérique
@@ -40,7 +40,7 @@ bloc3:
     climatique.
 
 
-    L﻿e numérique est aussi gourmand en métaux, qu’il faut extraire puis purifier à l’aide de nombreux produits chimiques. Ces métaux, une fois qu’ils se retrouvent dans les circuits imprimés, sont difficilement récupérables et recyclables. Ils sont pourtant aussi nécessaire à d’autres secteurs d’activités important, comme celui des énergies renouvelables nécessaire à la transition écologique. A terme, c’est s’exposer à des risques de pénuries.
+    L﻿e numérique est aussi gourmand en métaux, qu’il faut extraire puis purifier à l’aide de nombreux produits chimiques. Ces métaux, une fois qu’ils se retrouvent dans les circuits imprimés, sont difficilement récupérables et recyclables. Ils sont pourtant aussi nécessaire à d’autres secteurs d’activités importants, comme celui des énergies renouvelables nécessaire à la transition écologique. A terme, c’est s’exposer à des risques de pénuries.
 
 
     L’essentiel des impacts du numériques réside dans les milliards d’objets numériques la planète : nos TV, smartphones, ordinateurs, console de jeux, robots de cuisine etc…
