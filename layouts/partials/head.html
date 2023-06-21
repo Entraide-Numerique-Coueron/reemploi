@@ -9,6 +9,7 @@
                     (resources.Get "css/grids-responsive-min.css")
                     (resources.Get "css/html5-boilerplate.css")
                     (resources.Get "css/style.css")
+                    (resources.Get "css/menu.css")
                     | resources.Concat "assets/css/main.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $CSS.RelPermalink }}" media="all">
 

@@ -17,6 +17,10 @@
       </div>
 
 
-
+    {{- $JS := slice
+    (resources.Get "js/vendor/modernizr-3.11.2.min.js")
+    (resources.Get "js/main.js")
+    | resources.Concat "assets/js/main.js" | minify | fingerprint }}
+    <script src="{{ $JS.RelPermalink }}"></script>
   </body>
 </html>

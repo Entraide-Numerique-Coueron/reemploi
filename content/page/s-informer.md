@@ -15,9 +15,7 @@ permet de communiquer à l'autre bout du monde, permet l'accès rapide à l'info
 Mais ce numérique a aussi de mauvais côtés. Nous souhaitons alerter sur ceux-ci d'en limiter les impacts sociaux et environnementaux.
 
 Impacts sociaux :
-* [Fracture numérique](/page/fracture-numérique/)
-* Fabrication
-* Gestion des DEEE (Déchets d'Équipements Électriques et Électroniques)
+* [Les impacts sociaux du numérique](/page/les-impacts-sociaux-du-num%C3%A9rique/)
 
 Impacts environnementaux :
 * [Les impacts environnementaux du numérique](/page/les-impacts-environnementaux-du-num%C3%A9rique/)

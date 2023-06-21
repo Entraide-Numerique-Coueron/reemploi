@@ -2,6 +2,7 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 /* https://coolors.co/562c2c-f2542d-f5dfbb-0e9594-127475 */
@@ -143,9 +144,7 @@ a.button-calltoaction {
 .home-menu {
     background: #0E9594;
 }
-.first-header-menu {
-    background: #fff;
-}
+
 .pure-menu.pure-menu-fixed {
     /* Fixed menus normally have a border at the bottom. */
     border-bottom: none;
