@@ -155,7 +155,8 @@ a.button-calltoaction {
 .home-menu .pure-menu-heading {
     color: #F5DFBB;
     font-weight: 400;
-    font-size: 120%;
+    font-size: 90%;
+    line-height: 50px;
 }
 
 .home-menu .pure-menu-selected a {
@@ -260,6 +261,9 @@ a.button-calltoaction {
     }
     .home-menu ul {
         float: right;
+    }
+    .home-menu .pure-menu-heading {
+        font-size: 120%;
     }
 }
 
