@@ -26,9 +26,10 @@ bloc2:
 
     Nos actions :
 
+
     * Une fois par mois, nous tenons une permanence dans les locaux du Centre Pierre Legendre afin d'aider dans les usages.
 
-    *﻿ Nous donnons du matériel de seconde main suite à des collectes.
+    * Nous donnons du matériel de seconde main suite à des collectes.
   lien_1: /page/fracture-numérique/
   libelle_lien_1: Découvrir les enjeux
   lien_2: /page/fracture-numérique/
@@ -52,7 +53,8 @@ bloc3:
 
     Nos actions : 
 
-    * Réparer et réemployer vos équipements numériques afin d'allonger leur durée de vie.
 
-    *﻿ Donner des conseils pour s'équiper durablement.
+    * Réparer et réemployer vos équipements numériques afin d'allonger leur durée de vie
+
+    * Donner des conseils pour s'équiper durablement.
 ---
