@@ -21,12 +21,14 @@ bloc2:
     La fracture numérique d'accès concerne les personnes qui n'ont pas l'équipement numérique adéquate, ou des difficultés de connexions (zone blanche).  
 
 
-    La fracture numérique accroit d'autres fractures : accès à l'emploi, à la formation, aux soins. Et créé de l'exclusion.
+    La fracture numérique accroit d'autres fractures : accès à l'emploi, à la formation, aux soins; et créé de l'exclusion.
 
 
     Nos actions :
 
-    Une fois par mois, nous tenons une permanence dans les locaux du Centre Pierre Legendre.
+    * Une fois par mois, nous tenons une permanence dans les locaux du Centre Pierre Legendre afin d'aider dans les usages.
+
+    *﻿ Nous donnons du matériel de seconde main suite à des collectes.
   lien_1: /page/fracture-numérique/
   libelle_lien_1: Découvrir les enjeux
   lien_2: /page/fracture-numérique/
@@ -48,5 +50,9 @@ bloc3:
     L’essentiel des impacts du numériques réside dans les milliards d’objets numériques la planète : nos TV, smartphones, ordinateurs, console de jeux, robots de cuisine etc…
 
 
-    Nos actions : réparer et réemployer vos équipements numériques.
+    Nos actions : 
+
+    * Réparer et réemployer vos équipements numériques afin d'allonger leur durée de vie.
+
+    *﻿ Donner des conseils pour s'équiper durablement.
 ---
