@@ -1,77 +1,33 @@
 {{ define "main-wrapper" }}
 
+<article>
+    {{ .Params.body }}
+</article>
+
+<article>
+    {{ .Content }}
+</article>
+
+
+
+
 <div class="dark-ribbon">
     <div class="content">
         {{ partial "intro" .Params.bloc1}}
     </div>
 </div>
 
-<div>
-    <div class="pure-g ">
-
-        <h2 class="pure-u-1 pure-u-lg-1 is-center">{{.Params.bloc2_heading}}</h2>
-
-        <div class="pure-u-1 pure-u-lg-1-3 is-center">
-            <img src="/img/fracture_numerique1.jpg" alt="Fracture numérique - personne perdue sur le site des impôts" />
-        </div>
-
-        <div class="pure-u-1 pure-u-sm-2-3">
-            <p class="is-justify">
-                {{.Params.bloc2_text2}}
-            </p>
-            <br/>
-            <div class="is-center">
-                {{ if and .Params.bloc2_lien_1 .Params.bloc2_libelle_lien_1 }}
-                <a href="{{ .Params.bloc2_lien_1 }}" class="button-calltoaction pure-button">
-                    {{.Params.bloc2_libelle_lien_1}}
-                </a>
-                {{ end }}
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                {{ if and .Params.bloc2_lien_2 .Params.bloc2_libelle_lien_2 }}
-                <a href="{{ .Params.bloc2_lien_2 }}" class="button-calltoaction pure-button">
-                    {{.Params.bloc2_libelle_lien_2}}
-                </a>
-                {{ end }}
-            </div>
-
-        </div>
-
-
+<div class="light-ribbon">
+    <div class="content">
+        {{ partial "short-text-imgonleft" .Params.bloc2}}
     </div>
 </div>
 
-<div>
-    <div class="pure-g ">
-
-        <h2 class="pure-u-1 pure-u-lg-1 is-center">{{.Params.bloc3_heading}}</h2>
-
-        <div class="pure-u-1 pure-u-sm-2-3">
-            <p class="is-justify">
-                {{.Params.bloc3_text2}}
-            </p>
-            <br/>
-            <div class="is-center">
-                {{ if and .Params.bloc3_lien_1 .Params.bloc3_libelle_lien_1 }}
-                <a href="{{ .Params.bloc3_lien_1 }}" class="button-calltoaction pure-button">
-                    {{.Params.bloc3_libelle_lien_1}}
-                </a>
-                {{ end }}
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                {{ if and .Params.bloc3_lien_2 .Params.bloc3_libelle_lien_2 }}
-                <a href="{{ .Params.bloc3_lien_2 }}" class="button-calltoaction pure-button">
-                    {{.Params.bloc3_libelle_lien_2}}
-                </a>
-                {{ end }}
-            </div>
-
-        </div>
-
-        <div class="pure-u-1 pure-u-lg-1-3 is-center">
-            <img src="/img/extraction.jpg" alt="Réparation lors du Bidouille Café" />
-        </div>
-
-
+<div class="dark-ribbon">
+    <div class="content">
+        {{ partial "short-text-imgonright2" .Params.bloc3}}
     </div>
 </div>
+
 
 {{ end }}
