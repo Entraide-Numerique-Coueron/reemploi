@@ -3,6 +3,24 @@ title: Accueil
 menu:
   - main
 weight: -1
+content: >-
+  BBBBB
+
+
+
+  * Lorsque ces difficultés deviennent préjudiciables (démarche en ligne) on parle alors de fracture numérique d'usage.
+
+
+  * La fracture numérique d'accès concerne les personnes qui n'ont pas l'équipement numérique adéquate, ou des difficultés de connexions (zone blanche).  
+
+
+
+  La fracture numérique accroit d'autres fractures : accès à l'emploi, à la formation, aux soins. Et créé de l'exclusion.
+
+
+  Nos actions :
+
+  Une fois par mois, nous tenons une permanence dans les locaux du Centre Pierre Legendre.
 heading1: Collectif d'entraide numérique à Couëron
 text1: Nous œuvrons pour un numérique plus inclusif, aidons les personnes en
   difficulté face au numérique et agissons pour réduire les impacts
