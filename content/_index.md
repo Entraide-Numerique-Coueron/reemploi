@@ -16,11 +16,18 @@ bloc2:
     1 français sur 5 est démuni face à l'usage d'Internet (Source : INSEE).
 
 
+
+
     L'illectronisme désigne la difficulté à utiliser les appareils numériques en raison d'un manque de connaissance à propos de leur fonctionnement.
 
-    Lorsque ces difficultés deviennent préjudiciables (démarche en ligne) on parle alors de fracture numérique d'usage.
 
-    La fracture numérique d'accès concerne les personnes qui n'ont pas l'équipement numérique adéquate, ou des difficultés de connexions (zone blanche).
+
+    * Lorsque ces difficultés deviennent préjudiciables (démarche en ligne) on parle alors de fracture numérique d'usage.
+
+
+    * La fracture numérique d'accès concerne les personnes qui n'ont pas l'équipement numérique adéquate, ou des difficultés de connexions (zone blanche).  
+
+
 
     La fracture numérique accroit d'autres fractures : accès à l'emploi, à la formation, aux soins. Et créé de l'exclusion.
 
@@ -40,10 +47,16 @@ bloc3:
     climatique.
 
 
+
+
     L﻿e numérique est aussi gourmand en métaux, qu’il faut extraire puis purifier à l’aide de nombreux produits chimiques. Ces métaux, une fois qu’ils se retrouvent dans les circuits imprimés, sont difficilement récupérables et recyclables. Ils sont pourtant aussi nécessaire à d’autres secteurs d’activités importants, comme celui des énergies renouvelables nécessaire à la transition écologique. A terme, c’est s’exposer à des risques de pénuries.
 
 
+
+
     L’essentiel des impacts du numériques réside dans les milliards d’objets numériques la planète : nos TV, smartphones, ordinateurs, console de jeux, robots de cuisine etc…
+
+
 
 
     Nos actions : réparer et réemployer vos équipements numériques.
