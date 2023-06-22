@@ -7,7 +7,7 @@ bloc1:
   text: Nous œuvrons pour un numérique plus inclusif, aidons les personnes en
     difficulté face au numérique et agissons pour réduire les impacts
     environnementaux du numérique par la réparation et le réemploi.
-  heading: Collectif d'entraide numérique à Couëron
+  heading: Collectif d'entraide au numérique à Couëron
 bloc2:
   heading: Contre l'illectronisme et la fracture numérique
   body: >-
