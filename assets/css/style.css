@@ -58,6 +58,11 @@ a {
     color: #fff;
 }
 
+img {
+    width: 100%;
+    padding: 15px;
+}
+
 .img-circle {
     border-radius: 50%;
 }
