@@ -41,6 +41,7 @@ collections:
           - { label: 'Ordre dans le menu', name: 'weight', widget: "number" }
 
           - {label: "BODY", name: "body", widget: "markdown"}
+          - {label: "content", name: "content", widget: "markdown"}
 
           - {label: "Bloc 1 - Titre", name: "heading1", widget: string}
           - {label: "Bloc 1 - Text", name: "text1", widget: "markdown"}
