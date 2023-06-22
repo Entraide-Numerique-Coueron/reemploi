@@ -196,6 +196,11 @@ a.button-calltoaction {
     color: #fff;
 }
 
+.menu-footer {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 /*
  * -- CONTENT STYLES --
  * This represents the content area (everything below the blue section)
