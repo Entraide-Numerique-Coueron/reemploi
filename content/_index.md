@@ -133,11 +133,7 @@ bloc3_libelle_lien_1: Découvrir les enjeux
 description: Accueil
 bloc3_libelle_lien_2: Nos actions
 ---
-AAAA
-
-
-
-L'illectronisme désigne la difficulté à utiliser les appareils numériques en raison d'un manque de connaissance à propos de leur fonctionnement.
+AL'illectronisme désigne la difficulté à utiliser les appareils numériques en raison d'un manque de connaissance à propos de leur fonctionnement.AAA
 
 
 * Lorsque ces difficultés deviennent préjudiciables (démarche en ligne) on parle alors de fracture numérique d'usage.
