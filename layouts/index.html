@@ -9,7 +9,7 @@
 <div>
     <div class="pure-g ">
 
-        <h2 class="pure-u-1 pure-u-lg-1 is-center">{{.bloc2_heading}}</h2>
+        <h2 class="pure-u-1 pure-u-lg-1 is-center">{{.Params.Params.bloc2_heading}}</h2>
 
         <div class="pure-u-1 pure-u-lg-1-3 is-center">
             <img src="/img/fracture_numerique1.jpg" alt="Fracture numérique - personne perdue sur le site des impôts" />
@@ -17,19 +17,19 @@
 
         <div class="pure-u-1 pure-u-sm-2-3">
             <p class="is-justify">
-                {{.bloc2_text2}}
+                {{.Params.Params.bloc2_text2}}
             </p>
             <br/>
             <div class="is-center">
-                {{ if and .bloc2_lien_1 .bloc2_libelle_lien_1 }}
-                <a href="{{ .bloc2_lien_1 }}" class="button-calltoaction pure-button">
-                    {{.bloc2_libelle_lien_1}}
+                {{ if and .Params.Params.bloc2_lien_1 .Params.Params.bloc2_libelle_lien_1 }}
+                <a href="{{ .Params.Params.bloc2_lien_1 }}" class="button-calltoaction pure-button">
+                    {{.Params.Params.bloc2_libelle_lien_1}}
                 </a>
                 {{ end }}
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                {{ if and .bloc2_lien_2 .bloc2_libelle_lien_2 }}
-                <a href="{{ .bloc2_lien_2 }}" class="button-calltoaction pure-button">
-                    {{.bloc2_libelle_lien_2}}
+                {{ if and .Params.Params.bloc2_lien_2 .Params.Params.bloc2_libelle_lien_2 }}
+                <a href="{{ .Params.Params.bloc2_lien_2 }}" class="button-calltoaction pure-button">
+                    {{.Params.Params.bloc2_libelle_lien_2}}
                 </a>
                 {{ end }}
             </div>
@@ -43,23 +43,23 @@
 <div>
     <div class="pure-g ">
 
-        <h2 class="pure-u-1 pure-u-lg-1 is-center">{{.bloc3_heading}}</h2>
+        <h2 class="pure-u-1 pure-u-lg-1 is-center">{{.Params.bloc3_heading}}</h2>
 
         <div class="pure-u-1 pure-u-sm-2-3">
             <p class="is-justify">
-                {{.bloc3_text2}}
+                {{.Params.bloc3_text2}}
             </p>
             <br/>
             <div class="is-center">
-                {{ if and .bloc3_lien_1 .bloc3_libelle_lien_1 }}
-                <a href="{{ .bloc3_lien_1 }}" class="button-calltoaction pure-button">
-                    {{.bloc3_libelle_lien_1}}
+                {{ if and .Params.bloc3_lien_1 .Params.bloc3_libelle_lien_1 }}
+                <a href="{{ .Params.bloc3_lien_1 }}" class="button-calltoaction pure-button">
+                    {{.Params.bloc3_libelle_lien_1}}
                 </a>
                 {{ end }}
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                {{ if and .bloc3_lien_2 .bloc3_libelle_lien_2 }}
-                <a href="{{ .bloc3_lien_2 }}" class="button-calltoaction pure-button">
-                    {{.bloc3_libelle_lien_2}}
+                {{ if and .Params.bloc3_lien_2 .Params.bloc3_libelle_lien_2 }}
+                <a href="{{ .Params.bloc3_lien_2 }}" class="button-calltoaction pure-button">
+                    {{.Params.bloc3_libelle_lien_2}}
                 </a>
                 {{ end }}
             </div>
@@ -74,6 +74,7 @@
 
     </div>
 </div>
+
 
 
 
