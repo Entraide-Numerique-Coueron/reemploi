@@ -40,6 +40,8 @@ collections:
           - { label: 'Menu', name: 'menu', widget: "select", multiple: true, options: [ "main", "footer" ] }
           - { label: 'Ordre dans le menu', name: 'weight', widget: "number" }
 
+          - {label: "BODY", name: "body", widget: "markdown"}
+
           - {label: "Bloc 1 - Titre", name: "heading1", widget: string}
           - {label: "Bloc 1 - Text", name: "text1", widget: "markdown"}
 
