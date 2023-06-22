@@ -5,6 +5,29 @@ menu:
   - main
 weight: -1
 image: /img/image1-carre.jpg
+contenu: >-
+  1 français sur 5 est démuni face à l'usage d'Internet (Source : INSEE).
+
+
+
+
+  L'illectronisme désigne la difficulté à utiliser les appareils numériques en raison d'un manque de connaissance à propos de leur fonctionnement.
+
+
+
+  * Lorsque ces difficultés deviennent préjudiciables (démarche en ligne) on parle alors de fracture numérique d'usage.
+
+
+  * La fracture numérique d'accès concerne les personnes qui n'ont pas l'équipement numérique adéquate, ou des difficultés de connexions (zone blanche).  
+
+
+
+  La fracture numérique accroit d'autres fractures : accès à l'emploi, à la formation, aux soins. Et créé de l'exclusion.
+
+
+  Nos actions :
+
+  Une fois par mois, nous tenons une permanence dans les locaux du Centre Pierre Legendre.
 bloc1:
   heading: Collectif d'entraide numérique à Couëron
   text: Nous œuvrons pour un numérique plus inclusif, aidons les personnes en
@@ -66,3 +89,19 @@ bloc3:
   lien_1: /page/les-impacts-environnementaux-du-num%C3%A9rique/
 description: Accueil
 ---
+1 français sur 5 est démuni face à l'usage d'Internet (Source : INSEE).
+
+
+
+L'illectronisme désigne la difficulté à utiliser les appareils numériques en raison d'un manque de connaissance à propos de leur fonctionnement.
+
+
+* Lorsque ces difficultés deviennent préjudiciables (démarche en ligne) on parle alors de fracture numérique d'usage.
+
+* La fracture numérique d'accès concerne les personnes qui n'ont pas l'équipement numérique adéquate, ou des difficultés de connexions (zone blanche).  
+
+
+La fracture numérique accroit d'autres fractures : accès à l'emploi, à la formation, aux soins. Et créé de l'exclusion.
+
+Nos actions :
+Une fois par mois, nous tenons une permanence dans les locaux du Centre Pierre Legendre.
