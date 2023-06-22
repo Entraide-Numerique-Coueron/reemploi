@@ -3,8 +3,6 @@ title: Accueil
 menu:
   - main
 weight: -2
-image: /img/equipe_800px.jpg
-contenu: t﻿est
 bloc1:
   text: Nous œuvrons pour un numérique plus inclusif, aidons les personnes en
     difficulté face au numérique et agissons pour réduire les impacts

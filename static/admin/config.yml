@@ -39,8 +39,6 @@ collections:
           - { label: 'Titre', name: 'title', widget: 'string' }
           - { label: 'Menu', name: 'menu', widget: "select", multiple: true, options: [ "main", "footer" ] }
           - { label: 'Ordre dans le menu', name: 'weight', widget: "number" }
-          - {label: Image, name: image, widget: image}
-          - { label: 'Contenu', name: 'contenu', widget: 'markdown' }
           - {label: "Bloc 1", name: bloc1, widget: object, fields: [
             {label: "Heading", name: "heading", widget: string},
             {label: "Text", name: "text", widget: "markdown"}]}
