@@ -22,11 +22,10 @@ bloc2:
 
 
 
-    Lorsque ces difficultés deviennent préjudiciables (démarche en ligne) on parle alors de fracture numérique d'usage.
+    * Lorsque ces difficultés deviennent préjudiciables (démarche en ligne) on parle alors de fracture numérique d'usage.
 
 
-
-    La fracture numérique d'accès concerne les personnes qui n'ont pas l'équipement numérique adéquate, ou des difficultés de connexions (zone blanche).
+    * La fracture numérique d'accès concerne les personnes qui n'ont pas l'équipement numérique adéquate, ou des difficultés de connexions (zone blanche).  
 
 
 
