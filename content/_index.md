@@ -6,7 +6,7 @@ menu:
 weight: -1
 image: /img/image1-carre.jpg
 contenu: >-
-  1 français sur 5 est démuni face à l'usage d'Internet (Source : INSEE).
+  BBBB
 
 
 
@@ -89,7 +89,7 @@ bloc3:
   lien_1: /page/les-impacts-environnementaux-du-num%C3%A9rique/
 description: Accueil
 ---
-1 français sur 5 est démuni face à l'usage d'Internet (Source : INSEE).
+AAAA
 
 
 
