@@ -224,6 +224,17 @@ a.button-calltoaction {
     color: #000;
 }
 
+.flash-ribbon {
+    background: #F2542D;
+    color: #fff;
+}
+
+
+.flash-ribbon h2 {
+    color: #fff;
+}
+
+
 /* This is the class used for the footer */
 .footer {
     z-index: 3;
