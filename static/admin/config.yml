@@ -39,24 +39,20 @@ collections:
           - { label: 'Titre', name: 'title', widget: 'string' }
           - { label: 'Menu', name: 'menu', widget: "select", multiple: true, options: [ "main", "footer" ] }
           - { label: 'Ordre dans le menu', name: 'weight', widget: "number" }
-          - {label: Image, name: image, widget: image}
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-          - { label: 'Contenu', name: 'contenu', widget: 'markdown' }
-          - {label: "Bloc 1", name: bloc1, widget: object, fields: [
-            {label: "Heading", name: "heading", widget: string},
-            {label: "Text", name: "text", widget: "markdown"}]}
-          - {label: "Bloc 2", name: bloc2, widget: object, fields: [
-            {label: "Heading", name: "heading", widget: string},
-            {label: "Text", name: "text", widget: "markdown"},
-            { label: "Lien 1", name: "lien_1", widget: "string" },
-            { label: "Libellé lien 1", name: "libelle_lien_1", widget: "string" },
-            { label: "Lien 2", name: "lien_2", widget: "string" },
-            { label: "Libellé lien 2", name: "libelle_lien_2", widget: "string" }]}
-          - {label: "Bloc 3", name: "bloc3", widget: "object", fields: [
-            {label: "Heading", name: "heading", widget: string},
-            {label: "Text", name: "text", widget: "markdown"},
-            {label: "Lien 1", name: "lien_1", widget: "string"},
-            {label: "Libellé lien 1", name: "libelle_lien_1", widget: "string"},
-            {label: "Lien 2", name: "lien_2", widget: "string"},
-            {label: "Libellé lien 2", name: "libelle_lien_2", widget: "string"}
-          ]}
+
+          - {label: "Bloc 1 - Titre", name: "heading1", widget: string}
+          - {label: "Bloc 1 - Text", name: "text1", widget: "markdown"}
+
+          - { label: "Bloc 2 - Titre", name: "bloc2_heading", widget: string }
+          - { label: "Bloc 2 - Text", name: "bloc2_text2", widget: "markdown" }
+          - { label: "Bloc 2 - Lien 1", name: "bloc2_lien_1", widget: "string" }
+          - { label: "Bloc 2 - Libellé lien 1", name: "bloc2_libelle_lien_1", widget: "string" }
+          - { label: "Bloc 2 - Lien 2", name: "bloc2_lien_2", widget: "string" }
+          - { label: "Bloc 2 - Libellé lien 1", name: "bloc2_libelle_lien_2", widget: "string" }
+
+          - { label: "Bloc 3 - Titre", name: "bloc3_heading", widget: string }
+          - { label: "Bloc 3 - Text", name: "bloc3_text2", widget: "markdown" }
+          - { label: "Bloc 3 - Lien 1", name: "bloc3_lien_1", widget: "string" }
+          - { label: "Bloc 3 - Libellé lien 1", name: "bloc3_libelle_lien_1", widget: "string" }
+          - { label: "Bloc 3 - Lien 2", name: "bloc3_lien_2", widget: "string" }
+          - { label: "Bloc 3 - Libellé lien 1", name: "bloc3_libelle_lien_2", widget: "string" }
