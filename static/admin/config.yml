@@ -42,17 +42,17 @@ collections:
           - {label: Image, name: image, widget: image}
           - {label: "Bloc 1", name: bloc1, widget: object, fields: [
             {label: "Heading", name: "heading", widget: string},
-            {label: "Text", name: "text", widget: "text"}]}
+            {label: "Text", name: "text", widget: "markdown"}]}
           - {label: "Bloc 2", name: bloc2, widget: object, fields: [
             {label: "Heading", name: "heading", widget: string},
-            {label: "Text", name: "text", widget: "text"},
+            {label: "Text", name: "text", widget: "markdown"},
             { label: "Lien 1", name: "lien_1", widget: "string" },
             { label: "Libellé lien 1", name: "libelle_lien_1", widget: "string" },
             { label: "Lien 2", name: "lien_2", widget: "string" },
             { label: "Libellé lien 2", name: "libelle_lien_2", widget: "string" }]}
           - {label: "Bloc 3", name: "bloc3", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: string},
-            {label: "Text", name: "text", widget: "text"},
+            {label: "Text", name: "text", widget: "markdown"},
             {label: "Lien 1", name: "lien_1", widget: "string"},
             {label: "Libellé lien 1", name: "libelle_lien_1", widget: "string"},
             {label: "Lien 2", name: "lien_2", widget: "string"},
