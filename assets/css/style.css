@@ -134,6 +134,7 @@ a.pure-button-primary {
 a.button-calltoaction {
     background: #F2542D;
     color: #fff;
+    margin-bottom: 15px;
 }
 
 .button-small {
@@ -182,6 +183,11 @@ a.button-calltoaction {
     color: #F2542D;
 }
 
+.footer-menu {
+    display: block;
+    height: 100%;
+}
+
 .footer-menu ul {
     list-style-type: none;
 }
@@ -201,7 +207,7 @@ a.button-calltoaction {
     min-height: 100vh;
     z-index: 2;
     background: #fff;
-    padding-bottom: 40px;
+    padding-bottom: 70px;
 }
 
 /* We want to give the content area some more padding */

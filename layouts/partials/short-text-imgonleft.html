@@ -1,5 +1,5 @@
 <div>
-  <div class="pure-g ">
+  <div class="pure-g">
 
     <h2 class="pure-u-1 pure-u-lg-1 is-center">{{.heading}}</h2>
 
@@ -7,23 +7,28 @@
       <img src="/img/fracture_numerique1.jpg" alt="Fracture numérique - personne perdue sur le site des impôts" />
     </div>
 
-    <div class="pure-u-1 pure-u-sm-2-3">
+    <div class="pure-u-1 pure-u-lg-2-3">
       <p class="is-justify">
         {{.body | markdownify}}
       </p>
       <br/>
       <div class="is-center">
-        {{ if and .lien_1 .libelle_lien_1 }}
-        <a href="{{ .lien_1 }}" class="button-calltoaction pure-button">
-          {{.libelle_lien_1}}
-        </a>
-        {{ end }}
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        {{ if and .lien_2 .libelle_lien_2 }}
-        <a href="{{ .lien_2 }}" class="button-calltoaction pure-button">
-          {{.libelle_lien_2}}
-        </a>
-        {{ end }}
+        <div class="pure-g">
+          {{ if and .lien_1 .libelle_lien_1 }}
+            <div class="pure-u-1 pure-u-sm-1-2">
+              <a href="{{ .lien_1 }}" class="button-calltoaction pure-button">
+                {{.libelle_lien_1}}
+              </a>
+            </div>
+          {{ end }}
+          {{ if and .lien_2 .libelle_lien_2 }}
+            <div class="pure-u-1 pure-u-sm-1-2">
+              <a href="{{ .lien_2 }}" class="button-calltoaction pure-button">
+                {{.libelle_lien_2}}
+              </a>
+            </div>
+          {{ end }}
+        </div>
       </div>
 
     </div>
