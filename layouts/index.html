@@ -1,5 +1,14 @@
 {{ define "main-wrapper" }}
 
+<article>
+    {{ .Params.body }}
+</article>
+
+<article>
+    {{ .Content }}
+</article>
+
+
 <div class="dark-ribbon">
     <div class="content">
         {{ partial "intro" .Params.bloc1}}
@@ -18,12 +27,5 @@
     </div>
 </div>
 
-<article>
-    {{ .Params.body }}
-</article>
-
-<article>
-    {{ .Params.content }}
-</article>
 
 {{ end }}
