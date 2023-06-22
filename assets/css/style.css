@@ -63,6 +63,11 @@ img {
     padding: 15px;
 }
 
+.home img {
+    width: 100%;
+    padding: 15px;
+}
+
 .img-circle {
     border-radius: 50%;
 }
@@ -309,6 +314,7 @@ a.button-calltoaction {
     .home-menu .pure-menu-heading {
         font-size: 120%;
     }
+
 }
 
 .width100 {
