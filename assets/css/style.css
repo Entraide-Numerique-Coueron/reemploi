@@ -51,7 +51,7 @@ h3 {
 }
 
 a {
-    color: #F2542D;
+    color: #BF4E24;
 }
 
 .intro h1, .intro h2 {
@@ -142,7 +142,7 @@ a.pure-button-primary {
 }
 
 a.button-calltoaction {
-    background: #F2542D;
+    background: #BF4E24;
     color: #fff;
     margin-bottom: 15px;
 }
@@ -162,7 +162,7 @@ a.button-calltoaction {
     box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
 }
 .home-menu {
-    background: #0E9594;
+    background: #264653;
 }
 
 .pure-menu.pure-menu-fixed {
@@ -184,13 +184,13 @@ a.button-calltoaction {
 }
 
 .home-menu a {
- color: #fff;
+ color: #333;
 }
 .home-menu li a:hover,
 .home-menu li a:focus {
     background: none;
     border: none;
-    color: #F2542D;
+    color: #BF4E24;
 }
 
 .footer-menu {
@@ -262,7 +262,7 @@ a.button-calltoaction {
 }
 
 .flash-ribbon {
-    background: #F2542D;
+    background: #BF4E24;
     color: #fff;
 }
 
