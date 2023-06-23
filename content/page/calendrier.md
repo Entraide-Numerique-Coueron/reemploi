@@ -1,5 +1,8 @@
 ---
 title: Calendrier
+menu:
+  - main
+weight: 45
 description: Calendrier
 ---
 Nos permanences reprendront en septembre et les dates ne sont pas encore connues.
