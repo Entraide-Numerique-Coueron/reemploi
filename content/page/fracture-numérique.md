@@ -1,5 +1,8 @@
 ---
-title: Fracture numérique
-description: Fracture numérique
-
-De nombreux français se disent en difficulté face à Internet.
+title: Liens
+menu:
+  - main
+weight: 55
+description: Liens utiles
+---
+Association HOP
