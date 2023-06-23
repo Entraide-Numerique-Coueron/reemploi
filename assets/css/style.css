@@ -283,6 +283,10 @@ a.button-calltoaction {
     padding: 0;
 }
 
+.footer .pure-menu-link {
+    color: #444;
+}
+
 .footer li {
     display: inline-block;
 }
