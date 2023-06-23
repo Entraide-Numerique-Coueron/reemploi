@@ -16,4 +16,5 @@ C'est lors de la fabrication du matériel utilisateur (smartphone, ordinateur, t
 * En savoir plus sur le réchauffement climatique
 * En savoir plus sur les conséquences du réchauffement climatique
 * Que puis-je faire, tout secteur confondu ?
+* En savoir plus sur la place du numérique dans le réchauffement climatique
 * Que puis-je faire, dans mes usages numériques ?
