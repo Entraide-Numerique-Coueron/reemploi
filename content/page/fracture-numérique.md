@@ -1,8 +1,7 @@
 ---
-title: Liens
-menu:
-  - main
-weight: 55
-description: Liens utiles
+title: Fracture numérique
+menu: null
+weight: ""
+description: Fracture numérique
 ---
-Association HOP
+Fracture numérique

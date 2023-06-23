@@ -1,5 +1,5 @@
 ---
-title: Fracture numérique
+title: Travail des enfants
 description: Fracture numérique
 ---
 
