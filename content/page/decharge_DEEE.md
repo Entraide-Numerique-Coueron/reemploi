@@ -1,6 +1,6 @@
 ---
 title: Décharge DEEE
-description: Décharge DEEE
+description: La triste fin de vie des Déchets Electroniques
 ---
 
 Des réseaux criminels détournent les déchets électroniques des voies de recyclage en Europe pour les revendre en Afrique. 

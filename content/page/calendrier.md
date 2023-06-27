@@ -3,7 +3,7 @@ title: Calendrier
 menu:
   - main
 weight: 45
-description: Calendrier
+description: Evènements à venir.
 ---
 Nos permanences reprendront en septembre et les dates ne sont pas encore connues.
 

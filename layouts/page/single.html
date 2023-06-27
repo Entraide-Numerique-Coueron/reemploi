@@ -1,9 +1,16 @@
-{{ define "main" }}
+{{ define "main-wrapper" }}
 
-<h1>{{ .Title }}</h1>
+<div class="dark-ribbon">
+    <div class="content">
+        <h1>{{ .Title }}</h1>
+        <p class="description">{{ .Params.description }}</p>
+    </div>
+</div>
 
-<article>
-    {{ .Content }}
-</article>
+<main class="content">
+    <article>
+        {{ .Content }}
+    </article>
+</main>
 
 {{ end }}

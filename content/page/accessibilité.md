@@ -4,7 +4,7 @@ menu:
   - footer
 date: 2023-06-20T08:02:36.770Z
 weight: 20
-description: "Accessibilité "
+description: Un site Inernet accessible à toutes et tous
 ---
 U﻿ne très grande partie des sites Internet ne sont pas accessible aux personnes en situation de handicap. 
 

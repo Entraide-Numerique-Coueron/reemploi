@@ -4,7 +4,7 @@ menu:
   - footer
 date: 2023-06-20T08:02:36.770Z
 weight: 10
-description: Ecoconception
+description: Réduire les impacts environnementaux de ce site Internet
 ---
 C﻿e site Internet a été créé dans une démarche d'écoconception afin d'en réduire les impacts environnementaux.
 

@@ -2,6 +2,6 @@
 title: Fracture numérique
 menu: null
 weight: ""
-description: Fracture numérique
+description: Pour un numérique qui n'exclue personne
 ---
 Fracture numérique

@@ -6,7 +6,7 @@ menu:
   - main
 weight: 40
 date: 2023-06-20T08:15:56.230Z
-description: Couëron
+description: Autres acteurs sur Couëron et dans les environs.
 ---
   
 Nous ne sommes pas les seuls acteurs à Couëron et aux alentours à être acteur d'un numérique responsable ou à proposer une aide.

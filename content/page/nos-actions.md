@@ -6,7 +6,7 @@ menu:
   - main
 weight: 30
 date: 2023-06-20T08:15:56.230Z
-description: Nos actions
+description: Ce que nous faisons.
 ---
   
 Nous oeuvrons à l'echelle locale contre la fracture numérique :
