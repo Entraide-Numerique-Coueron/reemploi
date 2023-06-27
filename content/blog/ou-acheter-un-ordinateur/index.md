@@ -1,5 +1,5 @@
 ---
-title: Quel ordinateur portable acheter ?
+title: Quel ordinateur acheter ?
 date: 2023-06-19T15:37:13.013Z
 description: Tout ce qu'il faut savoir avant d'acheter un ordinateur portable.
 ---
