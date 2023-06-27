@@ -4,6 +4,7 @@ subtitle: Couëron
 text: Couëron
 menu:
   - main
+  - footer3
 weight: 40
 date: 2023-06-20T08:15:56.230Z
 description: Autres acteurs sur Couëron et dans les environs.

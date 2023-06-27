@@ -4,6 +4,7 @@ subtitle: S'informer
 text: S'informer
 menu:
   - main
+  - footer1
 weight: 20
 date: 2023-06-20T08:15:56.230Z
 description: S'informer

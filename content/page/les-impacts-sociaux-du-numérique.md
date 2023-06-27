@@ -1,6 +1,6 @@
 ---
-title: Les impacts sociaux du numérique
-menu:
+title: Les impacts sociaux
+menu: footer1
 weight:
 description: Les impacts sociaux du numérique
 ---

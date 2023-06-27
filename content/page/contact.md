@@ -4,6 +4,7 @@ subtitle: Contactez-nous
 text: Contactez nous ici
 menu:
   - main
+  - footer3
 weight: 60
 date: 2023-06-20T08:15:56.230Z
 description: Contact

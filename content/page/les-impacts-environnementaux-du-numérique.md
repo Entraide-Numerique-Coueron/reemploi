@@ -1,6 +1,6 @@
 ---
-title: Les impacts environnementaux du numérique
-menu:
+title: Les impacts environnementaux
+menu: footer1
 weight:
 description: Les impacts environnementaux du numérique
 ---

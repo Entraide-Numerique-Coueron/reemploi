@@ -1,7 +1,7 @@
 ---
 title: Ecoconception
 menu:
-  - footer
+   - bottomFooter
 date: 2023-06-20T08:02:36.770Z
 weight: 10
 description: Réduire les impacts environnementaux de ce site Internet
