@@ -1,6 +1,8 @@
 ---
 title: Pollution de l'eau
 description: Pollution de l'eau
+menu:
+- footer2
 ---
 Pour fabriquer le matériel numérique plusieurs milliers de litre d'eau vont être utilisées.
 

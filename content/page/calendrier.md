@@ -2,7 +2,7 @@
 title: Calendrier
 menu:
   - main
-  - footer2
+  - footer4
 weight: 45
 description: Evènements à venir.
 ---

@@ -1,8 +1,8 @@
 ---
 title: Les impacts sociaux
 menu: footer1
-weight:
-description: Les impacts sociaux du numérique
+weight: 1
+description: Les impacts sociaux du numérique, en France et ailleurs dans le monde
 ---
 Les impacts sociaux du numérique
 

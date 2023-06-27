@@ -1,6 +1,9 @@
 ---
 title: Réchauffement climatique
 description: Réchauffement climatique
+menu:
+- footer2
+weight: 10
 ---
 
 Le réchauffement climatique est l'augmentation de la température moyenne de la planète, provoqué par les émissions de gaz à effet de serre liées aux activités humaines.

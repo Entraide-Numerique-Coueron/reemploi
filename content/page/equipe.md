@@ -2,6 +2,7 @@
 title: Equipe
 menu:
   - main
+  - footer4
 weight: 50
 date: 2023-06-20T08:01:13.880Z
 description: Les bénévoles prêts à vous aider

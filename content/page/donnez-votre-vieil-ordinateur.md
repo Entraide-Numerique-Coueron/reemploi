@@ -1,5 +1,7 @@
 ---
-title: Donner votre vieil ordinateur
+title: Donnez votre vieil ordinateur
 description: Vous ne l'utilisez plus ? Donnez-le !
+menu:
+- footer3
 ---
-Donner votre vieil ordinateur : contactez nous
+Donnez votre vieil ordinateur : contactez nous

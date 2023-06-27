@@ -4,7 +4,7 @@ subtitle: Nos actions
 text: Nos actions
 menu:
   - main
-  - footer2
+  - footer3
 weight: 30
 date: 2023-06-20T08:15:56.230Z
 description: Ce que nous faisons.

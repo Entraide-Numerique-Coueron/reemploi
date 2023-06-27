@@ -1,6 +1,8 @@
 ---
 title: Passez votre ordinateur à Linux
 description: Linux, un atout pour la longévité de votre ordinateur
+menu:
+- footer3
 ---
 Passez votre ordinateur à Linux lors d'une de nos permances ou au Bidouille Café.
 

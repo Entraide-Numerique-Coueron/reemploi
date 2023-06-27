@@ -1,6 +1,8 @@
 ---
 title: Travail des enfants
 description: Fracture numérique
+menu:
+- footer1
 ---
 
 Des enfants sont exploités dans les mines d'Afrique ou d'Asie pour extraire les métaux utilisés dans les appareils électronques.

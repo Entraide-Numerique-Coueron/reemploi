@@ -1,7 +1,8 @@
 ---
 title: Fracture numérique
-menu: null
-weight: ""
+menu:
+- footer1
+weight: 10
 description: Pour un numérique qui n'exclue personne
 ---
 Depuis 2022, il est prévu la dématérialisation à 100% des services publics. De plus durant la pandémie de Covid 19 l'usage d'Internet est devenu incontournable.
