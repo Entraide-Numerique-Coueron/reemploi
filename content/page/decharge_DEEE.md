@@ -8,3 +8,6 @@ menu:
 Des réseaux criminels détournent les déchets électroniques des voies de recyclage en Europe pour les revendre en Afrique. 
 
 Si les appareils fonctionnant encore sont revendus et réutilisés, la plupart finissent dans des décharges où des enfants sont chargés de récupérer les métaux en brulant le matériel.
+Les produits toxiques contenus dans ces déchets sont alors relâchés dans la nature qui s'écoulent et empoissonnement l'eau. Des malformations chez les nouveaux nées sont observés dans les lieux environnants.
+
+
