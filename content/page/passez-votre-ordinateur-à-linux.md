@@ -13,4 +13,4 @@ I﻿l est aussi possible de faire appareil à un professionnel du Couëron.
 
 Linux c'est un système d'exploitation, c'est à dire le sytème qui sert à faire fonctionner votre ordinateur. C'est un concurrent de Windows ou MacOs.
 
-La grande diffé
+La grande différence 

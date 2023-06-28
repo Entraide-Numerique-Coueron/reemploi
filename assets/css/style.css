@@ -271,11 +271,9 @@ a.button-calltoaction {
     color: #fff;
 }
 
-
-.flash-ribbon h2 {
+.flash-ribbon h2, .flash-ribbon a {
     color: #fff;
 }
-
 
 /* This is the class used for the footer */
 .footer {
@@ -284,7 +282,7 @@ a.button-calltoaction {
     background: #ececec;
     width: 100%;
     position: absolute;
-    bottom: 0;
+    bottom: -60px;
     padding: 0;
 }
 
@@ -324,6 +322,13 @@ a.button-calltoaction {
         font-size: 120%;
     }
 
+}
+
+@media (min-width: 36em) {
+
+    .footer {
+        bottom: 0;
+    }
 }
 
 .width100 {
