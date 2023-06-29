@@ -8,3 +8,8 @@ title = "Entraide numérique Couëron"
     name = "Blog"
     url = "/blog"
     weight = 10
+  [[menu.main]]
+    identifier = "materiel"
+    name = "Matériel"
+    url = "/materiel"
+    weight = 45
