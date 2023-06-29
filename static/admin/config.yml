@@ -76,3 +76,15 @@ collections:
             {label: "Lien 2", name: "lien_2", widget: "string"},
             {label: "Libellé lien 2", name: "libelle_lien_2", widget: "string"}
           ]}
+  - name: 'materiel'
+    label: 'materiel'
+    folder: 'content/materiel'
+    path: '{{slug}}/index'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: Image, name: imageUrl, widget: image }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown' }
