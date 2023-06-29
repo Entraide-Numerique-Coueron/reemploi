@@ -45,9 +45,9 @@ collections:
         name: contenu
         widget: list
         fields:
-          - { label: Titre, name: heading, widget: string }
-          - { label: Texte, name: text, widget: markdown }
-          - { label: Image, name: imageUrl, widget: image }
+          - { label: Titre, name: heading, widget: string, required: false }
+          - { label: Texte, name: text, widget: markdown, required: false }
+          - { label: Image, name: imageUrl, widget: image, required: false }
   - name: "pagescustom"
     label: "Pages personnalisées"
     files:
