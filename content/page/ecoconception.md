@@ -49,7 +49,16 @@ Côté Javascript la librairie [Modernizr](https://modernizr.com/) est utilisée
 
 Ces librairies ont été choisies pour leur minimalisme et leur légèreté. Les fichiers CSS et Javacript sont combinés et minimifiés.
 
-### Validation de la démarche avec L'EcoIndex
+### Référentiels
+
+* [115 bonnes pratiques de GreenIt](https://github.com/cnumr/best-practices)
+* [GR491, Le guide de Référence de Conception Responsable de Services Numériques](8https://gr491.isit-europe.org/)
+* [Guide d'écoconception de services numériques](https://eco-conception.designersethiques.org/guide/fr/)
+* [Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
+
+### Validation de la démarche
+
+#### Avec l' EcoIndex
 
 La page d'accueil du site Internet (qui est la plus grosse page du site) a été testé sur ecoindex.fr
 
@@ -66,3 +75,7 @@ La page reste pour autant pratique et élégante.
 Cliquez ici pour voir le [détails des résultats de la page d'accueil avec l'EcoIndex de juin 2023](https://www.ecoindex.fr/resultat/?id=49dc1979-c3d1-4f7e-993c-39da35ac3407).
 
 ![EcoIndex de la page](/img/eco_index.jpg "EcoIndex de la page")
+
+#### Sur le site Kastor
+
+La page d'accueil a une note de 93/100.
