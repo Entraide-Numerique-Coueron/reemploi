@@ -46,9 +46,9 @@ bloc3:
     climatique.
 
 
-    L﻿e numérique est aussi gourmand en métaux, qu’il faut extraire puis purifier à l’aide de nombreux produits chimiques. Ces métaux, une fois qu’ils se retrouvent dans les circuits imprimés, sont difficilement récupérables et recyclables. Ils sont pourtant aussi nécessaire à d’autres secteurs d’activités importants, comme celui des énergies renouvelables nécessaire à la transition écologique. A terme, c’est s’exposer à des risques de pénuries.
+    L﻿e numérique est aussi gourmand en métaux, qu’il faut extraire puis raffiner à l’aide de nombreux produits chimiques. Ces métaux, une fois qu’ils se retrouvent dans les circuits imprimés, sont difficilement récupérables et recyclables. Ils sont pourtant aussi nécessaire à d’autres secteurs d’activités importants, comme celui des énergies renouvelables indispensable à la transition écologique. A terme, c’est s’exposer à des risques de pénuries.
 
-    L’essentiel des impacts du numériques réside dans les milliards d’objets numériques la planète : nos TV, smartphones, ordinateurs, console de jeux, robots de cuisine etc…
+    L’essentiel des impacts du numériques réside dans les milliards d’objets numériques que nous avons fait fabriquer : nos TV, smartphones, ordinateurs, console de jeux, robots de cuisine, tous les objets connectés etc…
 
 
     Nos actions : 
