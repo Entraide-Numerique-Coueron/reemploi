@@ -26,7 +26,8 @@ Lorsqu'un smartphone de quelques années qui fonctionne toujours, rencontre des 
 
 ### Compatibilité maximale
 
-Ce site Internet a été pensé pour fonctionner correctement et rapidement sur un maximum de matériel. Il a été testé sur iPhone 6 et Android 4.4.
+Ce site Internet a été pensé pour fonctionner correctement et rapidement sur un maximum de matériel.
+Il a été testé sur iPhone 6 et Android 4.4, qui ne disposent plus des dernières mises à jour de leurs navigateurs et dont les résolutions d'écran sont petites.
 
 ### Sobriété
 
