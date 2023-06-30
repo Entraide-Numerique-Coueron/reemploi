@@ -30,9 +30,10 @@
 }
 
 .custom-wrapper.open {
-  min-height: 100vh;
+  height: 1000px;
   line-height: 14px;
   padding-right: 0px;
+  overflow: scroll;
 }
 
 .custom-wrapper.open .pure-menu {
@@ -49,9 +50,9 @@
   width: 100%;
   display: block;
   padding: 15px 15px 15px 15px;
-  line-height: 24px;
+  line-height: 20px;
   height: 60px;
-  font-size: 24px;
+  font-size: 20px;
   margin: 0;
 }
 
