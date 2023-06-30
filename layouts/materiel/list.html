@@ -1,23 +1,39 @@
-{{ define "main" }}
+{{ define "main-wrapper" }}
 
-    <h1>{{ .Title }}</h1>
+<div class="dark-ribbon">
+    <div class="content">
+        <h1>{{ .Title }}</h1>
+        <p class="description">{{ .Params.description }}</p>
+    </div>
+</div>
+
+<main class="content">
 
     {{ .Content }}
 
-    {{ range.Data.Pages }}
-    <article class="post-snippet">
-        <h3>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </h3>
+    <div class="content materiel-list pure-g">
 
-        {{ if .Params.imageUrl }}
-            {{ with .Resources.GetMatch .Params.imageUrl }}
-                <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
-            {{ end }}
+
+        {{ range.Data.Pages }}
+            <article class="post-snippet pure-u-1 pure-u-md-1-2">
+                <h3>
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h3>
+                {{ if .Params.imageUrl }}
+                    {{ $image := .Resources.GetMatch .Params.imageUrl }}
+                    {{ $image := $image.Fit "300x300" }}
+
+                    {{ with $image }}
+                        <img src="{{ $image.RelPermalink }}" title="{{ .Title }}" />
+                    {{ end }}
+                {{ end }}
+
+                <p class="description">{{ .Params.description }}</p>
+            </article>
         {{ end }}
 
-        <p class="description">{{ .Params.description }}</p>
-    </article>
-    {{ end }}
+    </div>
+
+</main>
 
 {{ end }}

@@ -1,10 +1,20 @@
-{{ define "main" }}
+{{ define "main-wrapper" }}
 
-<h1>{{ .Title }}</h1>
-<p class="date">{{ .Date }}</p>
-<p class="description">{{ .Params.description }}</p>
-<article class="content">
-    {{ .Content }}
-</article>
+<div class="dark-ribbon">
+    <div class="content">
+        <h1>{{ .Title }}</h1>
+        <p class="description">{{ .Params.description }}</p>
+    </div>
+</div>
+
+<main class="content">
+
+    <p class="date">{{ .Date }}</p>
+
+    <article class="content">
+        {{ .Content }}
+    </article>
+
+</main>
 
 {{ end }}

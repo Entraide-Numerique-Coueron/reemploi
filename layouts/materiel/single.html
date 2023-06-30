@@ -1,9 +1,26 @@
-{{ define "main" }}
+{{ define "main-wrapper" }}
 
-<h1>{{ .Title }}</h1>
-test
-<article>
-    {{ .Content }}
-</article>
+<div class="dark-ribbon">
+    <div class="content">
+        <h1>{{ .Title }}</h1>
+        <p class="description">{{ .Params.description }}</p>
+    </div>
+</div>
+
+<main class="content">
+
+    {{ if .Params.imageUrl }}
+    {{ $image := .Resources.GetMatch .Params.imageUrl }}
+
+    {{ with $image }}
+    <img src="{{ $image.RelPermalink }}" title="{{ .Title }}" />
+    {{ end }}
+    {{ end }}
+
+    <article class="content">
+        {{ .Content }}
+    </article>
+
+</main>
 
 {{ end }}
