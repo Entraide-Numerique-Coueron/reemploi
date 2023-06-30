@@ -9,7 +9,13 @@
         <h3>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </h3>
-        <img src="{{ .Params.imageUrl }}" />
+
+        {{ if .Params.imageUrl }}
+            {{ with .Resources.GetMatch .Params.imageUrl }}
+                <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+            {{ end }}
+        {{ end }}
+
         <p class="description">{{ .Params.description }}</p>
     </article>
     {{ end }}
