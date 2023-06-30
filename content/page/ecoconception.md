@@ -62,6 +62,6 @@ En effet l'EcoIndex confirme que la page :
 
 La page reste pour autant pratique et élégante.
 
-Cliquez ici pour voir le [détails des résultat de la page d'accueil avec l'EcoIndex de juin 2023](https://www.ecoindex.fr/resultat/?id=49dc1979-c3d1-4f7e-993c-39da35ac3407).
+Cliquez ici pour voir le [détails des résultats de la page d'accueil avec l'EcoIndex de juin 2023](https://www.ecoindex.fr/resultat/?id=49dc1979-c3d1-4f7e-993c-39da35ac3407).
 
 ![EcoIndex de la page](/img/eco_index.jpg "EcoIndex de la page")
