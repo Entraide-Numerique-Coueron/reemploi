@@ -26,11 +26,17 @@ Lorsqu'un smartphone de quelques années qui fonctionne toujours, rencontre des 
 
 ### Compatibilité maximale
 
-Ce site Internet a été pensé pour fonctionner correctement et rapidement sur un maximum de matériel.
+Ce site Internet a été pensé pour fonctionner correctement et rapidement sur un maximum de matériel. Il a été testé sur iPhone 6 et Android 4.4.
 
 ### Sobriété
 
 C﻿e site Internet a été conçu de sorte que la navigation sur celui-ci consomme le moins d'énergie possible, en limitant les calculs et en évitant de trop solliciter le réseau Internet.
+Peu ou pas de vidéos, images optimisées, sobriété éditoriale.
+
+### Impression
+
+Imprimer une page Internet va utiliser du papier et de l'encre, qui est un produit polluant.
+Le site a été optimisé pour réduire la consommation de papier et d'encre en cas d'impression. 
 
 ### Technique
 
@@ -39,3 +45,21 @@ P﻿our ce faire un générateur de site statique a été utilisé ([Hugo](https
 Les librairies CSS utilisées sont : [HTML5Boilerplate](https://html5boilerplate.com/) et [PureCss](https://purecss.io/), qui lui même embarque [Normalize.css](http://necolas.github.io/normalize.css/) et permet de faciliter le fait d'avoir un rendu identique sur les différents navigateurs.
 
 Côté Javascript la librairie [Modernizr](https://modernizr.com/) est utilisée à nouveau pour harmoniser l'affichage entre les différents navigateurs.
+
+Ces librairies ont été choisies pour leur minimalisme et leur légèreté. Les fichiers CSS et Javacript sont combinés et minimifiés.
+
+### Validation de la démarche avec L'EcoIndex
+
+La page d'accueil du site Internet (qui est la plus grosse page du site) a été testé sur ecoindex.fr
+
+En juin 2023, la page a un score de 82/100 ce qui lui accorde la meilleure note : "A" !
+
+En effet l'EcoIndex confirme que la page :
+* est légère (grâce aux images optimisés)
+* simple (grâce à un visuel simple, non surchargé)
+* effectue peu de requête HTTP (charge à un nombre d'image et d'éléments rédduits)
+
+La page reste pour autant pratique et élégante.
+
+Cliquez ici pour voir le [détails des résultat de la page d'accueil avec l'EcoIndex de juin 2023](https://www.ecoindex.fr/resultat/?id=49dc1979-c3d1-4f7e-993c-39da35ac3407).
+

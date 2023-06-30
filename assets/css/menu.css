@@ -30,7 +30,7 @@
 }
 
 .custom-wrapper.open {
-  height: 100%;
+  min-height: 100vh;
   line-height: 14px;
   padding-right: 0px;
 }
