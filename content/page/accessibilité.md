@@ -25,3 +25,5 @@ L'outil "Google Lighthouse" permet d'automatiser une partie des vérifications.
 Il faut toutefois compléter avec des contrôles manuels.
 
 Google Lighthouse donne un résultat de 100/100 pour la page d'accueil de ce site.
+
+![Résultat de Google Lighthouse](/img/accessibilite.jpg "Résultat de Google Lighthouse")
