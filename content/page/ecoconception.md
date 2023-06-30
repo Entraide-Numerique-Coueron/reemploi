@@ -1,7 +1,7 @@
 ---
 title: Ecoconception
 menu:
-   - bottomFooter
+  - bottomFooter
 date: 2023-06-20T08:02:36.770Z
 weight: 10
 description: Réduire les impacts environnementaux de ce site Internet
@@ -55,6 +55,7 @@ La page d'accueil du site Internet (qui est la plus grosse page du site) a été
 En juin 2023, la page a un score de 82/100 ce qui lui accorde la meilleure note : "A" !
 
 En effet l'EcoIndex confirme que la page :
+
 * est légère (grâce aux images optimisés)
 * simple (grâce à un visuel simple, non surchargé)
 * effectue peu de requête HTTP (charge à un nombre d'image et d'éléments rédduits)
@@ -63,3 +64,4 @@ La page reste pour autant pratique et élégante.
 
 Cliquez ici pour voir le [détails des résultat de la page d'accueil avec l'EcoIndex de juin 2023](https://www.ecoindex.fr/resultat/?id=49dc1979-c3d1-4f7e-993c-39da35ac3407).
 
+![EcoIndex de la page](/img/eco_index.jpg "EcoIndex de la page")
