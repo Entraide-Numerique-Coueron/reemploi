@@ -156,6 +156,14 @@ a.button-calltoaction {
     font-size: 85%;
 }
 
+img.logo {
+    width:32px;
+    height:32px;
+    margin:0;
+    padding:0;
+    display: none;
+}
+
 /*
  * -- MENU STYLES --
  * I want to customize how my .pure-menu looks at the top of the page
@@ -327,6 +335,10 @@ a.button-calltoaction {
 @media (min-width: 36em) {
     .footer {
         bottom: 0;
+    }
+
+    img.logo {
+        display: inline-block;
     }
 }
 
