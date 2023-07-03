@@ -13,4 +13,20 @@
     </article>
 </main>
 
+<form name="contact" method="POST" data-netlify="true">
+    <p>
+        <label>Votre nom : <input type="text" name="name" /></label>
+    </p>
+    <p>
+        <label>Votre email : <input type="email" name="email" /></label>
+    </p>
+    <p>
+        <label>Message: <textarea name="message" cols="50" rows="25"></textarea></label>
+    </p>
+    <p>
+        <input type="hidden" name="form-name" value="contact">
+        <button type="submit">Envoyer</button>
+    </p>
+</form>
+
 {{ end }}
