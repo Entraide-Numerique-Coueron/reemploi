@@ -7,6 +7,8 @@ menu:
 
 Pour fabriquer un ordinateur portable de 2Kg, il faut 800Kg de matière première, dont 600Kg de minéraux.
 
+![Sac à dos écologique](/img/sac_a_dos_ecologique_ordinateur.jpg "Sac à dos écologique")
+
 La demande en métaux va prochainement dépasser les capacités de productions.
 La fabrication de nouveaux matériels sera plus difficile, mais aussi la réparation et l'entretien des infrastructures existantes, mettant en péril nos réseaux et systèmes informatiques.
 
