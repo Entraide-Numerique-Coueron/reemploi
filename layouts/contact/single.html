@@ -1,0 +1,33 @@
+{{ define "main-wrapper" }}
+
+<div class="dark-ribbon">
+    <div class="content">
+        <h1>{{ .Title }}</h1>
+        <p class="description">{{ .Params.description }}</p>
+    </div>
+</div>
+
+<main class="content">
+    <article>
+        {{ .Content }}
+    </article>
+
+
+    <form name="contact" method="POST" data-netlify="true">
+        <p>
+            <label>Votre nom : <input type="text" name="name" /></label>
+        </p>
+        <p>
+            <label>Votre email : <input type="email" name="email" /></label>
+        </p>
+        <p>
+            <label>Message: <textarea name="message" cols="100" rows="25"></textarea></label>
+        </p>
+        <p>
+            <input type="hidden" name="form-name" value="contact">
+            <button type="submit">Envoyer</button>
+        </p>
+    </form>
+</main>
+
+{{ end }}
