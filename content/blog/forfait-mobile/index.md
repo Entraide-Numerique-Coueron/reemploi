@@ -30,6 +30,13 @@ Une alternative est de télécharger à l'avance, quand vous avez du Wifi, votre
 Par exemple pour la musique, vous pouvez télécharger sur votre application (exemple sur Deezer) vos chansons préférées lorsque vous avez du Wifi.
 Ensuite à chaque écoute d'une musique déjà téléchargées aucune donnée mobiles ne sera utilisées.
 
+### N'oubliez pas : ce que a le plus d'impact c'est le matériel
+
+80% des impacts de votre smartphone se produisent lors de sa fabrication, les 20% restants c'est les usages que vous en ferez.
+
+Ne prennez donc pas de forfait qui vous incite à changer/acheter un nouveau smartphone, cela aurait bien plus d'impact que vos efforts pour éviter de regarder des vidéos en 4G.
+Fuyez les forfaits avec des smartphones à tarifs réduits. Privilégiez un achat de samrtphone reconditionné, et uniquement quand vous en aurez vraiment besoin.
+
 ## Les forfaits
 
 ### Telecoop : le forfait le plus éthique
