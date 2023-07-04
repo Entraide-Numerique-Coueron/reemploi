@@ -16,11 +16,18 @@ weight: 80
 
 # Numérique responsable
 
+* [La fresque du numérique](https://www.fresquedunumerique.org/)
 * [Association HOP "Halte à l'Obsolecence programmée"](https://www.halteobsolescence.org/)
 * [GreenIt](https://www.greenit.fr/)
+* [Le Bon Digital](https://lebondigital.com/)
 * [April](https://www.april.org/)
-* [La fresque du numérique](https://www.fresquedunumerique.org/)
+* [Société numérique](https://societenumerique.gouv.fr/fr/)
 
 # Ecologie
 
 * [La fresque du climat](https://fresqueduclimat.org/)
+
+# Podcast numérique responsable
+
+* [L'Octet Vert](https://deezer.page.link/q2GP2aTSU37MHmym7)
+* [Techologie](https://deezer.page.link/xEWVqQ3sDjVeVDF97)

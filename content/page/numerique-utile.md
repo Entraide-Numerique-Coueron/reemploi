@@ -13,17 +13,21 @@ mais aussi de réduire les impacts négatifs d'autres secteurs d'activités.
 
 Sur cette page nous lisons quelques outils ou sites que nous trouvons utiles.
 
-# Consommer moins et mieux
+# Consommer MOINS et mieux
 
-* [Défi Rien de neuf](https://riendeneuf.org/)
-* [Moral score](https://moralscore.org/)
+Consommer responsable c'est avant tout consommer moins.
+
+* [Défi Rien de neuf](https://riendeneuf.org/) - Un défi et toutes les ressources pour éviter d'acheter neuf
+* [Produits durables](https://www.produitsdurables.fr/) - Site pour trouver des produits qui durent dans le temps
+* [Moral score](https://moralscore.org/) - Site permettant de trouver des entreprises en accord avec vos valeurs morales
 
 # Ecologie
 
-* [Nos gestes climat](https://nosgestesclimat.fr/?lang=fr)
-* [Impact CO2.fr](https://impactco2.fr/)
+* [Nos gestes climat](https://nosgestesclimat.fr/?lang=fr) - Faire son bilan carbone en ligne
+* [Impact CO2.fr](https://impactco2.fr/) - Connaitre l'impact sur le climat des objets et gestes de votre quotidien
+* [Mon impact transport](https://datagir.ademe.fr/apps/mon-impact-transport/) - Connaitre les impacts de sa mobilité
 
 # Partager les connaissances
 
-* [Wikipédia](https://fr.wikipedia.org/)
-* [Communs numériques](https://communs.societenumerique.gouv.fr/)
+* [Wikipédia](https://fr.wikipedia.org/) - L'encyclopédie du savoir de l'humanité
+* [Wiki Low Tech lab](https://wiki.lowtechlab.org/)
