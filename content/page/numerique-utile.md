@@ -13,10 +13,10 @@ mais aussi de réduire les impacts négatifs d'autres secteurs d'activités.
 
 Sur cette page nous lisons quelques outils ou sites que nous trouvons utiles.
 
-# Mieux consommer
+# Consommer moins et mieux
 
-* [Moral score](https://moralscore.org/)
 * [Défi Rien de neuf](https://riendeneuf.org/)
+* [Moral score](https://moralscore.org/)
 
 # Ecologie
 
