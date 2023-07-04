@@ -11,4 +11,5 @@ description: Contact
 ---
 
 Vous pouvez nous contacter sur notre page [Facebook](https://www.facebook.com/profile.php?id=100089745422663), 
-ou par téléphone en contactant l'Union des associations socioculturelles de Couëron..
+ou par téléphone en contactant Nadine Gerbaud, 
+animatrice d’insertion pour l’union des associations socioculturelles au 07 49 58 20 56.
