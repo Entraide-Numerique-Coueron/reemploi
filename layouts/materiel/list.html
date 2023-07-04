@@ -22,9 +22,14 @@
                 {{ if .Params.imageUrl }}
                     {{ $image := .Resources.GetMatch .Params.imageUrl }}
                     {{ $image := $image.Fit "300x300" }}
+                    {{ $imageWebP := $image.Resize "300x webp" }}
 
                     {{ with $image }}
+                    <picture>
+                        <source srcset={{ $imageWebP.RelPermalink }} type="image/webp">
                         <img src="{{ $image.RelPermalink }}" title="{{ .Title }}" />
+                    </picture>
+
                     {{ end }}
                 {{ end }}
 
