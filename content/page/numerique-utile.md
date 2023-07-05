@@ -9,9 +9,9 @@ weight: 70
 
 Si nous sensibilisons aux impacts négatifs du numérique, le numérique a aussi de nombreux atouts.
 Il nous permet de communiquer à l'autre bout du monde, de partager nos connaissances
-mais aussi de réduire les impacts négatifs d'autres secteurs d'activités.
+mais aussi de réduire les impacts négatifs d'autres secteurs d'activités (exemple : faire une visio-conférence plutôt que prendre l'avion ou la voiture).
 
-Sur cette page nous lisons quelques outils ou sites que nous trouvons utiles.
+Sur cette page nous listons quelques outils ou sites que nous trouvons utiles.
 
 # Consommer MOINS et mieux
 
