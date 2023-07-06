@@ -22,7 +22,10 @@ Nos permanences à venir, un mercredi par mois, de 18h30 à 19h30 (nous vous con
 
 
 Si ces dates ne vous conviennent pas, pour obtenir une aide sur vos usages voyez avec :
+
 * [CCAS de Couëron](https://www.ville-coueron.fr/solidarites/centre-communal-daction-sociale/)
 * [le coup de main numérique](https://le-coup-de-main-numerique.org/)
+
 Pour obtenir une aide d'autres techniques voyez avec les professionnels sur Couëron :
+
 * [Les autres acteurs sur Couëron](/page/coueron)
