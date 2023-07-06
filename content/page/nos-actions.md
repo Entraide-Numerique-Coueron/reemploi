@@ -17,8 +17,8 @@ Nous œuvrons à l'échelle locale contre la fracture numérique :
 Et à limiter les impacts environnementaux du numérique :
 
 * Par l'allongement de la durée de vie du matériel : réemploi et réparation
-* Par des conseils sur l'achat de matériel numérique
-* Par des actions de sensibilisation sur les usages numériques
+* Par des conseils sur l'achat de matériel numérique : [voir les conseils](/page/besoin-daide/).
+* Par des actions de sensibilisation sur les usages numériques : [s'informer](/page/s-informer/).
 
 ## Permanence mensuelle
 
