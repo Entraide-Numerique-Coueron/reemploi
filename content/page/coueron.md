@@ -21,6 +21,12 @@ Vous y trouverez :
 * La liste des ateliers pour apprendre ou se perfectionner à l'informatique
 * La liste des aides gratuites (comme ce que nous faisons)
 
+## Aides
+
+Pour obtenir de l'aide dans vos usages nous vous conseillons :
+* [CCAS de Couëron](https://www.ville-coueron.fr/solidarites/centre-communal-daction-sociale/)
+* [le coup de main numérique](https://le-coup-de-main-numerique.org/)
+
 ## Professionels
 
 Plusieurs professionnels peuvent vous aider à utiliser, réparer votre matériel numérique.

@@ -6,8 +6,23 @@ menu:
 weight: 45
 description: Evènements à venir.
 ---
-Nos permanences reprendront en septembre et les dates ne sont pas encore connues.
+Nos permanences à venir, un mercredi par mois, de 18h30 à 19h30 (nous vous conseillons de venir dès 18h30) :
 
-Vous pouvez toutefois noter la date du prochaine Bidouille Café : le samedi 25 novembre.
+- mercredi 13 septembre
+- mercredi 11 octobre
+- mercredi 8 novembre
+- remarque : bidouille café : samedi 25 novembre de 14h à 18h
+- mercredi 6 décembre
+- mercredi 17 janvier
+- mercredi 28 février
+- mercredi 27 mars
+- mercredi 24 avril
+- mercredi 22 mai
+- mercredi 19 juin
 
-Sinon voyez avec [le coup de main numérique](https://le-coup-de-main-numerique.org/) ou le [CCAS de Couëron](https://www.ville-coueron.fr/solidarites/centre-communal-daction-sociale/).
+
+Si ces dates ne vous conviennent pas, pour obtenir une aide sur vos usages voyez avec :
+* [CCAS de Couëron](https://www.ville-coueron.fr/solidarites/centre-communal-daction-sociale/)
+* [le coup de main numérique](https://le-coup-de-main-numerique.org/)
+Pour obtenir une aide d'autres techniques voyez avec les professionnels sur Couëron :
+* [Les autres acteurs sur Couëron](/page/coueron)
