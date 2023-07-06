@@ -43,7 +43,7 @@ Le site a été optimisé pour réduire la consommation de papier et d'encre en 
 
 P﻿our ce faire un générateur de site statique a été utilisé ([Hugo](https://gohugo.io)), et afin d'en faciliter l'administration il a été couplé avec l'outil [DecapCMS](https://decapcms.org).
 
-Les librairies CSS utilisées sont : [HTML5Boilerplate](https://html5boilerplate.com/) et [PureCss](https://purecss.io/), qui lui même embarque [Normalize.css](http://necolas.github.io/normalize.css/) et permet de faciliter le fait d'avoir un rendu identique sur les différents navigateurs.
+Les librairies CSS utilisées sont : [HTML5Boilerplate](https://html5boilerplate.com/) et [PureCss](https://purecss.io/), qui lui même embarque [Normalize.css](https://necolas.github.io/normalize.css/) et permet de faciliter le fait d'avoir un rendu identique sur les différents navigateurs.
 
 Côté Javascript la librairie [Modernizr](https://modernizr.com/) est utilisée à nouveau pour harmoniser l'affichage entre les différents navigateurs.
 
