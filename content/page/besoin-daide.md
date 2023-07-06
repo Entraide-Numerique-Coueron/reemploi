@@ -10,5 +10,6 @@ Venez à notre rencontre à l'une de nos permanences : [Calendrier](/page/calend
 Vous trouverez sur ce site plusieurs conseils :
 * [Conseils à l'achat d'un téléphone](/blog/ou-acheter-un-telephone/)
 * [Conseils à l'achat d'un ordinateur](/blog/ou-acheter-un-ordinateur/)
+* [Quel forfait mobile choisir ?](/blog/forfait-mobile/)
 
 En cas d'urgence, ou si vous avez besoin que quelqu'un se déplace à votre domicile, nous vous conseillons de prendre contact avec l'un des [dépanneurs professionels de Couëron](/page/coueron/).
