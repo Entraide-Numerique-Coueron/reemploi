@@ -32,13 +32,13 @@ bloc2:
     * Nous donnons du matériel de seconde main suite à des collectes.
   lien_1: /page/fracture-numérique/
   libelle_lien_1: Découvrir les enjeux
-  lien_2: /page/fracture-numérique/
+  lien_2: /page/nos-actions/
   libelle_lien_2: Nos actions
 bloc3:
   heading: Contre les impacts environnementaux du numérique
   lien_1: /page/les-impacts-environnementaux-du-num%C3%A9rique/
   libelle_lien_1: Découvrir les enjeux
-  lien_2: /page/les-impacts-environnementaux-du-num%C3%A9rique/
+  lien_2: /page/nos-actions/
   libelle_lien_2: Nos actions
   body: >-
     L﻿e secteur du numérique est responsable à l’échelle mondiale de 4% des
