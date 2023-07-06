@@ -6,7 +6,9 @@ menu:
 weight: 45
 description: Evènements à venir.
 ---
-Nos permanences à venir, un mercredi par mois, de 18h30 à 19h30 (nous vous conseillons de venir dès 18h30) :
+Nos permanences à venir, un mercredi par mois, de 18h30 à 19h30 (nous vous conseillons de venir dès 18h30).
+
+Sans rendez-vous, ouvert à toutes et tous, tous niveaux.
 
 - mercredi 13 septembre
 - mercredi 11 octobre
