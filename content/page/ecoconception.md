@@ -88,3 +88,14 @@ Cliquez ici pour voir le [détails des résultats de la page d'accueil avec l'Ec
 #### Sur le site Kastor
 
 La page d'accueil a une note de 93/100.
+
+#### Evaluer l'empreinte environnementale de votre site Internet
+
+* [Evaluer l'empreinte environnementale de votre site Internet](https://www.francenum.gouv.fr/guides-et-conseils/pilotage-de-lentreprise/numerique-durable/evaluer-lempreinte-environnementale-de)
+
+#### Audit d'audit de performance/vitesse d'un site web
+
+* [GTMetrix](https://gtmetrix.com/)
+* [Pingdom Tools](https://tools.pingdom.com/)
+* [PageSpeed Insights](https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect&hl=fr)
+* [FastorSlow](https://www.fastorslow.com/)

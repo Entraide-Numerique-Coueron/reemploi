@@ -46,6 +46,9 @@ Il s'adresse aux personnes de convictions près à mettre la main au portefeuill
 
 * [TeleCoop](https://telecoop.fr/)
 
+TeleCoop est membre du collectif [FairTech](https://fairtec.io/fr/) qui propose au grand public des offres pour un numérique plus responsable.
+FairTech est composé de TeleCoop, Fairphone, /e/Os et Commown.
+
 ### Source Mobile : un forfait solidaire par Bouygues Telecom
 
 Source mobile vous permet de reserver vos données mobiles non-utilisées sous forme de dons à des associations, sans contrainte de le faire.
