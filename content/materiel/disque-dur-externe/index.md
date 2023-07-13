@@ -1,5 +1,6 @@
 ---
 title: "Disque dur externe "
+imageUrl: 20230713_111025_compress83.jpg
 description: "Disque dur externe "
 ---
 
