@@ -29,6 +29,11 @@ weight: 80
 * [La fresque du climat](https://fresqueduclimat.org/)
 * [La fresque de la biodiversité](https://www.fresquedelabiodiversite.org)
 
+# Ré-emmploi
+
+* [Emmabunutus - Campagne de Réeemploi pour tous - Clé USB de réemploi](https://emmabuntus.org/campagne-de-reemploi-pour-tous/)
+* [Android Upcycling - Allongement de la durée de vie des smartphones](https://fsfe.org/activities/upcyclingandroid/upcyclingandroid.fr.html)
+
 # Podcast numérique responsable
 
 * [L'Octet Vert](https://deezer.page.link/q2GP2aTSU37MHmym7)
