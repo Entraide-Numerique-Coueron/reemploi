@@ -19,6 +19,7 @@ description: Liens utiles
 * [Association HOP "Halte à l'Obsolecence programmée"](https://www.halteobsolescence.org/)
 * [GreenIt](https://www.greenit.fr/)
 * [Le Bon Digital](https://lebondigital.com/)
+* [Limites Numériques](https://limitesnumeriques.substack.com/)
 * [Frugarilla](https://frugarilla.fr)
 * [April](https://www.april.org/)
 * [Société numérique](https://societenumerique.gouv.fr/fr/)
