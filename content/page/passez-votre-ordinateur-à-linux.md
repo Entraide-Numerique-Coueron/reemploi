@@ -1,10 +1,9 @@
 ---
 title: Passez votre ordinateur à Linux
-description: Linux, un atout pour la longévité de votre ordinateur
 menu:
-- footer3
+  - footer3
+description: Linux, un atout pour la longévité de votre ordinateur
 ---
-
 Passez votre ordinateur à Linux lors d'une de nos permances ou au Bidouille Café.
 
 I﻿l est aussi possible de faire appareil à un professionnel du Couëron.
@@ -21,21 +20,29 @@ Il y a des distributions spécialisées pour le jeu vidéo, d'autres pour le mon
 Il existe plusieurs centaines de distributions Linux.
 
 De notre côté nous avons fait le choix de nous concentrer sur 3 distributions, qui sont à la fois simple mais fonctionne sur des ordinateurs peu puissants :
-- Zorin : qui ressemble beaucoup à Windows ou MacOs (au choix de l'utilisateur), et fonctionne sur des ordinateurs vieux de 10 ans
-- Emmabuntüs : qui fonctionnera sur des ordinateurs jusqu'à 15 ans
-- Q4OS : qui peut fonctionner sur des ordinateurs jusqu'à 20 ans
-Il existe même des distributions pour des ordinateurs encore plus vieux.
+
+* Zorin : qui ressemble beaucoup à Windows ou MacOs (au choix de l'utilisateur), et fonctionne sur des ordinateurs vieux de 10 ans
+* Emmabuntüs : qui fonctionnera sur des ordinateurs jusqu'à 15 ans
+* Q4OS : qui peut fonctionner sur des ordinateurs jusqu'à 20 ans
+  Il existe même des distributions pour des ordinateurs encore plus vieux.
 
 # Aperçu de Zorin
 
+![Bureau de ZorinOS](/img/zorin.jpg "Bureau de ZorinOS")
 
 * [En savoir plus sur ZorinOS](https://zorin.com/os/).
 
 # Aperçu de Emmabuntus
 
+![Bureau de Emmabuntus](/img/emmabuntus.jpg "Bureau de Emmabuntus")
+
 * [En savoir plus sur Emmabuntus](https://emmabuntus.org/).
 
 # Aperçu de Q4OS
+
+![Bureau de O4OS avec le thème Windows XP](/img/q4os_xp.jpg "Bureau de O4OS avec le thème Windows XP")
+
+![Bureau de O4OS avec le thème Windows 2000](/img/q4os_2000.jpg "Bureau de O4OS avec le thème Windows 2000")
 
 * [En savoir plus sur Q4OS](https://q4os.org/).
 
