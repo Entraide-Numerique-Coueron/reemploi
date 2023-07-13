@@ -1,12 +1,11 @@
 ---
 title: Liens
-description: Liens utiles
 menu:
-- main
-- footer4
+  - main
+  - footer4
 weight: 80
+description: Liens utiles
 ---
-
 # Couëron et alentours
 
 * [Ville de Couëron - L'accès au numérique](https://www.ville-coueron.fr/solidarites/acces-au-numerique/)
@@ -29,7 +28,7 @@ weight: 80
 * [La fresque du climat](https://fresqueduclimat.org/)
 * [La fresque de la biodiversité](https://www.fresquedelabiodiversite.org)
 
-# Ré-emmploi
+# Ré-emploi
 
 * [Emmabunutus - Campagne de Réeemploi pour tous - Clé USB de réemploi](https://emmabuntus.org/campagne-de-reemploi-pour-tous/)
 * [Android Upcycling - Allongement de la durée de vie des smartphones](https://fsfe.org/activities/upcyclingandroid/upcyclingandroid.fr.html)
