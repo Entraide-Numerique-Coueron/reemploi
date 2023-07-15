@@ -2,7 +2,6 @@
 title: Numérique utile
 description: Le numérique lorsqu'il est notre allié
 menu:
-- main
 - footer4
 weight: 70
 ---

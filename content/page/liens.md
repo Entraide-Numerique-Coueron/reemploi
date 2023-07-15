@@ -6,6 +6,13 @@ menu:
 weight: 80
 description: Liens utiles
 ---
+  
+# Numérique utile
+
+Le numérique c'est aussi plein de bonnes choses, découvrez notre sélection de liens "numérique utile".
+
+* [Cliquez-ici pour accéder aux liens "numérique utile"](/page/numerique-utile)
+
 # Couëron et alentours
 
 * [Ville de Couëron - L'accès au numérique](https://www.ville-coueron.fr/solidarites/acces-au-numerique/)
