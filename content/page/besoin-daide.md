@@ -1,6 +1,9 @@
 ---
 title: Besoin d'aide
 description: Nous apportons notre aide
+menu:
+  - footer3
+weight: 35
 ---
 
 Nous sommes disponible pour vous aider sur tous les sujets qui concernent le numérique. Nous ne sommes pas experts en tout, mais nous ferons de notre mieux pour vous dépanner ou vous orienter vers le bon interlocuteur.
