@@ -20,7 +20,7 @@ Cet article va vous conseiller sur les différents choix que vous pouvez faire.
 
 ### Interroger ses usages
 
-Quel usage allez-vous en avoir ? Est-ce que cet usage ne peut pas ête comblé par un matériel que vous possédez déjà (il est par exemple possible de faire des appels vidéos avec un smartphone)
+Quel usage allez-vous en avoir ? Est-ce que cet usage ne peut pas être comblé par un matériel que vous possédez déjà (il est par exemple possible de faire des appels vidéos avec un smartphone)
 
 ### Windows ou Linux ?
 
@@ -65,14 +65,14 @@ Le disque dur doit être un SSD. Un SSD est un disque dur beaucoup plus rapide, 
 
 Les autres critères à regarder sont :
 
-* L'espace disque du disque dur : plus celui-ci sera important plus vous pourrez stocker des données dessus (vos photos, vidéos etc...). Un disque avec beaucoup d'espace ne coute pas beaucoup plus cher, et vous permet de moins être limité. Sur certains ordinateurs il est possible d'avoir 2 emplacements de disque dur, c'est très intéressant afin d'acheter un ordinateur avec 1 disque SSD de moyenne capacité et vous permet dans quelques années de racheter un 2ème disque durde plus grosse capacité pour stocker vos données (photos, vidéos).
+* L'espace disque du disque dur : plus celui-ci sera important plus vous pourrez stocker des données dessus (vos photos, vidéos etc...). Un disque avec beaucoup d'espace ne coute pas beaucoup plus cher, et vous permet de moins être limité. Sur certains ordinateurs il est possible d'avoir 2 emplacements de disque dur, c'est très intéressant afin d'acheter un ordinateur avec 1 disque SSD de moyenne capacité et vous permet dans quelques années de racheter un 2ème disque dur de plus grosse capacité pour stocker vos données (photos, vidéos).
 
 Ce deuxième disque ayant vocation à être peu utilisé (vous n'allez pas voir vos photos tous les jours) peut ne pas être un SSD (ce sera un HDD).
 
 * La RAM : la plupart des ordinateurs sont vendus avec au moins 8Go de RAM. Il n'est pas nécessaire d'en prendre beaucoup plus, mais assurez vous que vous pouvez en rajouter si jamais vos besoins évoluent.
-* Le processeur : prennez un bon processeur. C'est ce qui est le plus difficilement changeable dans un ordinateur (contrairement à la RAM ou disque dur). Prenez un processeur un peu plus puissant que ce que vous pensez avoir besoin. x
+* Le processeur : prenez un bon processeur. C'est ce qui est le plus difficilement changeable dans un ordinateur (contrairement à la RAM ou disque dur). Prenez un processeur un peu plus puissant que ce que vous pensez avoir besoin. x
 
-Dans la gamme de processuer Intel il faut prendre un i5 ou i7, un i3 peut convenir si vous n'avez pas l'intention de faire des jeux vidéos. Evitez les Atom, Celeron, Pentium.
+Dans la gamme de processeur Intel il faut prendre un i5 ou i7, un i3 peut convenir si vous n'avez pas l'intention de faire des jeux vidéos. Evitez les Atom, Celeron, Pentium.
 
 Dans la gamme de processeur AMD il faut prendre un Ryzen5 ou Ryzen7, un Ryzen3 peut convenir si vous n'avez pas l'intention de faire des jeux vidéos. Evitez les APU et Athlon.
 
@@ -82,13 +82,13 @@ Pour conclure, si vos finances sont limités : privilégiez un bon processeur d'
 
 ### Garantie constructeur
 
-Une longue période de ganratie est signe de confiance. A l'inverse soyez méfiant vis à vis de durée de ganrarie inférieure la concurrence : si le constructeur ne prendre pas ce risque, c'est qu'il n'a pas confiance au produit qu'il fabrique. Pourquoi prendriez-vous le risque qu'il ne prend pas ?
+Une longue période de garantie est signe de confiance. A l'inverse soyez méfiant vis à vis de durée de garantie inférieure la concurrence : si le constructeur ne prendre pas ce risque, c'est qu'il n'a pas confiance au produit qu'il fabrique. Pourquoi prendriez-vous le risque qu'il ne prend pas ?
 
 ### Choisir du matériel durable et réparable
 
 Vous voulez acheter neuf ? Privilégiez le matériel durable et réparable. Un ordinateur réparable c'est bien, un ordinateur solide qui ne casse pas et ne tombe pas en panne c'est mieux.
 
-Plusieurs indices existent et se completent entre eux puisqu'ils n'ont pas la même grille d'évaluation les notes varient d'un indice à l'autre.
+Plusieurs indices existent et se complètent entre eux puisqu'ils n'ont pas la même grille d'évaluation les notes varient d'un indice à l'autre.
 * [Article comparant les indices français et iFixit](https://www.lesnumeriques.com/vie-du-net/ifixit-vs-indice-de-reparabilite-deux-approches-pour-un-meme-probleme-n160205.html)
 
 Un ordinateur portable durable c'est aussi un ordinateur que vous pourrez faire évoluer, par exemple en rajoutant des barrettes de RAM dans quelques années si nécessaire.
@@ -99,7 +99,7 @@ En France, l'indice de réparabilité permet d'obtenir une note sur des produits
 
 L'indice de réparabilité français tiens compte des réparateurs tiers, l'ordinateur peut être difficilement réparable par vos soins, mais l'être facilement chez un réparateur professionnel, dans ce cas il aura une bonne note.
 
-L'indice de réparabilité français tient aussi davantage compte de la documentation, de la disponibilité des pièces, de la publication des prix des pièces etc... Cet indice bénéficie donc aux plus grosses structures capablent de mettre en place cette logistique.
+L'indice de réparabilité français tient aussi davantage compte de la documentation, de la disponibilité des pièces, de la publication des prix des pièces etc... Cet indice bénéficie donc aux plus grosses structures capables de mettre en place cette logistique.
 
 * [Site internet de l'incide de réparabilité](https://www.indicereparabilite.fr/appareils/ordinateur-portable/?orderby=rating)
 
@@ -107,7 +107,7 @@ L'indice de réparabilité français tient aussi davantage compte de la document
 
 iFixit est un site Internet spécialisé dans la réparation de nos appareils. Ils ont élaboré leur propre indice de réparabilité.
 
-L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'est à dire celle faisable par vous même sans devoir aller voir un réparateur professionel. En général il y a des tutoriels vidéos sur Internet pour vous guider.
+L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'est à dire celle faisable par vous même sans devoir aller voir un réparateur professionnel. En général il y a des tutoriels vidéos sur Internet pour vous guider.
 
 * [Indice de réparabilité de iFixit](https://fr.ifixit.com/laptop-repairability?sort=score)
 
@@ -172,7 +172,7 @@ Je préconise donc :
 * [HP Elite Book](https://fr.ifixit.com/laptop-repairability?sort=score) Bénéficiant d'une note de 10/10 selon l'indice de réparation de iFixit
 * [ASUS](https://www.indicereparabilite.fr/appareils/ordinateur-portable/?orderby=price-desc) De nombreux ordinateurs ASUS ont une bonne note de réparabilité (mais pas tous). L'un des avantages d'ASUS c'est qu'il est l'un des plus gros producteurs de pièces détachés.
 
-Le matériel neuf durable représente un budget car les ordinateurs contiennent de bons matériaux qui ne tomberont pas en panne après la fin de garantie. Ils vous dureront 10ans sans problème. Et en cas de panne ou de casse seront facilement réapable : les frais de réparations seront réduis.
+Le matériel neuf durable représente un budget car les ordinateurs contiennent de bons matériaux qui ne tomberont pas en panne après la fin de garantie. Ils vous dureront 10ans sans problème. Et en cas de panne ou de casse seront facilement réparable : les frais de réparations seront réduits.
 
 Si votre budget est limité, privilégiez un ordinateur reconditionné. Car prendre un ordinateur neuf pas cher, c'est prend le risque que celui-ci ne survive pas longtemps après la fin de garantie.
 

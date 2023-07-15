@@ -1,5 +1,5 @@
 ---
-title: Accélerer son ordinateur
+title: Accélérer son ordinateur
 date: 2023-07-15T08:54:12.935Z
 description: Comment accélérer la vitesse de son ordinateur ?
 ---

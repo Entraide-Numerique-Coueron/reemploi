@@ -34,8 +34,8 @@ Ensuite à chaque écoute d'une musique déjà téléchargées aucune donnée mo
 
 80% des impacts de votre smartphone se produisent lors de sa fabrication, les 20% restants c'est les usages que vous en ferez.
 
-Ne prennez donc pas de forfait qui vous incite à changer/acheter un nouveau smartphone, cela aurait bien plus d'impact que vos efforts pour éviter de regarder des vidéos en 4G.
-Fuyez les forfaits avec des smartphones à tarifs réduits. Privilégiez un achat de samrtphone reconditionné, et uniquement quand vous en aurez vraiment besoin.
+Ne prenez donc pas de forfait qui vous incite à changer/acheter un nouveau smartphone, cela aurait bien plus d'impact que vos efforts pour éviter de regarder des vidéos en 4G.
+Fuyez les forfaits avec des smartphones à tarifs réduits. Privilégiez un achat de smartphone reconditionné, et uniquement quand vous en aurez vraiment besoin.
 
 ## Les forfaits
 
@@ -51,7 +51,7 @@ FairTech est composé de TeleCoop, Fairphone, /e/Os et Commown.
 
 ### Source Mobile : un forfait solidaire par Bouygues Telecom
 
-Source mobile vous permet de reserver vos données mobiles non-utilisées sous forme de dons à des associations, sans contrainte de le faire.
+Source mobile vous permet de reverser vos données mobiles non-utilisées sous forme de dons à des associations, sans contrainte de le faire.
 Source mobile vous propose un forfait avec beaucoup de données mobiles, mais vous incite à éviter de les utilisées (ça pollue), 
 et si vous y arrivez vous pouvez alors convertir vos data non-utilisées en dons à des associations de votre choix.
 

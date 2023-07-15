@@ -28,7 +28,7 @@ Vous avez besoin d'un téléphone pro et perso ? Prenez un unique téléphone po
 
 ### Différence entre occasion et reconditionné par un professionnel
 
-Les smartphones d'occasion ou reconditionnés sont des produits de secondes mains déjà utilisés. Mais les smartphones reconditionnés par des professionels ont été contrôlés et vérifiés, les pièces défectueuses ont été remplacées (souvent l'écran et la batterie), ils bénéficient aussi d'une garantie. Il apparaît préférable d'acheter du matériel reconditionné pour s'éviter des soucis et soutenir les entreprises de l'économie circulaire.
+Les smartphones d'occasion ou reconditionnés sont des produits de secondes mains déjà utilisés. Mais les smartphones reconditionnés par des professionnels ont été contrôlés et vérifiés, les pièces défectueuses ont été remplacées (souvent l'écran et la batterie), ils bénéficient aussi d'une garantie. Il apparaît préférable d'acheter du matériel reconditionné pour s'éviter des soucis et soutenir les entreprises de l'économie circulaire.
 
 ### Quelques sites
 
@@ -36,9 +36,9 @@ Les smartphones d'occasion ou reconditionnés sont des produits de secondes main
 * [ReCommerce](https://www.recommerce.com/fr/) Pionier du reconditionnement, ils sous-traitent le reconditionnement en Europe de l'est.
 * [Remade](https://remade.com/) Spécialisé dans le reconditionnement d'iPhone. Son usine est basée près du Mont-Saint-Michel.
 * [Smaaart](https://smaaart.fr/) Son usine est basée près de Montpellier/
-* [ReBuy](https://www.rebuy.fr/) Reconditionneme des smartphones. Et "climatiquement neutre".
-* [CertiDeal](https://smaaart.fr/) Reconditionneme des smartphones. Certification ISO14001.
-* [Iodé](https://iode.tech/) Reconditionnes des smartphones avec un systèmes d'exploitations basé sur Android, mais débarrasé des trackeurs Google/Android.
+* [ReBuy](https://www.rebuy.fr/) Reconditionne des smartphones. Et "climatiquement neutre".
+* [CertiDeal](https://smaaart.fr/) Reconditionne des smartphones. Certification ISO14001.
+* [Iodé](https://iode.tech/) Reconditionnes des smartphones avec un système d'exploitation basé sur Android, mais débarrassé des trackers Google/Android.
 * [Largo](https://www.largo.fr/) Reconditionné en France, à Saint-Luce-sur-Loire (44)
 * [Reepeat](https://www.reepeat.fr) Un comparateur de reconditionné qui permet de trouver des offres venant d'autres sites (Amazon, Cdiscount, Backmarket, Fnac, Darty, Philips, Bose, etc.. )
 * [Back Market](https://www.backmarket.fr/) Back Market est une marketplace, c’est-à-dire qu'elle met en contacte les clients et les reconditionneurs basés partout dans le monde.
@@ -46,27 +46,27 @@ Les smartphones d'occasion ou reconditionnés sont des produits de secondes main
 ## Acheter neuf : choisir du matériel durable et réparable
 
 Vous voulez acheter neuf ? Privilégiez le matériel durable et réparable. Un smartphone réparable c'est bien, un smartphone solide qui ne casse pas et ne tombe pas en panne c'est mieux.
-Plusieurs indices existent et se completent entre eux puisqu'ils n'ont pas la même grille d'évaluation les notes varient d'un indice à l'autre.
+Plusieurs indices existent et se complètent entre eux puisqu'ils n'ont pas la même grille d'évaluation les notes varient d'un indice à l'autre.
 * [Article comparant les indices français et iFixit](https://www.lesnumeriques.com/vie-du-net/ifixit-vs-indice-de-reparabilite-deux-approches-pour-un-meme-probleme-n160205.html)
 
 ### Indice de réparabilité en français
 
 En France, l'indice de réparabilité permet d'obtenir une note sur des produits, dont les smartphones, afin d'évaluer leur réparabilité. La durabilité n'est en revanche pas prise en compte.
 L'indice de réparabilité français tiens compte des réparateurs tiers, le smartphone peut être difficilement réparable par vos soins, mais l'être facilement chez un réparateur professionnel, dans ce cas il aura une bonne note.
-L'indice de réparabilité français tient aussi davantage compte de la documentation, de la disponibilité des pièces, de la publication des prix des pièces etc... Cet indice bénéficie donc aux plus grosses structures capablent de mettre en place cette logistique.
+L'indice de réparabilité français tient aussi davantage compte de la documentation, de la disponibilité des pièces, de la publication des prix des pièces etc... Cet indice bénéficie donc aux plus grosses structures capables de mettre en place cette logistique.
 
 * [Site internet de l'incide de réparabilité](https://www.indicereparabilite.fr/appareils/smartphone/?orderby=rating)
 
 ### Indice de réparabilité de iFixit
 
 iFixit est un site Internet spécialisé dans la réparation de nos appareils. Ils ont élaboré leur propre indice de réparabilité.
-L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'est à dire celle faisable par vous même sans devoir aller voir un réparateur professionel.
+L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'est à dire celle faisable par vous même sans devoir aller voir un réparateur professionnel.
 
 * [Indice de réparabilité de iFixit](https://fr.ifixit.com/smartphone-repairability?sort=score)
 
 ### EcoRating
 
-L'EcoRating est un indice créé par les acteurs de la téléphonie. Il sera utilisé à partir de juin 2021. L'un de ses avantages est d'être plus large qu'un indice de réparabilité, en tenant compte aussi de la durabilité, de la recyclabilité, de la préservation des ressources et de la présenvation du climat (son empreinte carbone). Son inconvénient est qu'il s'agit d'un indice auto-évalué.
+L'EcoRating est un indice créé par les acteurs de la téléphonie. Il sera utilisé à partir de juin 2021. L'un de ses avantages est d'être plus large qu'un indice de réparabilité, en tenant compte aussi de la durabilité, de la recyclabilité, de la préservation des ressources et de la préservation du climat (son empreinte carbone). Son inconvénient est qu'il s'agit d'un indice auto-évalué.
 
 * [Site Internet de l'EcoRating](https://www.ecoratingdevices.com)
 * [Article de numerama](https://www.numerama.com/sciences/714949-leco-rating-peut-il-chiffrer-precisement-lempreinte-carbone-des-smartphones.html)
