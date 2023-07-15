@@ -26,9 +26,9 @@ Vous avez besoin d'un téléphone pro et perso ? Prenez un unique téléphone po
 
 ## Smartphone d'occasion ou reconditionné
 
-### Différence entre occasion et reconditionné
+### Différence entre occasion et reconditionné par un professionnel
 
-Les smartphones d'occasion ou reconditionnés sont des produits de secondes mains déjà utilisés. Mais les smartphones reconditionnés ont été contrôlés et vérifiés, les pièces défectueuses ont été remplacées, ils bénéficient aussi d'une garantie. Il apparaît préférable d'acheter du matériel reconditionné.
+Les smartphones d'occasion ou reconditionnés sont des produits de secondes mains déjà utilisés. Mais les smartphones reconditionnés par des professionels ont été contrôlés et vérifiés, les pièces défectueuses ont été remplacées (souvent l'écran et la batterie), ils bénéficient aussi d'une garantie. Il apparaît préférable d'acheter du matériel reconditionné pour s'éviter des soucis et soutenir les entreprises de l'économie circulaire.
 
 ### Quelques sites
 
