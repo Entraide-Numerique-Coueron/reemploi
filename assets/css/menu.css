@@ -120,7 +120,7 @@
   transform: rotate(+45deg);
 }
 
-@media (min-width: 64em) {
+@media (min-width: 80em) {
 
   .custom-menu-3 {
     text-align: right;

@@ -2,9 +2,9 @@
 title: Nos conseils
 description: Nos conseils
 menu:
-- main
-- footer1
-  weight: 5
+ - main
+ - footer1
+weight: 5
 ---
 
 Nos conseils :
