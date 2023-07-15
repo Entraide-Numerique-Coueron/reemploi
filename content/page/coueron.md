@@ -27,7 +27,7 @@ Pour obtenir de l'aide dans vos usages nous vous conseillons :
 * [CCAS de Couëron](https://www.ville-coueron.fr/solidarites/centre-communal-daction-sociale/)
 * [le coup de main numérique](https://le-coup-de-main-numerique.org/)
 
-## Professionels
+## Professionnels
 
 Plusieurs professionnels peuvent vous aider à utiliser, réparer votre matériel numérique.
 

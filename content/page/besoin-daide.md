@@ -12,4 +12,4 @@ Venez à notre rencontre à l'une de nos permanences : [Calendrier](/page/calend
 
 * [Cliquez-ici pour retrouverez sur ce site plusieurs de nos conseils](/page/nos_conseils/).
 
-En cas d'urgence, ou si vous avez besoin que quelqu'un se déplace à votre domicile, nous vous conseillons de prendre contact avec l'un des [dépanneurs professionels de Couëron](/page/coueron/).
+En cas d'urgence, ou si vous avez besoin que quelqu'un se déplace à votre domicile, nous vous conseillons de prendre contact avec l'un des [dépanneurs professionnels de Couëron](/page/coueron/).

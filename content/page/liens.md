@@ -23,7 +23,7 @@ Le numérique c'est aussi plein de bonnes choses, découvrez notre sélection de
 # Numérique responsable
 
 * [La fresque du numérique](https://www.fresquedunumerique.org/)
-* [Association HOP "Halte à l'Obsolecence programmée"](https://www.halteobsolescence.org/)
+* [Association HOP "Halte à l'Obsolescence programmée"](https://www.halteobsolescence.org/)
 * [GreenIt](https://www.greenit.fr/)
 * [Le Bon Digital](https://lebondigital.com/)
 * [Limites Numériques](https://limitesnumeriques.substack.com/)
@@ -38,7 +38,7 @@ Le numérique c'est aussi plein de bonnes choses, découvrez notre sélection de
 
 # Ré-emploi
 
-* [Emmabunutus - Campagne de Réeemploi pour tous - Clé USB de réemploi](https://emmabuntus.org/campagne-de-reemploi-pour-tous/)
+* [Emmabunutus - Campagne de Réemploi pour tous - Clé USB de réemploi](https://emmabuntus.org/campagne-de-reemploi-pour-tous/)
 * [Android Upcycling - Allongement de la durée de vie des smartphones](https://fsfe.org/activities/upcyclingandroid/upcyclingandroid.fr.html)
 
 # Podcast numérique responsable

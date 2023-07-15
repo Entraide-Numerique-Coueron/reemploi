@@ -10,7 +10,7 @@ I﻿l est aussi possible de faire appareil à un [professionnel de Couëron](/pa
 
 # C'est quoi Linux
 
-Linux c'est un système d'exploitation, c'est à dire le sytème qui sert à faire fonctionner votre ordinateur. C'est un concurrent de Windows ou MacOs.
+Linux c'est un système d'exploitation, c'est à dire le système qui sert à faire fonctionner votre ordinateur. C'est un concurrent de Windows ou MacOs.
 
 La grande différence entre Linux et ces autres systèmes d'exploitation c'est que Linux est gratuit et "libre", c'est à dire qu'on peut l'installer gratuitement, mais aussi le modifier pour qu'il corresponde à des besoins précis.
 
@@ -52,7 +52,7 @@ Nous utilisons la clé USB de réemploi élaborée par le [Collectif Emmabuntus]
 Cette clé USB permet de passer en quelques minutes un ordinateur sous Linux.
 
 Avant de passer à Linux, vous devez préalablement sauvegarder toutes les données que vous souhaitez conserver vers une clé USB ou un disque dur externe.
-Si vous ne savez pas le faire alors nous pouvons vous aider, mais cette action prend du temps s'il y a beaucoup de fichiers à récupérer, il sera alors peut-être nécessaire de venir à plusieurs de nos permances le temps que toutes les actions soient effectuées.
+Si vous ne savez pas le faire alors nous pouvons vous aider, mais cette action prend du temps s'il y a beaucoup de fichiers à récupérer, il sera alors peut-être nécessaire de venir à plusieurs de nos permanences le temps que toutes les actions soient effectuées.
 
 # Autre méthode : Installation en "Dual boot"
 

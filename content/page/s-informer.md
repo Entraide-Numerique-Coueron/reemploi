@@ -9,7 +9,7 @@ date: 2023-06-20T08:15:56.230Z
 description: S'informer
 ---
   
-Le numérique a évidement plein de bons côtés : 
+Le numérique a évidemment plein de bons côtés : 
 permet de communiquer à l'autre bout du monde, permet l'accès rapide à l'information, améliore la productivité, offre des loisirs et peut être aussi un allié de la transition écologique.
 
 Mais ce numérique a aussi de mauvais côtés. Nous souhaitons alerter sur ceux-ci d'en limiter les impacts sociaux et environnementaux.
