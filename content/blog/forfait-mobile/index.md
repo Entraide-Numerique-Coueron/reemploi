@@ -32,7 +32,7 @@ Ensuite à chaque écoute d'une musique déjà téléchargées aucune donnée mo
 
 ### N'oubliez pas : ce que a le plus d'impact c'est le matériel
 
-80% des impacts de votre smartphone se produisent lors de sa fabrication, les 20% restants c'est les usages que vous en ferez.
+80% des impacts de votre smartphone se produisent lors de sa fabrication, les 20% restants c'est les usages que vous en ferez. Faire attention à sa consommation c'est bien, faire [attention à l'achat de matériel c'est mieux](https://www.entraide-numerique-coueron.fr/blog/ou-acheter-un-telephone/).
 
 Ne prenez donc pas de forfait qui vous incite à changer/acheter un nouveau smartphone, cela aurait bien plus d'impact que vos efforts pour éviter de regarder des vidéos en 4G.
 Fuyez les forfaits avec des smartphones à tarifs réduits. Privilégiez un achat de smartphone reconditionné, et uniquement quand vous en aurez vraiment besoin.
