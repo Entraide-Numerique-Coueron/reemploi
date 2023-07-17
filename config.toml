@@ -10,6 +10,6 @@ title = "Entraide numérique Couëron"
     weight = 45
   [[menu.footer3]]
     identifier = "materiel"
-    name = "Matériel"
+    name = "Don de matériel"
     url = "/materiel"
     weight = 47
