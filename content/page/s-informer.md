@@ -1,6 +1,6 @@
 ---
 title: S'informer
-subtitle: S'informer
+subtitle: S'informer sur les impacts sociaux et environnementaux du numériques
 text: S'informer
 menu:
   - main
