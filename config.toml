@@ -8,3 +8,8 @@ title = "Entraide numérique Couëron"
     name = "Matériel"
     url = "/materiel"
     weight = 45
+  [[menu.footer3]]
+    identifier = "materiel"
+    name = "Matériel"
+    url = "/materiel"
+    weight = 47
