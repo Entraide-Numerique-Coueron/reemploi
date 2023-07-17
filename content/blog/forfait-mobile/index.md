@@ -9,7 +9,7 @@ Lorsque l'on doit choisir un forfait mobile le prix est souvent l'un des critèr
 
 Le second critère est souvent d'avoir le plus de DATA possible, c'est à dire avoir le plus gros forfait des données mobiles en 3G/4G/5G.
 
-Or les données mobiles consomment près de 20 fois plus d'énergie que le WIFI pour diffuser le même volume de données.
+Or [les données mobiles consomment près de 20 fois plus d'énergie que le WIFI pour diffuser le même volume de données](https://www.greenit.fr/2016/03/15/internet-mobile-la-4g-est-elle-une-abomination-energetique/).
 Cela signifie donc aussi plus d'infrastructure réseau et donc tous les impacts négatifs (sociaux et environnementaux) liés à la fabrication de ce matériel réseau.
 
 Nous vous proposons ici d'abord de modifier votre manière d'utiliser vos données mobiles, puis de choisir un forfait en conséquence.
