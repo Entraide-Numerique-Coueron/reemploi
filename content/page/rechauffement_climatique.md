@@ -13,6 +13,7 @@ Le numérique, à l'image des autres activités humaines, provoque des émission
 
 C'est lors de la fabrication du matériel utilisateur (smartphone, ordinateur, télévision, console de jeux etc.) que sont émis la plupart des gaz à effet de serre du secteur numérique.
 
+Evolution des températures moyennes annuelles en France depuis 1890 :
 ![Evolution des températures moyennes annuelles en France depuis 1890](/img/warming-stripes-france.png "Evolution des températures moyennes annuelles en France depuis 1890")
 
 # Pour aller plus loin
