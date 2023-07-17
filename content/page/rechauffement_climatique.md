@@ -1,11 +1,10 @@
 ---
 title: Réchauffement climatique
-description: Réchauffement climatique
 menu:
-- footer2
+  - footer2
 weight: 10
+description: Réchauffement climatique
 ---
-
 Le réchauffement climatique est l'augmentation de la température moyenne de la planète, provoqué par les émissions de gaz à effet de serre liées aux activités humaines.
 
 Cette augmentation de température provoque un changement de climat sur toute planète et augmente la fréquence et l'intensité des catastrophes climatiques (canicule, sécheresse, crue, submersion etc.).
@@ -13,6 +12,8 @@ Cette augmentation de température provoque un changement de climat sur toute pl
 Le numérique, à l'image des autres activités humaines, provoque des émissions de gaz à effet de serre. 
 
 C'est lors de la fabrication du matériel utilisateur (smartphone, ordinateur, télévision, console de jeux etc.) que sont émis la plupart des gaz à effet de serre du secteur numérique.
+
+![Evolution des températures moyennes annuelles en France depuis 1890](/img/warming-stripes-france.png "Evolution des températures moyennes annuelles en France depuis 1890")
 
 # Pour aller plus loin
 
