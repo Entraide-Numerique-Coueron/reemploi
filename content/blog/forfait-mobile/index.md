@@ -86,7 +86,7 @@ Faites attention à ce que le prix n'augmente pas après quelques mois.
 
 Vous trouverez la liste des forfaits ici, il vous suffit de trier par prix.
 
-Soyez tout de même conscients que ces prix bats sont obtenus parce que les entreprises qui les pratiques rémunèrent mal leurs employés, 
+Soyez tout de même conscients que ces prix bas sont obtenus parce que les entreprises qui les pratiques rémunèrent mal leurs employés, 
 ne paient pas correctement leurs impôts et ne font que très peu d'effort pour participer à la vie de la collectivité (sociale et environnementale).
 
 * [Liste de forfaits](https://www.touslesforfaits.fr/)
@@ -98,6 +98,6 @@ ne paient pas correctement leurs impôts et ne font que très peu d'effort pour 
 * Bouygues : réalise des "optimisations fiscales". [Voir le détail sur MoralScore](https://moralscore.org/companies/bouygues-telecom/)
   Vous pouvez préférez l'offre [Source Mobile](https://www.sourcemobile.fr/) qui est l'offre responsable et solidaire de Bouygues.
 * Orange : [selon MoralScore](https://moralscore.org/companies/orange/) les conditions de travail y sont mauvaise. 
-* Aussi Orange s'est fait épinglé par [l'association Canopée](https://www.canopee-asso.org/) pour faire du [Greenwashing en finançant Alliance Forêts Bois](https://www.canopee-asso.org/greenwashing-canopee-interpelle-alliance-forets-bois/) qui effectue des [coupes rases de forêts](https://www.youtube.com/watch?v=OxI0g31Sq8k&t=1005s) pour y planter des pins maritimes destinés à leur industrie.
+Aussi Orange s'est fait épinglé par [l'association Canopée](https://www.canopee-asso.org/) pour faire du [Greenwashing en finançant Alliance Forêts Bois](https://www.canopee-asso.org/greenwashing-canopee-interpelle-alliance-forets-bois/) qui effectue des [coupes rases de forêts](https://www.youtube.com/watch?v=OxI0g31Sq8k&t=1005s) pour y planter des pins maritimes destinés à leur industrie.
 
 ![L'opérateur Orange finance des coupes rases de forêts](capture-décran-2023-06-06-à-11.00.45.png "L'opérateur Orange finance des coupes rases de forêts")
