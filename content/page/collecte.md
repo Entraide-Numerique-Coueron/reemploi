@@ -5,7 +5,10 @@ menu:
   - footer3
 weight: 47
 description: Collecte de matériel, vous ne l'utilisez plus ? Donnez-le !
----
+--- 
+  
+Vous pouvez nous remettre ce matériel lors d'une de [nos permanences](/page/calendrier/).
+
 Nous recherchons le matériel ci-dessous :
 
 * Ordinateurs portables
