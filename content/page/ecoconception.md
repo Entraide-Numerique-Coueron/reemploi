@@ -63,7 +63,7 @@ Ces librairies ont été choisies pour leur minimalisme et leur légèreté. Les
 
 GreenIt propose [plusieurs formations](https://formation.greenit.fr/) dont l'une sur l'écoconception, elle débouche sur une certification.
 
-Le site a été réalisé par une personne ayant cette certification.
+Le site a été réalisé par [une personne ayant cette certification](https://certificat.greenit.fr/certificats/2022.12.07-SL103-LQ45-ECO25).
 
 ### Validation de la démarche
 
