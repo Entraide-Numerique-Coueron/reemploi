@@ -12,4 +12,5 @@ En 40 ans, nos collégiens ont perdu environ 25 % de leur capacité physique1,
 
 # Santé mentale
 
-* Harclènement numérique
+* Dépendance
+* Harcèlement numérique
