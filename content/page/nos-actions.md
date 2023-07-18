@@ -25,7 +25,7 @@ Et à limiter les impacts environnementaux du numérique :
 
 Une fois par mois, nous nous réunissons dans les locaux du Centre Pierre Legendre. Nous apportons toutes l'aide que nous somme en mesure d'apporter : conseils, réparation etc.
 
-[V﻿oir le calendrier de nos permanences.](/page/calendrier/)
+[Voir le calendrier de nos permanences.](/page/calendrier/)
 
 ## Participation au Bidouille Café (Repair Café)
 
@@ -35,4 +35,4 @@ Une fois par trimestre, nous participons au Bidouille Café, lors duquel nous te
 
 Nous collectons des ordinateurs portables, que nous réparons si nécessaire, et passons sous le système d'exploitation Linux avant de le redonner gratuitement à des familles non équipées.
 
-[N﻿ous donnons aussi ce matériel.](/materiel/)
+[Nous donnons aussi ce matériel.](/materiel/)

@@ -6,7 +6,7 @@ description: Linux, un atout pour la longévité de votre ordinateur
 ---
 Passez votre ordinateur à Linux lors d'une de nos permanences ou au Bidouille Café.
 
-I﻿l est aussi possible de faire appareil à un [professionnel de Couëron](/page/coueron).
+Il est aussi possible de faire appareil à un [professionnel de Couëron](/page/coueron).
 
 # C'est quoi Linux
 
