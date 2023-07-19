@@ -31,8 +31,6 @@ S﻿i vous êtes une toute petite structure, je vous conseille de choisir un ser
 
 S﻿i vous craignez d'être trop limité et prêt à mettre un budget, alors tentez de trouver un prestataire pouvant vous faire un site statique avec un générateur et un CMS bit-based.
 
-
-
 ## P﻿résentation de plusieurs services en ligne
 
 ### S﻿iteW
@@ -47,18 +45,20 @@ Nous vous conseillons pour mieux comprendre de regarder cette vidéo :
 
 SiteW vous permet d'avoir un site gratuit contenant 5 pages maximum, après c'est payant.
 
-C'est une entreprise française (contrairement aux autres gestionnaires de site), et qui semble être responsable socialement et environnementalement.
+C'est une entreprise française (contrairement aux autres gestionnaires de site),  basé à Aurillac, et qui semble être responsable socialement et environnementalement.
 
 Site W : <https://www.sitew.com/>
 
-Un avantage de choisir SiteW, même si vous êtes limité à 5 pages, c'est que vous aurez l'accompagnement de HelloAsso et ce leur programme PANA.
+Un avantage de choisir SiteW, même si vous êtes limité à 5 pages, c'est que vous aurez l'accompagnement de HelloAsso et de leur programme PANA.
 
 ### O﻿doo
 
-Une solution alternative à siteW c'est Odoo. Cette solution est belge, et a une bonne réputation.\
+Une solution alternative à siteW c'est Odoo. Cette solution est belge et a une bonne réputation.\
 Le modèle économique est le même : une offre gratuite, des options payantes.
 
-Odoo a l'avantage de proposer d'autres outils  pour gérer votre association (pas que le site Internet); par contre ce sera payant.\
+[V﻿oici une vidéo d'une émission du fondateur d'Odoo](https://www.youtube.com/watch?v=J403Rt7i-R0).
+
+Odoo a l'avantage de proposer d'autres outils pour gérer votre association (pas que le site Internet); par contre ce sera payant.\
 Odoo : [Open Source ERP and CRM | Odoo](https://www.odoo.com/fr_FR)
 
 ### W﻿ordpress.com
