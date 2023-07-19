@@ -50,7 +50,7 @@ Destiné à un public plus averti et engagé, les FAI alternatifs s'opposent à 
 
 ## Remise en perspective
 
-N﻿'oublions pas toutefois que ce qui a le plus d'impact dans le secteur numérique c'est le matériel utilisateur. S'il existe une action bien plus imporante que celle de bien choisir son FAI, c'est celle de ne pas acheter une TV trop grande.
+N'oublions pas toutefois que ce qui a le plus d'impact dans le secteur numérique c'est le matériel utilisateur. S'il existe une action bien plus importante que celle de bien choisir son FAI, c'est celle de ne pas acheter une TV trop grande.
 
 Infographie par [BonPote.com](bonpote.com) : 
 
