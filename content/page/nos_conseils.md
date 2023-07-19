@@ -1,12 +1,11 @@
 ---
 title: Nos conseils
-description: Nos conseils
 menu:
- - main
- - footer1
+  - main
+  - footer1
 weight: 5
+description: Nos conseils
 ---
-
 Nos conseils :
 
 # Matériel
@@ -15,9 +14,10 @@ Nos conseils :
 * [Conseils à l'achat d'un ordinateur](/blog/ou-acheter-un-ordinateur/)
 * [Comment accélérer son ordinateur ?](/blog/accelerer-son-ordinateur)
 
-# Forfait
+# Forfait et accès à Internet
 
 * [Quel forfait mobile choisir ?](/blog/forfait-mobile/)
+* [Q﻿uel Fournisseur d'Accès à Internet choisir ?](https://www.entraide-numerique-coueron.fr/blog/adsl-ou-fibre-quel-fournisseur-dacc%C3%A8s-%C3%A0-internet-choisir/)
 
 # Site Internet
 
