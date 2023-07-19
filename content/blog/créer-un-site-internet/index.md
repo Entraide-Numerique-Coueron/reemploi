@@ -3,27 +3,30 @@ title: Créer un site Internet
 date: 2023-07-19T13:30:02.200Z
 description: Créer un site Internet pour une association ou une très petite entreprise
 ---
-P﻿our les petites associations et petites entreprises qui souhaitent créer un site Internet deux solutions s'offre à vous :
+Pour les petites associations et petites entreprises qui souhaitent créer un site Internet deux solutions s'offre à vous :
 
 * Créer vous même, ou faire appel à un prestataire, pour créer un site sur mesure
-* U﻿tiliser un service en ligne de création de site Internet
+* Utiliser un service en ligne de création de site Internet
 
-## C﻿hoisir entre site sur mesure et service en ligne
+## Choisir entre site sur mesure et service en ligne
 
-### A﻿vantages/inconvénients des sites sur mesure
+### Avantages/inconvénients des sites sur mesure
 
-L﻿'avantage de faire un site sur mesure c'est que vous pourrez faire "ce que vous voulez", c'est le principe du sur mesure. Cela nécessitera soit du temps et des compétences si vous vous en chargez vous même, soit de l'argent et un peu de temps quand même si vous faites appel à un prestataire. Les outils dans ce cas sont soit les CMS (comme [Wordpress](https://fr.wordpress.org/)) soit un générateur de site statique (comme [Hugo](https://gohugo.io/)) qu'il est possible d'administrer avec un CMS git-based (comme [DecapCMS](https://decapcms.org/)). Les générateurs de site statique, qui font partis de l'approche [jamstack](https://jamstack.org/), sont bien plus performant et écologique que ne peut l'être Wordpress. Mais il est plus facile de trouver un prestataire sur Wordpress car cet outil est plus simple techniquement et ne nécessite aucune compétence de développement.  Les outils de la jamstack sont aussi plus modulaires, il est donc plus simple de se passer d'un outil et de le remplacer par un autre qui vous conviendra davantage, contrairement à Wordpress qui est à prendre en entier et dont il est difficile à quitter une fois que son site Internet est fait avec. Si vous avez la chance de trouver un prestataire compétent sur la jamstack c'est probablement un meilleur choix que de partir sur Wordpress.\
+L'avantage de faire un site sur mesure c'est que vous pourrez faire "ce que vous voulez", c'est le principe du sur mesure. Cela nécessitera soit du temps et des compétences si vous vous en chargez vous même, soit de l'argent et un peu de temps quand même si vous faites appel à un prestataire. Les outils dans ce cas sont soit les CMS (comme [Wordpress](https://fr.wordpress.org/)) soit un générateur de site statique (comme [Hugo](https://gohugo.io/)) qu'il est possible d'administrer avec un CMS git-based (comme [DecapCMS](https://decapcms.org/)). Les générateurs de site statique, qui font partis de l'approche [jamstack](https://jamstack.org/), sont bien plus performant et écologique que ne peut l'être Wordpress. Mais il est plus facile de trouver un prestataire sur Wordpress car cet outil est plus simple techniquement et ne nécessite aucune compétence de développement.  Les outils de la jamstack sont aussi plus modulaires, il est donc plus simple de se passer d'un outil et de le remplacer par un autre qui vous conviendra davantage, contrairement à Wordpress qui est à prendre en entier et dont il est difficile à quitter une fois que son site Internet est fait avec. Si vous avez la chance de trouver un prestataire compétent sur la jamstack c'est probablement un meilleur choix que de partir sur Wordpress.\
 \
-P﻿our en savoir plus sur les critères écologiques vous pouvez consulter ces deux bonnes pratiques d'écoconception :
+Pour en savoir plus sur les critères écologiques vous pouvez consulter ces deux bonnes pratiques d'écoconception :
 
 * [Favoriser les pages statiques](<Favoriser les pages statiques>)
 * [Favoriser un développement sur-mesure à l'usage d'un CMS](<Favoriser un développement sur-mesure à l'usage d'un CMS>)
 
-### A﻿vantages/inconvénients des services en ligne
+[Cliquez ici pour en savoir plus sur l'écoconception](https://www.entraide-numerique-coueron.fr/page/ecoconception/).
 
-L﻿'avantage d'un service en ligne sera le gain de temps et d'argent. Les services en ligne propose même souvent une offre gratuite pour les tous petits sites Internet qui vont convenir à la plupart des petites associations et entreprises. De nombreuses options payantes sont proposées mais facultatives.\
-L﻿'inconvénient c'est que vous êtes limité dans ce que vous pouvez faire, et les options payantes sont parfois à payer de manière mensuelle, la facture peut vite s'alourdir.\
-U﻿n autre inconvénient c'est votre dépendance vis à vis de ce service en ligne, vous ne pourrez pas changer facilement de service en ligne, il est donc essentiel de faire le bon choix, quitte à tester plusieurs services en lignes avant de se lancer définitivement sur l'un d'entre eux.
+### Avantages/inconvénients des services en ligne
+
+L'avantage d'un service en ligne sera le gain de temps et d'argent. Les services en ligne propose même souvent une offre gratuite pour les tous petits sites Internet qui vont convenir à la plupart des petites associations et entreprises. De nombreuses options payantes sont proposées mais facultatives.\
+L'inconvénient c'est que vous êtes limité dans ce que vous pouvez faire, et les options payantes sont parfois à payer de manière mensuelle, la facture peut vite s'alourdir.\
+U﻿n autre inconvénient c'est votre dépendance vis à vis de ce service en ligne, vous ne pourrez pas changer facilement de service en ligne, il est donc essentiel de faire le bon choix, quitte à tester plusieurs services en lignes avant de se lancer définitivement sur l'un d'entre eux.\
+I﻿l sera aussi plus complexe de faire un site écoconçu, mais vous aurez tout de même quelques actions possibles en choisissant un thème simple et léger et en évitant de multiplier les médias (vidéos et photos). Vous pourrez vérifier que votre page est sobre grâce au site [ecoindex.fr](https://www.ecoindex.fr/). Une page d'un site associatif ou d'une petite entreprise peut tout à fait avoir la note "A".
 
 ### Notre préconisation
 
@@ -65,6 +68,6 @@ Odoo : [Open Source ERP and CRM | Odoo](https://www.odoo.com/fr_FR)
 
 [W﻿ordpress.com](https://wordpress.com/) est un service en ligne basé sur [Wordpress.org](https://wordpress.org/)
 
-Comme nous l'indiquions précédement le CMS Wordpress est très connu, si vous avez l'habitude d'utilisez Wordpress, et que vous ne voulez pas changez vos habitude, vous pouvez utilisez la version Service en ligne.
+Comme nous l'indiquions précédemment le CMS Wordpress est très connu, si vous avez l'habitude d'utilisez Wordpress, et que vous ne voulez pas changez vos habitude, vous pouvez utilisez la version Service en ligne.
 
-U﻿n inconvénient majeur est l'ajout de publicité sur toutes les pages de votre site Internet. C'est à nos yeux une contrainte suffisament forte pour vous déconseiller de l'utiliser.
+U﻿n inconvénient majeur est l'ajout de publicité sur toutes les pages de votre site Internet. C'est à nos yeux une contrainte suffisamment forte pour vous déconseiller de l'utiliser.
