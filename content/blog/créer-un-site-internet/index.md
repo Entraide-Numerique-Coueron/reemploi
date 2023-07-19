@@ -54,6 +54,8 @@ Site W : <https://www.sitew.com/>
 
 Un avantage de choisir SiteW, même si vous êtes limité à 5 pages, c'est que vous aurez l'accompagnement de HelloAsso et de leur programme PANA.
 
+N﻿'hésitez pas à utiliser HelloAsso même si vous ne choisissez pas d'utiliser SiteW. [Cliquez ici pour en savoir plus sur HelloAsso](https://www.youtube.com/watch?v=G3_2006-zgs)
+
 ### Odoo
 
 Une solution alternative à siteW c'est Odoo. Cette solution est belge et a une bonne réputation.\
