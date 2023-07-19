@@ -36,7 +36,6 @@ Toutefois en creusant, aucun n'est parfait
 * SFR : réalise des "optimisations fiscales", mauvaise condition de travail. [Voir le détail de SFR sur MoralScore](https://moralscore.org/companies/sfr/)
 * RED by SFR : réalise des "optimisations fiscales", mauvaise condition de travail. [Voir le détail de RED by SFR sur MoralScore](https://moralscore.org/companies/red-by-sfr/)
 * Bouygues : réalise des "optimisations fiscales". [Voir le détail sur MoralScore](https://moralscore.org/companies/bouygues-telecom/)
-  Vous pouvez préférez l'offre [Source Mobile](https://www.sourcemobile.fr/) qui est l'offre responsable et solidaire de Bouygues.
 * Orange : [selon MoralScore](https://moralscore.org/companies/orange/) les conditions de travail y sont mauvaise. 
   Aussi Orange s'est fait épinglé par [l'association Canopée](https://www.canopee-asso.org/) pour faire du [Greenwashing en finançant Alliance Forêts Bois](https://www.canopee-asso.org/greenwashing-canopee-interpelle-alliance-forets-bois/) qui effectue des [coupes rases de forêts](https://www.youtube.com/watch?v=OxI0g31Sq8k&t=1005s) pour y planter des pins maritimes destinés à leur industrie.
 
@@ -48,8 +47,6 @@ Destiné à un public plus averti et engagé, les FAI alternatifs s'opposent à 
 
 * [French Data NetWork](https://www.fdn.fr/) : un FAI associatif national
 * [F﻿AI Maison](https://www.faimaison.net/) : un FAI associatif nantais
-
-
 
 ## Remise en perspective
 
