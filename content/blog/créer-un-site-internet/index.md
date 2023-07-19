@@ -5,8 +5,8 @@ description: Créer un site Internet pour une association ou une très petite en
 ---
 Pour les petites associations et petites entreprises qui souhaitent créer un site Internet deux solutions s'offre à vous :
 
-* Créer vous même, ou faire appel à un prestataire, pour créer un site sur mesure
-* Utiliser un service en ligne de création de site Internet
+* Créer vous même, ou faire appel à un prestataire, pour créer **un site sur mesure**
+* Utiliser **un service en ligne** de création de site Internet
 
 ## Choisir entre site sur mesure et service en ligne
 
