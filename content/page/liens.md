@@ -40,11 +40,14 @@ Le numérique c'est aussi plein de bonnes choses, découvrez notre sélection de
 
 * [Emmabunutus - Campagne de Réemploi pour tous - Clé USB de réemploi](https://emmabuntus.org/campagne-de-reemploi-pour-tous/)
 * [Android Upcycling - Allongement de la durée de vie des smartphones](https://fsfe.org/activities/upcyclingandroid/upcyclingandroid.fr.html)
+* [Jerry Do It Together](https://www.youandjerrycan.org/)
 
 # Réparer
 
 * [iFixit](https://fr.ifixit.com/)
-* [sosav](https://www.sosav.fr/)
+* [SoSAV](https://www.sosav.fr/)
+* [Spareka](https://www.spareka.fr/)
+* [Repar'Acteurs](https://www.reparacteurs.artisanat.fr/)
 
 # Podcast numérique responsable
 
