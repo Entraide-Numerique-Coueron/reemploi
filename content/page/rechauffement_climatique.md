@@ -16,6 +16,9 @@ C'est lors de la fabrication du matériel utilisateur (smartphone, ordinateur, t
 Evolution des températures moyennes annuelles en France depuis 1899 :
 ![Evolution des températures moyennes annuelles en France depuis 1890](/img/warming-stripes-france.png "Evolution des températures moyennes annuelles en France depuis 1890")
 
+> <h3>« Nous poussons la planète vers un avenir climatique où seule une partie de sa surface sera habitable »</h3>
+Les coprésidents du groupe de travail 2 du GIEC, l’Allemand Hans-Otto Pörtner et la Sud-Africaine Debra Roberts
+
 # Pour aller plus loin
 
 * En savoir plus sur le réchauffement climatique
