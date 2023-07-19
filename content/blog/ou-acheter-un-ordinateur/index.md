@@ -38,13 +38,29 @@ Remarque : il est possible de faire du jeu vidéo sous Linux, par exemple avec l
 
 Les ordinateurs d'occasion ou reconditionnés sont des produits de secondes mains déjà utilisés.
 
-Mais les ordinateurs reconditionnés ont été contrôlés et vérifiés, les pièces défectueuses ont été remplacées, ils bénéficient aussi d'une garantie. Il apparaît préférable d'acheter du matériel reconditionné.
+Mais les ordinateurs reconditionnés ont été contrôlés et vérifiés, les pièces défectueuses ont été remplacées, ils bénéficient aussi d'une garantie. Il apparaît préférable d'acheter du matériel reconditionné bien qu'il soit probablement plus cher.
 
-### Quelques sites
+### Récupérer un don
+
+* Au sein de [notre collectif](/page/materiel), ou d'un [autre collecitf]()https://donordi.fr/).
+* Sur [l'application Geev](https://www.geev.com/fr)
+
+De nombreuses autres alternatives :
+
+* [matériel d'occasion](https://riendeneuf.org/les-alternatives/)
+
+### Acheter d'occasion en magasin
+
+Dans des boutiques d'occasion, comme
+
+* La [Trocante](http://www.trocante.fr/) (il y a plusieurs [Trocante en France](http://www.trocante.fr/Magasins)) 
+* [Planète Occasion](http://www.planete-occasion-nantes.fr/) à Carquefou près de Nantes
+
+### Acheter reconditionné
 
 * [Don ordi](https://donordi.fr/) : de nombreuses associations proposent des ordinateurs reconditionnés à prix très réduit)
 * [La bootique - Les ateliers du bocage](https://la-bootique.com/) Les ateliers du bocage sont une coopérative, entreprise adaptée et d’insertion, membre du mouvement Emmaüs.
-* [AfbShop](https://www.afbshop.fr/) Vente en ligne, mais aussi 4 boutiques en France. 70% de salariés en situation de handicap.
+* [AfbShop](https://www.afbshop.fr/) Vente en ligne, mais aussi 4 boutiques en France, dont une à Carquefou. 70% de salariés en situation de handicap.
 * [Trade Discount](https://www.tradediscount.com/) Entreprise "eco-citoyenne", favorisant l'inclusion sociale
 * [Fnac 2ème vie](https://www.fnac.com/Fnac-Seconde-Vie/Ordinateur-et-Tablette-d-occasion/shi377369/w-4#bl=2nde_vie_NMO_Micro)
 * [Boulanger ordinateur reconditionné](https://www.boulanger.com/c/tous-les-ordinateurs-portables/_etat_produit~reconditionne9)
