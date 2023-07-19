@@ -244,6 +244,7 @@ img.logo {
 
 /* We want to give the content area some more padding */
 .content {
+    position: relative;
     padding: 1em 1em 3em;
     margin: auto;
     max-width: 1200px;
@@ -287,7 +288,21 @@ img.logo {
     color: #fff;
 }
 
-/* This is the class used for the footer */
+.content blockquote {
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
+    text-align: center;
+    padding: 15px;
+}
+
+.content blockquote, .content blockquote h3 {
+    background: #BF4E24;
+    color: #fff;
+}
+
+    /* This is the class used for the footer */
 .footer {
     z-index: 3;
     display: block;
