@@ -25,23 +25,23 @@ Pour en savoir plus sur les critères écologiques vous pouvez consulter ces deu
 
 L'avantage d'un service en ligne sera le gain de temps et d'argent. Les services en ligne propose même souvent une offre gratuite pour les tous petits sites Internet qui vont convenir à la plupart des petites associations et entreprises. De nombreuses options payantes sont proposées mais facultatives.\
 L'inconvénient c'est que vous êtes limité dans ce que vous pouvez faire, et les options payantes sont parfois à payer de manière mensuelle, la facture peut vite s'alourdir.\
-U﻿n autre inconvénient c'est votre dépendance vis à vis de ce service en ligne, vous ne pourrez pas changer facilement de service en ligne, il est donc essentiel de faire le bon choix, quitte à tester plusieurs services en lignes avant de se lancer définitivement sur l'un d'entre eux.\
-I﻿l sera aussi plus complexe de faire un site écoconçu, mais vous aurez tout de même quelques actions possibles en choisissant un thème simple et léger et en évitant de multiplier les médias (vidéos et photos). Vous pourrez vérifier que votre page est sobre grâce au site [ecoindex.fr](https://www.ecoindex.fr/). Une page d'un site associatif ou d'une petite entreprise peut tout à fait avoir la note "A".
+Un autre inconvénient c'est votre dépendance vis à vis de ce service en ligne, vous ne pourrez pas changer facilement de service en ligne, il est donc essentiel de faire le bon choix, quitte à tester plusieurs services en lignes avant de se lancer définitivement sur l'un d'entre eux.\
+Il sera aussi plus complexe de faire un site écoconçu, mais vous aurez tout de même quelques actions possibles en choisissant un thème simple et léger et en évitant de multiplier les médias (vidéos et photos). Vous pourrez vérifier que votre page est sobre grâce au site [ecoindex.fr](https://www.ecoindex.fr/). Une page d'un site associatif ou d'une petite entreprise peut tout à fait avoir la note "A".
 
 ### Notre préconisation
 
-S﻿i vous êtes une toute petite structure, je vous conseille de choisir un service en ligne. C'est ce que nous allons présenter plus en détail ci-dessous.
+Si vous êtes une toute petite structure, je vous conseille de choisir un service en ligne. C'est ce que nous allons présenter plus en détail ci-dessous.
 
-S﻿i vous craignez d'être trop limité et prêt à mettre un budget, alors tentez de trouver un prestataire pouvant vous faire un site statique avec un générateur et un CMS bit-based.
+Si vous craignez d'être trop limité et prêt à mettre un budget, alors tentez de trouver un prestataire pouvant vous faire un site statique avec un générateur et un CMS bit-based.
 
-## P﻿résentation de plusieurs services en ligne
+## Présentation de plusieurs services en ligne
 
-### S﻿iteW
+### SiteW
 
 [HelloAsso](https://www.helloasso.com/) est une structure spécialisée dans l'accompagnement des associations.\
 Ils ont créé le programme PANA (Point d'Appui au Numérique Associatif) :\
 [Point d'Appui au Numérique Associatif | HelloAsso](https://www.helloasso.com/associations/point-d-appui-au-numerique-associatif)\
-Et ils recommandent d'utiliser le gestionnaire de site nommé **siteW**.\
+Et ils recommandent d'utiliser le gestionnaire de site nommé **siteW**.\
 Nous vous conseillons pour mieux comprendre de regarder cette vidéo :
 
 [Atelier en ligne PANA | Créer et gérer le site internet de son association - YouTube](https://www.youtube.com/watch?v=dwijK8eZdo4&feature=youtu.be)
@@ -50,24 +50,24 @@ SiteW vous permet d'avoir un site gratuit contenant 5 pages maximum, après c'es
 
 C'est une entreprise française (contrairement aux autres gestionnaires de site),  basé à Aurillac, et qui semble être responsable socialement et environnementalement.
 
-Site W : <https://www.sitew.com/>
+Site W : <https://www.sitew.com/>
 
 Un avantage de choisir SiteW, même si vous êtes limité à 5 pages, c'est que vous aurez l'accompagnement de HelloAsso et de leur programme PANA.
 
-### O﻿doo
+### Odoo
 
 Une solution alternative à siteW c'est Odoo. Cette solution est belge et a une bonne réputation.\
 Le modèle économique est le même : une offre gratuite, des options payantes.
 
-[V﻿oici une vidéo d'une émission du fondateur d'Odoo](https://www.youtube.com/watch?v=J403Rt7i-R0).
+[Voici une vidéo d'une interview du fondateur d'Odoo](https://www.youtube.com/watch?v=J403Rt7i-R0).
 
 Odoo a l'avantage de proposer d'autres outils pour gérer votre association (pas que le site Internet); par contre ce sera payant.\
-Odoo : [Open Source ERP and CRM | Odoo](https://www.odoo.com/fr_FR)
+Odoo : [Open Source ERP and CRM | Odoo](https://www.odoo.com/fr_FR)
 
-### W﻿ordpress.com
+### Wordpress.com
 
-[W﻿ordpress.com](https://wordpress.com/) est un service en ligne basé sur [Wordpress.org](https://wordpress.org/)
+[Wordpress.com](https://wordpress.com/) est un service en ligne basé sur [Wordpress.org](https://wordpress.org/)
 
 Comme nous l'indiquions précédemment le CMS Wordpress est très connu, si vous avez l'habitude d'utilisez Wordpress, et que vous ne voulez pas changez vos habitude, vous pouvez utilisez la version Service en ligne.
 
-U﻿n inconvénient majeur est l'ajout de publicité sur toutes les pages de votre site Internet. C'est à nos yeux une contrainte suffisamment forte pour vous déconseiller de l'utiliser.
+Un inconvénient majeur est l'ajout de publicité sur toutes les pages de votre site Internet. C'est à nos yeux une contrainte suffisamment forte pour vous déconseiller de l'utiliser.
