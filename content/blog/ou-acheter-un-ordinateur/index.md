@@ -40,6 +40,16 @@ Les ordinateurs d'occasion ou reconditionnés sont des produits de secondes main
 
 Mais les ordinateurs reconditionnés ont été contrôlés et vérifiés, les pièces défectueuses ont été remplacées, ils bénéficient aussi d'une garantie. Il apparaît préférable d'acheter du matériel reconditionné bien qu'il soit probablement plus cher.
 
+### Modixia : Notre coup de coeur
+
+[Modixa](http://modixia.fr/) est une jeune entreprise innovante avec un super concept.
+Basé à Indre, donc à 6km de Couëron, Modixia fait du réemploi et du reconditionnement d'un tout autre niveau.
+
+En effet, ils récupèrent le matériel que les grands reconditionneurs ne veulent pas traiter, et qui serait parti en recyclage (et le recyclage en informatique fonctionne très mal).
+Et à partir de ce matériel ils conçoivent de nouveaux ordinateurs fixes ou portables.
+
+* [Rendez-vous sur le site de Modixa](http://modixia.fr/) pour plus d'informations.
+
 ### Récupérer un don
 
 * Au sein de [notre collectif](/page/materiel), ou d'un [autre collecitf]()https://donordi.fr/).
