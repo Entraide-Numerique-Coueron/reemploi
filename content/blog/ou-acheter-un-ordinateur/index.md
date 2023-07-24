@@ -66,10 +66,19 @@ Dans des boutiques d'occasion, comme
 * La [Trocante](http://www.trocante.fr/) (il y a plusieurs [Trocante en France](http://www.trocante.fr/Magasins)) 
 * [Planète Occasion](http://www.planete-occasion-nantes.fr/) à Carquefou près de Nantes
 
+### S'équiper auprès d'une association
+
+D'autres associations font des dons ou ventes solidaires de matériel.
+
+* [Alis44](https://alis44.org/) : à Nantes
+* [La Frat'](https://fraternitenantes.fr/nos-activites/entraide/) : à Nantes
+* [SNALIS](https://snalis.org/) : à Saint-Nazaire
+* [ACIAH](https://www.aciah-formations-informatiques-pour-tous.fr/) : Chateaubriand
+* [Une liste ailleurs en France](https://donordi.fr/)
+
 ### Acheter reconditionné
 
-* [Don ordi](https://donordi.fr/) : de nombreuses associations proposent des ordinateurs reconditionnés à prix très réduit)
-* [La bootique - Les ateliers du bocage](https://la-bootique.com/) Les ateliers du bocage sont une coopérative, entreprise adaptée et d’insertion, membre du mouvement Emmaüs.
+* [La bootique - Les ateliers du bocage](https://la-bootique.com/) Les ateliers du bocage sont une coopérative, entreprise adaptée et d’insertion, membre du mouvement Emmaüs. Basée dans les Deux-sèvres.
 * [AfbShop](https://www.afbshop.fr/) Vente en ligne, mais aussi 4 boutiques en France, dont une à Carquefou. 70% de salariés en situation de handicap.
 * [Trade Discount](https://www.tradediscount.com/) Entreprise "eco-citoyenne", favorisant l'inclusion sociale
 * [Fnac 2ème vie](https://www.fnac.com/Fnac-Seconde-Vie/Ordinateur-et-Tablette-d-occasion/shi377369/w-4#bl=2nde_vie_NMO_Micro)
