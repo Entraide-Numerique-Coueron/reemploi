@@ -66,6 +66,14 @@ Le modèle économique est le même : une offre gratuite, des options payantes.
 Odoo a l'avantage de proposer d'autres outils pour gérer votre association (pas que le site Internet); par contre ce sera payant.\
 Odoo : [Open Source ERP and CRM | Odoo](https://www.odoo.com/fr_FR)
 
+### Mon site Vert
+
+Ecolo avant tout, Mon Site Vert a pour objectif de réduire les imapcts environnementaux du web.
+
+Un frein toutefois : son cout est de 25€ par mois.
+
+Lien : [MonSiteVert](https://www.monsitevert.fr/)
+
 ### Wordpress.com
 
 [Wordpress.com](https://wordpress.com/) est un service en ligne basé sur [Wordpress.org](https://wordpress.org/)
