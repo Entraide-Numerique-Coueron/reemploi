@@ -19,6 +19,8 @@ Le numérique c'est aussi plein de bonnes choses, découvrez notre sélection de
 * [Le coup de main numérique](https://le-coup-de-main-numerique.org/)
 * [La maison du libre](https://www.alamaisondulibre.org/)
 * [Nantes Numérique responsable](https://nantes-numerique-responsable.org/)
+* [Alis44](https://alis44.org/)
+* [Ping](https://www.pingbase.net/)
 
 # Numérique responsable
 
