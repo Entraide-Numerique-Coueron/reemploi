@@ -63,3 +63,8 @@ Le numérique c'est aussi plein de bonnes choses, découvrez notre sélection de
 # Quelques vidéos
 
 * [Green GDG Alps #14: Ecologie et numérique](https://www.youtube.com/watch?v=zmE0X2KKRjc)
+
+# Autres domaines
+
+* [Re'Cyclo](http://www.atao-insertion.fr/prestations-services/vente-reparation-velos/cyclo,30.html)
+Collecte des vélos (pour éviter qu'ils aillent en déchetterie), les répare et les revends.
