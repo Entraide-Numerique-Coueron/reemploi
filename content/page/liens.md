@@ -26,6 +26,7 @@ Le numérique c'est aussi plein de bonnes choses, découvrez notre sélection de
 
 * [La fresque du numérique](https://www.fresquedunumerique.org/)
 * [Association HOP "Halte à l'Obsolescence programmée"](https://www.halteobsolescence.org/)
+* [Indice de réparabilité](https://www.indicereparabilite.fr/)
 * [GreenIt](https://www.greenit.fr/)
 * [Le Bon Digital](https://lebondigital.com/)
 * [Limites Numériques](https://limitesnumeriques.substack.com/)
