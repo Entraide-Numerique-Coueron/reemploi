@@ -14,5 +14,6 @@ La fabrication de nouveaux matériels sera plus difficile, mais aussi la répara
 
 ![La demande dépasse la capacité de production](/img/demande_metaux.jpg "La demande dépasse la capacité de production.")
 
-
+> ### « En 2019, l'industrie a produit 1,36 milliards de smartphone. »
+> Source : Etude de Gauthier ROUSSILHE
 
