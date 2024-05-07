@@ -17,9 +17,11 @@ Sans rendez-vous, ouvert à toutes et tous, tous niveaux.
 - mercredi 6 décembre
 - mercredi 17 janvier
 - mercredi 28 février
+- remarque : bidouille café : samedi 16 mars de 14h à 18h
 - mercredi 27 mars
 - mercredi 24 avril
 - mercredi 22 mai
+- remarque : bidouille café : samedi 8 juin de 14h à 18h
 - mercredi 19 juin
 
 
