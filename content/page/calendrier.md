@@ -7,6 +7,7 @@ weight: 45
 description: Evènements à venir.
 ---
 Nos permanences à venir, un mercredi par mois, de 18h30 à 19h30 (nous vous conseillons de venir dès 18h30).
+Lieu : Centre Pierre Legendre, 7 boulevard François Blancho, 44220 Couëron.
 
 Sans rendez-vous, ouvert à toutes et tous, tous niveaux.
 
