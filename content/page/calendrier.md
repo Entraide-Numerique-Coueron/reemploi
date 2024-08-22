@@ -28,6 +28,6 @@ Si ces dates ne vous conviennent pas, pour obtenir une aide sur vos usages voyez
 * [CCAS de Couëron](https://www.ville-coueron.fr/solidarites/centre-communal-daction-sociale/)
 * [le coup de main numérique](https://le-coup-de-main-numerique.org/)
 
-Pour obtenir une aide d'autres techniques voyez avec les professionnels sur Couëron :
+Pour obtenir une aide technique voyez avec les professionnels sur Couëron :
 
 * [Les autres acteurs sur Couëron](/page/coueron)
