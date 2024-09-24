@@ -85,7 +85,7 @@ L'intelligence artificielle (IA) sollicite essentiellement les serveurs. Les mod
 
 Si l'IA peut avoir des vertus : détecter une maladie, prédire la météo etc. L'IA est aussi utilisée en guise de loisir : génération d'images, de textes, de vidéos peu utiles. L'IA peut aussi être utilisé pour augmenter la consommation, en optimisant la pertinence des publicités, accroissant de fait l'impact environnemental de nos modes de vies.
 
-Que faire alors ? Tout simplement évitons d'utiliser l'IA pour des choses futiles. Nous n'avons pas besoin d'IA pour optimiser notre liste de course. Laissons l'IA entre les mains de ceux qui peuvent l'utiliser pour rendre le monde meilleur.
+Que faire alors ? Tout simplement évitons d'utiliser l'IA pour des choses futiles. Nous n'avons pas besoin d'IA pour optimiser notre liste de courses ou pour générer des images rigolotes. Laissons l'IA entre les mains de ceux qui peuvent l'utiliser pour rendre le monde meilleur.
 
 ### Les cryptomonnaies
 
