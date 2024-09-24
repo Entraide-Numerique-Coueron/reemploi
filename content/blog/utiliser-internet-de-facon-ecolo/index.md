@@ -19,11 +19,11 @@ C'est ce que nous allons voir dans cet article.
 
 Quel est l'enjeu d'un usage éco-responsable d'Internet ? Qu'est-ce qui pollue dans nos usages ?
 
-Lorsque nous utilisons Internet nous sollicitons :
+Lorsque nous utilisons Internet, nous sollicitons :
 * des serveurs : qui stockent les données et effectuent les opérations que nous leur demandons.
 * un réseau : box Internet, router, antennes, câbles.
 
-Ce matériel il faut :
+Pour ce matériel, il faut :
 * le fabriquer : tout comme pour l'ordinateur, la télévision, ou le smartphone que vous utilisez, pour fabriquer les serveurs et équipements réseaux : il faut extraire des métaux de la Terre. 
 Cela se fait dans des conditions environnementales douteuses, et les grosses machines excavatrices utilisent beaucoup de pétrole qui va émettre du CO2.
 * l'alimenter en électricité : chaque opération que nous allons demander, va demander de l'énergie sous forme d'électricité. Selon les pays, la fabrication de cette électricité va émettre à son tour des gaz à effet de serre. Certains pays produisent leur électricité en grande partie dans des centrales à charbon très émettrice de CO2.
@@ -66,11 +66,11 @@ Vous pouvez donc :
 * évitez de laissez la télévision allumée en guise de fond sonore. Souvenez-vous, plus l'écran est grand plus le flux de données est important.
 * regardez la télévision via la TNT plutôt que via Internet. Est-ce que votre télévision fonctionne toujours si vous débranchez votre box Internet ? Si non, c'est qu'elle passe par Internet.
 
-Pour plus d'information vous pouvez consultez le rapport du Shift Project : [Climat : l’insoutenable usage de la vidéo en ligne](https://theshiftproject.org/article/climat-insoutenable-usage-video/).
+Pour plus d'information, vous pouvez consulter le rapport du Shift Project : [Climat : l’insoutenable usage de la vidéo en ligne](https://theshiftproject.org/article/climat-insoutenable-usage-video/).
 
 ### L'audio
 
-Bien que l'audio est un impact bien moindre que la vidéo, si vous écoutez beaucoup de musique voici quelques conseils.
+Bien que l'audio ait un impact bien moindre que la vidéo, si vous écoutez beaucoup de musique voici quelques conseils.
 
 Chaque fois que vous écoutez de la musique sur une plateforme de streaming, cette musique est téléchargée temporairement le temps que vous l'écoutiez. Si vous réécoutez la même musique elle sera à nouveau téléchargée.
 
