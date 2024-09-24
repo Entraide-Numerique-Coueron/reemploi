@@ -45,9 +45,9 @@ Nous allons dans cet article regarder plus en détail ces usages sur lesquels no
 
 ### La vidéo
 
-En 2020 chaque seconde, il y aura environ 1 million de minutes de vidéos transférées sur les réseaux.
+En 2020 chaque seconde, il y avait environ 1 million de minutes de vidéos transférées sur les réseaux.
 
-Ce trafic vidéo représentera 82 % du trafic global sur Internet en 2020.
+Ce trafic vidéo représentait 82 % du trafic global sur Internet en 2020.
 
 Nous devons donc réduire nos usages de la vidéo :
 
