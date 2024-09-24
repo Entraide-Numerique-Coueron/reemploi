@@ -38,8 +38,10 @@ Nous allons dans cet article regarder plus en détail ces usages sur lesquels no
 
 * La vidéo (en streaming)
 * L'audio (en streaming)
+* la 4G, 5G
 * L'intelligence artificielle
 * Les cryptomonnaies
+* autres sources d'impact
 
 ### La vidéo
 
@@ -61,6 +63,8 @@ Vous pouvez donc :
 * évitez d'écouter de la musique sur Youtube, mais privilégiez une plateforme de musique (Deezer, Spotify). Un flux audio sollicite moins le réseau qu'un flux vidéo. Si jamais vous écoutez une musique sur Youtube, vous pouvez réduire la qualité vidéo au minimum.
 * envoyez moins de vidéos à votre famille ou vos amis : si vous leur envoyez du contenu, alors ils vont le regardez. Le flux d'envoi et chaque lecture aura un impact sur le réseau.
 * regardez vos vidéos sur un écran plus petit : une vidéo affichée sur un grand écran (télévision) sollicitera plus le réseau que la même vidéo affichée sur un plus petit écran (smartphone). 
+* évitez de laissez la télévision allumée en guise de fond sonore. Souvenez-vous, plus l'écran est grand plus le flux de données est important.
+* regardez la télévision via la TNT plutôt que via Internet. Est-ce que votre télévision fonctionne toujours si vous débranchez votre box Internet ? Si non, c'est qu'elle passe par Internet.
 
 Pour plus d'information vous pouvez consultez le rapport du Shift Project : [Climat : l’insoutenable usage de la vidéo en ligne](https://theshiftproject.org/article/climat-insoutenable-usage-video/).
 
@@ -79,6 +83,22 @@ Si vous souhaitez écouter de la musique de manière plus éco-responsable, vous
 
 De manière générale, toute la musique qui peut s'écouter hors connexion aura moins d'impact que celle venant d'Internet. En revanche n'achetez pas neuf exprès pour cela des objets tels que des lecteurs Mp3, clé USB, CDs ; un objet physique a, lui aussi, un impact à sa fabrication, essayez de les trouvez d'occasion.
 
+### La 4G, 5 etc.
+
+Lorsque nous consultons Internet depuis notre smartphone nous pouvons soit utiliser le Wifi soit passer par nos données mobiles : 4G, 5G.
+
+Il faut savoir que les données mobiles (la Data) ont un impact plus important que le wifi.
+
+* 3G : 15 fois plus d’énergie qu’en Wi-Fi ;
+* 4G : 23 fois plus d’énergie qu’en Wi-Fi.
+
+Que faire ?
+
+* éviter de regarder une vidéo en 3G, 4G, 5G : le flux vidéo est le plus consommateur, alors en le consultant en 4G vous allez le multipliez par 20. Essayez d'attendre d'avoir du wifi pour consulter cette vidéo.
+* prennez un forfait mobile avec peu de Data, et au besoin (par exemple en vacances) ajoutez un peu de Data. Un forfait avec 5Go de Data est largement suffisant pour le commun des mortels. Cela vous coutera moins cher tout en vous incitant à évitez d'utiliser le Data.
+
+En savoir plus : [Internet mobile : la 4G est-elle une abomination énergétique ?](https://www.greenit.fr/2016/03/15/internet-mobile-la-4g-est-elle-une-abomination-energetique/)
+
 ### L'intelligence artificielle
 
 L'intelligence artificielle (IA) sollicite essentiellement les serveurs. Les modèles d'IA avant d'être performants doivent être entraînés afin de fournir un résultat fiable. Cet entrainement nécessite beaucoup de serveurs et beaucoup d'électricité pour les faire fonctionner.
@@ -86,6 +106,8 @@ L'intelligence artificielle (IA) sollicite essentiellement les serveurs. Les mod
 Si l'IA peut avoir des vertus : détecter une maladie, prédire la météo etc. L'IA est aussi utilisée en guise de loisir : génération d'images, de textes, de vidéos peu utiles. L'IA peut aussi être utilisé pour augmenter la consommation, en optimisant la pertinence des publicités, accroissant de fait l'impact environnemental de nos modes de vies.
 
 Que faire alors ? Tout simplement évitons d'utiliser l'IA pour des choses futiles. Nous n'avons pas besoin d'IA pour optimiser notre liste de courses ou pour générer des images rigolotes. Laissons l'IA entre les mains de ceux qui peuvent l'utiliser pour rendre le monde meilleur.
+
+En savoir plus : [Quels sont les impacts environnementaux de l’IA ?](https://www.greenit.fr/2024/08/15/quels-sont-les-impacts-environnementaux-de-lia/)
 
 ### Les cryptomonnaies
 
@@ -108,4 +130,30 @@ Si vous souhaitez investir, varier vos investissements vous avez la possibilité
 * d'investir dans des cryptomonnaies "eco-responsable" dont le mode de validation est moins gourmand en énergie donc en matériel informatique. Voyez cet article : [Quelles sont les cryptomonnaies les plus écologiques ?](https://www.linfodurable.fr/economie/quelles-sont-les-cryptomonnaies-les-plus-ecologiques-45989)
 * d'investir dans des produits financiers éco-responsable. Comme on peut le trouver sur des plateformes de prêt participatif [LiTA.co](https://fr.lita.co/fr), [Enerfip](https://enerfip.eu/), [MiiMOSA](https://miimosa.com/). Ou sur d'autres produits financiers labélisés [Finansol](https://www.finance-fair.org/fr).
 
-Pour plus d'informations sur l'impact environnemental des cryptomonnaies : [L'impact environnemental de la cryptomonnaie](https://www.hellocarbo.com/blog/communaute/impact-environnemental-cryptomonnaie/#:~:text=la%20consommation%20d'%C3%A9nergie%2C%20principalement,sur%20230%20(donn%C3%A9es%20EIA).)
+En savoir plus : [L'impact environnemental de la cryptomonnaie](https://www.hellocarbo.com/blog/communaute/impact-environnemental-cryptomonnaie/#:~:text=la%20consommation%20d'%C3%A9nergie%2C%20principalement,sur%20230%20(donn%C3%A9es%20EIA).)
+
+### Autres sources d'impacts
+
+Vous avez compris que les impacts viennent du fait de solliciter les serveurs et le réseau. 
+
+Vous pouvez à partir de ces informations déduire certains impacts qui ne sont pas indiqués dans cet article.
+
+Si vous constatez qu'un traitement numérique a l'air d'être compliqué, de prendre du temps, c'est qu'il sollicite probablement beaucoup de ressources.
+
+
+## Conclusion
+
+Agir de manière éco-responsable c'est être conscient des impacts du numérique. Il n'y a pas d'interdit, mais une modération responsable.
+
+Concentrez-vous sur les actions les plus efficaces. Il est bien moins grave d'envoyer trop d'email que de passez ses journées à regarder des vidéos en ligne.
+
+Livre :
+
+* [Tendre vers la sobriété numérique - Je passe à l'acte - Frédéric Bordage](https://www.greenit.fr/2021/10/05/tendre-vers-la-sobriete-numerique/)
+* [Sobriété numérique - Les clés pour agir - Frédéric Bordage](https://www.greenit.fr/2019/09/10/sobriete-numerique-les-cles-pour-agir/)
+
+En savoir plus :
+
+* [Comment réduire mon empreinte numérique à la maison ?](https://www.greenit.fr/2018/09/18/reduire-empreinte-numerique-a-maison/)
+* [Sobriété numérique : 5 bonnes résolutions pour 2024](https://www.greenit.fr/2024/01/11/sobriete-numerique-5-bonnes-resolutions-pour-2024/)
+* [5 gestes pour réduire efficacement son empreinte numérique au bureau](https://www.greenit.fr/2022/01/04/5-gestes-pour-reduire-efficacement-son-empreinte-numerique-au-bureau/)
