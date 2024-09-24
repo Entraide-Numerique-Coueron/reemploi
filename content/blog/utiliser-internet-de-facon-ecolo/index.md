@@ -21,12 +21,12 @@ Quel est l'enjeu d'un usage éco-responsable d'Internet ? Qu'est-ce qui pollue d
 
 Lorsque nous utilisons Internet nous sollicitons :
 * des serveurs : qui stockent les données et effectuent les opérations que nous leur demandons.
-* un réseau : box Internet, router, antennes, cables.
+* un réseau : box Internet, router, antennes, câbles.
 
 Ce matériel il faut :
 * le fabriquer : tout comme pour l'ordinateur, la télévision, ou le smartphone que vous utilisez, pour fabriquer les serveurs et équipements réseaux : il faut extraire des métaux de la Terre. 
 Cela se fait dans des conditions environnementales douteuses, et les grosses machines excavatrices utilisent beaucoup de pétrole qui va émettre du CO2.
-* l'alimenter en électricité : chaque opération que nous allons demander, va demander de l'énergie sous forme d'électricité. Selon les pays, la fabrication de cette électricité va émettre à son tour des gaz à effet de serre. Certains pays produisent leur électricité en grande partie dans des centrales à charbon très émétrice de CO2.
+* l'alimenter en électricité : chaque opération que nous allons demander, va demander de l'énergie sous forme d'électricité. Selon les pays, la fabrication de cette électricité va émettre à son tour des gaz à effet de serre. Certains pays produisent leur électricité en grande partie dans des centrales à charbon très émettrice de CO2.
 
 En résumé, l'enjeu est donc de connaitre les usages qui sollicitent beaucoup les serveurs et le réseau pour réduire ces usages.
 
@@ -89,5 +89,23 @@ Que faire alors ? Tout simplement évitons d'utiliser l'IA pour des choses futil
 
 ### Les cryptomonnaies
 
+Les cryptomonnaies sont des monnaies numériques, la plus connue est le Bitcoin. Pour fonctionner chaque transaction (un achat) est validé grâce à un puissant calcul appelé le "minage". 
 
+L'action de "miner" consiste donc à valider des transactions, en échange de ces transactions, les "mineurs" sont récompenser en obtenant des Bitcoin.
 
+Si il y a quelques années le Bitcoin ne valait pas grand chose en équivalent euro ou dollar, désormais un Bitcoin vaut plusieurs dizaines de milliers d'euros.
+
+Le minage étant une activité lucrative, de véritable "ferme de minage" ont vu le jour, regroupant énormément de matériel informatique dont le seul but est de valider des transactions.
+
+Ce matériel nécessitant d'être alimenté en électricité, le ferme de minage sont souvent construite là où l'électricité est la moins cher dans le monde, souvent issu de centrale électrique à charbon. On trouve ainsi des fermes de minages en Chine ou dans les pays du pétrole.
+
+Les cryptomonnaies offrent une alternative aux monnaies traditionnelles, et peuvent ne pas souffrir de l'inflation. C'est pourquoi des particuliers peuvent faire le choix d'investir une partie de leurs économies dans les cryptomonnaies.
+
+Que faire alors ?
+
+Si vous souhaitez investir, varier vos investissements vous avez la possibilité :
+
+* d'investir dans des cryptomonnaies "eco-responsable" dont le mode de validation est moins gourmand en énergie donc en matériel informatique. Voyez cet article : [Quelles sont les cryptomonnaies les plus écologiques ?](https://www.linfodurable.fr/economie/quelles-sont-les-cryptomonnaies-les-plus-ecologiques-45989)
+* d'investir dans des produits financiers éco-responsable. Comme on peut le trouver sur des plateformes de prêt participatif [LiTA.co](https://fr.lita.co/fr), [Enerfip](https://enerfip.eu/), [MiiMOSA](https://miimosa.com/). Ou sur d'autres produits financiers labélisés [Finansol](https://www.finance-fair.org/fr).
+  ,
+Pour plus d'informations sur l'impact environnemental des cryptomonnaies : [L'impact environnemental de la cryptomonnaie](https://www.hellocarbo.com/blog/communaute/impact-environnemental-cryptomonnaie/#:~:text=la%20consommation%20d'%C3%A9nergie%2C%20principalement,sur%20230%20(donn%C3%A9es%20EIA).)
