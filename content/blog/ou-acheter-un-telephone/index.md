@@ -20,6 +20,14 @@ Est-ce qu'un simple téléphone portable ne suffirait-il pas à vos besoins ?
 
 Sachez toutefois que l'empreinte carbone d'un smartphone est inférieure à tous les objets qu'il peut remplacer : appareil photo, baladeur Mp3, GPS, réveil, console de jeu portable, etc. Il est préférable de prendre un bon smartphone remplaçant tous ces usages plutôt que d'acheter ces différents objets : prévoyez peut-être plus d'espace disque. Un smartphone avec 64Go sera plus polyvalent et fera par exemple un bien meilleur baladeur MP3 que celui avec seulement 32Go (il est plus écologique d'écouter la musique stockée sur le téléphone plutôt que de la lire en streaming).
 
+### La taille de l'écran
+
+Si vous choisissez d'acheter un smartphone, sachez ensuite que plus le smartphone sera grand (grand écran), avec plein d'options (plusieurs caméras etc...) plus il aura fallu extraire des ressources pour le fabriquer, donc plus il aura un impact environnemental.
+
+De plus, avec plus d'options, il lui faut une batterie plus grosse afin de conserver une autonomie similaire.
+
+Aussi regardez des vidéos sur un écran plus grand aura un impact environnemental plus important.
+
 ### Double carte SIM
 
 Vous avez besoin d'un téléphone pro et perso ? Prenez un unique téléphone pouvant prendre deux cartes SIM. Ou demandez à votre employeur un smartphone de ce type.
@@ -35,6 +43,7 @@ Les smartphones d'occasion ou reconditionnés sont des produits de secondes main
 * [La bootique - Les ateliers du bocage](https://la-bootique.com/) Les ateliers du bocage sont une coopérative, entreprise adaptée et d’insertion, membre du mouvement Emmaüs.
 * [ReCommerce](https://www.recommerce.com/fr/) Pionier du reconditionnement, ils sous-traitent le reconditionnement en Europe de l'est.
 * [Remade](https://remade.com/) Spécialisé dans le reconditionnement d'iPhone. Son usine est basée près du Mont-Saint-Michel.
+* [Murena](https://murena.com/fr/produits/smartphones/) Smartphone "déGooglisé" grâce au système d'exploitation [/e/OS](https://e.foundation/fr/e-os/)
 * [Smaaart](https://smaaart.fr/) Son usine est basée près de Montpellier/
 * [ReBuy](https://www.rebuy.fr/) Reconditionne des smartphones. Et "climatiquement neutre".
 * [CertiDeal](https://smaaart.fr/) Reconditionne des smartphones. Certification ISO14001.
@@ -89,6 +98,18 @@ La location met la pression sur le loueur, qui doit proposer du matériel durabl
 En cas de panne matérielle, c'est donc à Commown que revient la charge financière de remplacer la pièce.
 
 * [Site Internet de Commown](https://commown.coop/)
+
+## Smartphone "déGooglisé" grâce au système d'exploitation [/e/OS](https://e.foundation/fr/e-os/)
+
+Lorsqu'on achète un smartphone Android dans le commerce celui-ci est intriqué à Google. Il faut obligatoirement disposer d'un compte google.
+Lors de l'utilisation des "trackers espions" vont envoyer à Google des informations sur vos usages. Ces trackers augmente l'utilisation de la batterie de votre téléphone.
+
+/e/OS est un système d'exploitation, lui aussi basé sur Android, mais sans la surcouche Google. En évitant les trackers, la batterie de votre téléphone est moins sollicitée, elle va se vider moins vite et va durée plusieurs années supplémentaires.
+
+Aussi ce système d'exploitaiton prend moins d'espace disque sur le téléphone, ce qui va vous permettre d'installer plus d'application ou stocker plus de photos ou vidéos.
+
+Enfin le principal avantage est sur vos données personnelles qui ne sont plus envoyés à Googles qui les revendra à des publicitaires.
+
 
 ## Aller plus loin
 
