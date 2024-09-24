@@ -21,7 +21,7 @@ Nos conseils :
 
 # Utiliser le numérique
 
-* [Utiliser Interner de façon écolo]((/blog/utiliser-internet-de-facon-ecolo/))
+* [Utiliser Interner de façon écolo](/blog/utiliser-internet-de-facon-ecolo/)
 
 # Site Internet
 
