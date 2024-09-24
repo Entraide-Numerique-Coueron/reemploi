@@ -107,5 +107,5 @@ Si vous souhaitez investir, varier vos investissements vous avez la possibilité
 
 * d'investir dans des cryptomonnaies "eco-responsable" dont le mode de validation est moins gourmand en énergie donc en matériel informatique. Voyez cet article : [Quelles sont les cryptomonnaies les plus écologiques ?](https://www.linfodurable.fr/economie/quelles-sont-les-cryptomonnaies-les-plus-ecologiques-45989)
 * d'investir dans des produits financiers éco-responsable. Comme on peut le trouver sur des plateformes de prêt participatif [LiTA.co](https://fr.lita.co/fr), [Enerfip](https://enerfip.eu/), [MiiMOSA](https://miimosa.com/). Ou sur d'autres produits financiers labélisés [Finansol](https://www.finance-fair.org/fr).
-  ,
+
 Pour plus d'informations sur l'impact environnemental des cryptomonnaies : [L'impact environnemental de la cryptomonnaie](https://www.hellocarbo.com/blog/communaute/impact-environnemental-cryptomonnaie/#:~:text=la%20consommation%20d'%C3%A9nergie%2C%20principalement,sur%20230%20(donn%C3%A9es%20EIA).)
