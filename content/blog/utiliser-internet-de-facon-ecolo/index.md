@@ -95,6 +95,7 @@ Il faut savoir que les données mobiles (la Data) ont un impact plus important q
 Que faire ?
 
 * éviter de regarder une vidéo en 3G, 4G, 5G : le flux vidéo est le plus consommateur, alors en le consultant en 4G vous allez le multipliez par 20. Essayez d'attendre d'avoir du wifi pour consulter cette vidéo.
+* éviter les jeux nécessitant une connexion Internet lorsque vous n'avez pas le Wifi
 * prennez un forfait mobile avec peu de Data, et au besoin (par exemple en vacances) ajoutez un peu de Data. Un forfait avec 5Go de Data est largement suffisant pour le commun des mortels. Cela vous coutera moins cher tout en vous incitant à évitez d'utiliser le Data.
 
 En savoir plus : [Internet mobile : la 4G est-elle une abomination énergétique ?](https://www.greenit.fr/2016/03/15/internet-mobile-la-4g-est-elle-une-abomination-energetique/)
@@ -157,3 +158,4 @@ En savoir plus :
 * [Comment réduire mon empreinte numérique à la maison ?](https://www.greenit.fr/2018/09/18/reduire-empreinte-numerique-a-maison/)
 * [Sobriété numérique : 5 bonnes résolutions pour 2024](https://www.greenit.fr/2024/01/11/sobriete-numerique-5-bonnes-resolutions-pour-2024/)
 * [5 gestes pour réduire efficacement son empreinte numérique au bureau](https://www.greenit.fr/2022/01/04/5-gestes-pour-reduire-efficacement-son-empreinte-numerique-au-bureau/)
+* [Sobriété numérique : 7 bonnes résolutions pour 2020](https://www.greenit.fr/2020/01/07/sobriete-numerique-7-bonnes-resolutions-pour-2020/)
