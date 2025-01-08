@@ -12,6 +12,6 @@ Les produits toxiques contenus dans ces déchets sont alors relâchés dans la n
 
 ![Décharge Ghana](/img/decharge1_800px.jpg "Décharge de DEEE au Ghana.")
 
-![Décharge Ghana](/img/decharge_800px.jpg "Décharge de DEEE au Ghana.")
+![Décharge Ghana](/img/decharge2_800px.jpg "Décharge de DEEE au Ghana.")
 
 
