@@ -12,18 +12,17 @@ Lieu : Centre Pierre Legendre, 7 boulevard François Blancho, 44220 Couëron.
 
 Sans rendez-vous, ouvert à toutes et tous, tous niveaux.
 
-- mercredi 11 septembre 2024
-- mercredi 9 octobre 2024
-- mercredi 6 novembre 2024
-- mercredi 4 décembre 2024
-- mercredi 15 janvier 2025
-- mercredi 26 février 2025
-- mercredi 26 mars 2025
-- mercredi 23 avril 2025
-- mercredi 21 mai 2025
-- mercredi 18 juin 2025
+- mercredi 17 septembre 2025
+- mercredi 15 octobre 2025
+- mercredi 12 novembre 2025
+- mercredi 10 décembre 2025
+- mercredi 21 janvier 2026
+- mercredi 18 février 2026
+- mercredi 18 mars 2026
+- mercredi 29 avril 2026
+- mercredi 24 juin 2026
 
-Si ces dates ne vous conviennent pas, pour obtenir une aide sur vos usages voyez avec :
+Si ces dates ne vous conviennent pas, pour obtenir une aide sur vos usages, voyez avec :
 
 * [CCAS de Couëron](https://www.ville-coueron.fr/solidarites/centre-communal-daction-sociale/)
 * [le coup de main numérique](https://le-coup-de-main-numerique.org/)
