@@ -15,11 +15,13 @@ Sans rendez-vous, ouvert à toutes et tous, tous niveaux.
 - mercredi 17 septembre 2025
 - mercredi 15 octobre 2025
 - mercredi 12 novembre 2025
+- samedi 15 novembre 2025 - Bidouille Café
 - mercredi 10 décembre 2025
 - mercredi 21 janvier 2026
 - mercredi 18 février 2026
 - mercredi 18 mars 2026
 - mercredi 29 avril 2026
+- mercredi 27 mai 2026
 - mercredi 24 juin 2026
 
 Si ces dates ne vous conviennent pas, pour obtenir une aide sur vos usages, voyez avec :
