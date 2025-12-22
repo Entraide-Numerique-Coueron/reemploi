@@ -1,10 +1,10 @@
 ---
-title: Sélection de jeux pour PC peu puissant
+title: Sélection de jeux jouable à la manette pour PC peu puissant
 date: 2025-12-21T15:37:13.013Z
-description: Jeux disponibles sur Steam, fonctionnant sur des ordinateurs peu puissants.
+description: Jeux disponibles sur Steam, jouable à manette et fonctionnant sur des ordinateurs peu puissants.
 ---
 
-Cette sélection liste des jeux disponibles sur Steam, fonctionnant sur des ordinateurs peu puissants. 
+Cette sélection liste des jeux disponibles sur Steam, fonctionnant sur des ordinateurs peu puissants et jouable avec une manette de jeux.
 Avant d'acheter un jeu, vérifiez bien que la configuration matérielle requise nécessaire pour faire fonctionner ces jeux.
 
 # Terraria
