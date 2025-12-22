@@ -26,3 +26,7 @@ Nos conseils :
 # Site Internet
 
 * [Créer un site Internet](/blog/créer-un-site-internet/)
+
+# Jouer sous Linux / Zorin OS
+
+* [Sélection de jeux gratuits et natifs sous Linux](/blog/selection-jeux-gratuits-natifs-linux/)
