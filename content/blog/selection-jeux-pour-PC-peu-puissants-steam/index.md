@@ -13,6 +13,35 @@ Les jeux PC jouables avec une manette le seront aussi au clavier et à la souris
 
 * [Notre sélection de jeux pour manette](selection-jeux-manette-pour-PC-peu-puissants-steam)
 
+# Peggle
+
+Peggle est un jeu de bille, où le joueur dispose de 10 billes pour toucher des cibles.
+
+* [Peggle - sur Steam](https://store.steampowered.com/app/3480/Peggle_Deluxe/)
+* [Peggle Night - sur Steam](https://store.steampowered.com/app/3540/Peggle_Nights/)
+
+# Half-life
+
+Half-life est un de jeuxvidéo de tir à la première personne de science-fiction, sorti en 1998. Le jeu dispose d'une suite, Half-Life 2 sorti en 2004, pour des ordinateurs plus récents.
+
+* [Half-life - sur Steam](https://store.steampowered.com/app/70/HalfLife/?l=french)
+* [Half-life 2 - sur Steam](https://store.steampowered.com/app/220/HalfLife_2/)
+
+# Portal
+
+Portal est un jeu vidéo de réflexion et d'action en vue à la première personne, sorti en 2007. Le jeu consiste en une succession de parcours que le joueur doit franchir en téléportant son personnage ou des objets à l'aide d'une arme capable de créer un portail spatial entre deux surfaces planes, solides et non métalliques.
+
+Une suite, Portal 2, est sorti en 2001.
+
+* [Portal - sur Steam](https://store.steampowered.com/app/400/Portal/?l=french)
+* [Portal 2 - sur Steam](https://store.steampowered.com/app/620/Portal_2/)
+
+# Mini-metro
+
+Mini Metro est un jeu de gestion et de simulation de réseaux de transports en commun.
+
+* [Mini-metro - sur Steam](https://store.steampowered.com/app/287980/Mini_Metro/)
+
 # Counter-strike
 
 Counter-strike est un jeu de tir en équipe. Le jeu fait s'affronter une équipe de terroristes et d'antiterroristes au cours de plusieurs manches. Les joueurs marquent des points en accomplissant les objectifs de la carte de jeu et en éliminant leurs adversaires, dans le but de faire gagner leur équipe.
