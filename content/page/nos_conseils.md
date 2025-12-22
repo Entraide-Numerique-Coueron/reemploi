@@ -31,4 +31,5 @@ Nos conseils :
 
 * [Sélection de jeux gratuits et natifs sous Linux](/blog/selection-jeux-gratuits-natifs-linux/)
 * [Sélection de jeux gratuits sur Steam](/blog/selection-jeux-gratuits-sur-steam/)
-* [Sélection de jeux disponibles sur Steam pour ordinateurs peu puissants](/blog/selection-jeux-pour-PC-peu-puissants-steam/)
+* [Sélection de jeux avec manettes, disponible sur Steam, pour ordinateurs peu puissants](/blog/selection-jeux-pour-PC-peu-puissants-steam/)
+* [Sélection de jeux disponibles sur Steam pour ordinateurs peu puissants](/blog/selection-jeux-manette-pour-PC-peu-puissants-steam/)
