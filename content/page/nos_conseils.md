@@ -17,7 +17,7 @@ Nos conseils :
 # Forfait et accès à Internet
 
 * [Quel forfait mobile choisir ?](/blog/forfait-mobile/)
-* [Q﻿uel Fournisseur d'Accès à Internet choisir ?](https://www.entraide-numerique-coueron.fr/blog/adsl-ou-fibre-quel-fournisseur-dacc%C3%A8s-%C3%A0-internet-choisir/)
+* [Quel Fournisseur d'Accès à Internet choisir ?](https://www.entraide-numerique-coueron.fr/blog/adsl-ou-fibre-quel-fournisseur-dacc%C3%A8s-%C3%A0-internet-choisir/)
 
 # Utiliser le numérique
 
