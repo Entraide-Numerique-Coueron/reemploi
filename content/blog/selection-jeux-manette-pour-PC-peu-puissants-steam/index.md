@@ -41,13 +41,3 @@ Dans Unrailed!, seul ou jusqu'à quatre joueurs, en ligne ou local, les joueurs 
 Ce joue au clavier ou à la manette.
 
 * [Unrailed - sur Steam](https://store.steampowered.com/app/1016920/Unrailed/)
-
-# Counter-strike
-
-Counter-strike est un jeu de tir en équipe. Le jeu fait s'affronter une équipe de terroristes et d'antiterroristes au cours de plusieurs manches. Les joueurs marquent des points en accomplissant les objectifs de la carte de jeu et en éliminant leurs adversaires, dans le but de faire gagner leur équipe.
-Ce jeu ce joue au clavier et à la souris.
-
-Il existe 3 versions de Counter-strike :
-* Counter-strike : pour les ordinateurs très peu puissants - [Counter-strike - sur Steam](https://store.steampowered.com/app/10/CounterStrike/)
-* Counter-strike: Source : pour les ordinateurs peu puissants - [Counter-strike: Source - sur Steam](https://store.steampowered.com/app/240/CounterStrike_Source/)
-* GRATUIT : Counter-strike 2 : pour les ordinateurs plus récents - [disponible gratuitement sur Steam](https://store.steampowered.com/app/730/CounterStrike_2/)

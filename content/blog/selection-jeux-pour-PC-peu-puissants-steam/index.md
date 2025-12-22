@@ -7,35 +7,18 @@ description: Jeux disponibles sur Steam, jouable à manette et fonctionnant sur 
 Cette sélection liste des jeux disponibles sur Steam, fonctionnant sur des ordinateurs peu puissants et jouable avec une manette de jeux.
 Avant d'acheter un jeu, vérifiez bien que la configuration matérielle requise nécessaire pour faire fonctionner ces jeux.
 
-# Terraria
+# Notre sélection de jeux avec manette
 
-Terraria est un jeu de type bac à sable, survie en 2D, qui possède un système de jeu basé sur l’exploration, la construction, l'action et le combat.
+Les jeux PC jouables avec une manette le seront aussi au clavier et à la souris.
 
-* [Terraria - sur Steam](https://store.steampowered.com/app/105600/Terraria/)
+* [Notre sélection de jeux pour manette](selection-jeux-manette-pour-PC-peu-puissants-steam)
 
-# Move or Die
+# Counter-strike
 
-Move or Die est un jeu compétitif à quatre joueurs dans lequel chaque joueur contrôle un personnage colorée dont la santé diminue rapidement si elles cessent de bouger pendant un moment, et se régénère si elles reprennent le mouvement. Différentes règles ou modificateurs sont ajoutés à chaque tour, avec des états de défaillance supplémentaires variant entre les modes.
-Ce joue au clavier ou à la manette.
+Counter-strike est un jeu de tir en équipe. Le jeu fait s'affronter une équipe de terroristes et d'antiterroristes au cours de plusieurs manches. Les joueurs marquent des points en accomplissant les objectifs de la carte de jeu et en éliminant leurs adversaires, dans le but de faire gagner leur équipe.
+Ce jeu ce joue au clavier et à la souris.
 
-* [Move or die - Sur Steam](https://store.steampowered.com/app/323850/Move_or_Die/)
-
-# SteamWorld Dig
-
-SteamWorld Dig est un jeu de plateforme sortie en 2013. Une suite, SteamWorld Dig 2, est sortie en 2013.
-
-* [SteamWorld Dig - sur Steam](https://store.steampowered.com/app/252410/SteamWorld_Dig/)
-* [SteamWorld Dig 2 - sur Steam](https://store.steampowered.com/app/571310/SteamWorld_Dig_2/)
-
-# SteamWorld Heist
-
-SteamWorld Heist est un jeu de tir au tour par tour.
-
-* [SteamWorld Heist - sur Steam](https://store.steampowered.com/app/322190/SteamWorld_Heist/)
-
-# Unrailed
-
-Dans Unrailed!, seul ou jusqu'à quatre joueurs, en ligne ou local, les joueurs coopèrent pour construire une voie ferrée à partir de matériaux qu'ils doivent récupérer dans l'environnement pour empêcher le train de dérailler en route vers sa destination
-
-
-* [Unrailed - sur Steam](https://store.steampowered.com/app/1016920/Unrailed/)
+Il existe 3 versions de Counter-strike :
+* Counter-strike : pour les ordinateurs très peu puissants - [Counter-strike - sur Steam](https://store.steampowered.com/app/10/CounterStrike/)
+* Counter-strike: Source : pour les ordinateurs peu puissants - [Counter-strike: Source - sur Steam](https://store.steampowered.com/app/240/CounterStrike_Source/)
+* GRATUIT : Counter-strike 2 : pour les ordinateurs plus récents - [disponible gratuitement sur Steam](https://store.steampowered.com/app/730/CounterStrike_2/)
