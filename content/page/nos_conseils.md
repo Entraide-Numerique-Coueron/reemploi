@@ -26,6 +26,10 @@ description: Nos réponses aux questions qui nous sont le plus posées
 
 * [Créer un site Internet](/blog/créer-un-site-internet/)
 
+# Zorin OS
+
+* [Installer des logiciels sur Zorin OS](/blog/installer-logiciels-sur-zorin/)
+
 # Jouer sous Linux / Zorin OS
 
 * [Sélection de jeux gratuits et natifs sous Linux](/blog/selection-jeux-gratuits-natifs-linux/)
