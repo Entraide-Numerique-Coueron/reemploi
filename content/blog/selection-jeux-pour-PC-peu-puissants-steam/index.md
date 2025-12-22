@@ -6,6 +6,7 @@ description: Jeux disponibles sur Steam, fonctionnant sur des ordinateurs peu pu
 
 Cette sélection liste des jeux disponibles sur Steam, fonctionnant sur des ordinateurs peu puissants.
 Avant d'acheter un jeu, vérifiez bien que la configuration matérielle requise nécessaire pour faire fonctionner ces jeux.
+Si vous n'avez pas encore installé Steam et que vous ne savez pas le faire, voici notre tutoriel : [Installer des logiciels sur Zorin OS](/blog/installer-logiciels-sur-zorin/)
 
 # Notre sélection de jeux avec manette
 

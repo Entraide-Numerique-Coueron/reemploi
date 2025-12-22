@@ -6,6 +6,7 @@ description: Jeux disponibles sur Steam, jouable à manette et fonctionnant sur 
 
 Cette sélection liste des jeux disponibles sur Steam, fonctionnant sur des ordinateurs peu puissants, et jouables avec une manette de jeux.
 Avant d'acheter un jeu, vérifiez bien que la configuration matérielle requise nécessaire pour faire fonctionner ces jeux.
+Si vous n'avez pas encore installé Steam et que vous ne savez pas le faire, voici notre tutoriel : [Installer des logiciels sur Zorin OS](/blog/installer-logiciels-sur-zorin/)
 
 # Terraria
 
