@@ -13,6 +13,12 @@ Trove est un jeu de bac à sable basé sur le voxel, similaire au célèbre jeu 
 
 [Trove - sur Steam](https://store.steampowered.com/app/304050/Trove/)
 
+# Risk : Global Domination
+
+Adaptation du jeu de plateau Risk.
+
+[Risk : Global Domination - sur Steam](https://store.steampowered.com/app/1128810/RISK_Global_Domination/)
+
 # Team Fortress 2
 
 Team Fortress est un jeu de tir en équipe. Vous devez capturez les drapeaux de l'équipe adverse.
