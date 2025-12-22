@@ -30,3 +30,4 @@ Nos conseils :
 # Jouer sous Linux / Zorin OS
 
 * [Sélection de jeux gratuits et natifs sous Linux](/blog/selection-jeux-gratuits-natifs-linux/)
+* [Sélection de jeux gratuits sur Steam](/blog/selection-jeux-gratuits-sur-steam/)

@@ -1,10 +1,10 @@
 ---
 title: Sélection de jeux gratuits natifs sous Linux
 date: 2025-12-21T15:37:13.013Z
-description: Sélection des meilleurs jeux gratuits et disponibles gratuitement sur Linux et la distribution Zorin OS
+description: Les meilleurs jeux gratuits et disponibles nativement sur Linux et la distribution Zorin OS
 ---
 
-Cette sélection liste les meilleurs jeux gratuits et disponibles gratuitement sur Linux et la distribution Zorin OS.
+Cette sélection liste les meilleurs jeux gratuits et disponibles nativement sur Linux et la distribution Zorin OS.
 
 # Super Tux Kart
 
