@@ -6,7 +6,6 @@ menu:
 weight: 5
 description: Nos conseils
 ---
-Nos conseils :
 
 # Matériel
 
