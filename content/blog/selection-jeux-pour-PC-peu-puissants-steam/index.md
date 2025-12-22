@@ -20,6 +20,24 @@ Peggle est un jeu de bille, où le joueur dispose de 10 billes pour toucher des 
 * [Peggle - sur Steam](https://store.steampowered.com/app/3480/Peggle_Deluxe/)
 * [Peggle Night - sur Steam](https://store.steampowered.com/app/3540/Peggle_Nights/)
 
+# Tori-Toki
+
+Toki Tori est un jeu qui mélange deux genres : le jeu de plateforme et le jeu d'énigmes.
+
+* [Tori-Toki - sur Steam](https://store.steampowered.com/app/38700/Toki_Tori/)
+
+# Mini-metro
+
+Mini Metro est un jeu de gestion et de simulation de réseaux de transports en commun.
+
+* [Mini-metro - sur Steam](https://store.steampowered.com/app/287980/Mini_Metro/)
+
+# Reus
+
+Reus permet au joueur de prendre le contrôle de quatre géants (roche, marais, forêt et océan) sur une planète initialement vierge afin de créer une utopie pour l'humanité qui s'y installera.
+
+* [Reus - sur Steam](https://store.steampowered.com/app/222730/Reus/?l=french)
+
 # Half-life
 
 Half-life est un de jeuxvidéo de tir à la première personne de science-fiction, sorti en 1998. Le jeu dispose d'une suite, Half-Life 2 sorti en 2004, pour des ordinateurs plus récents.
@@ -35,14 +53,6 @@ Une suite, Portal 2, est sorti en 2001.
 
 * [Portal - sur Steam](https://store.steampowered.com/app/400/Portal/?l=french)
 * [Portal 2 - sur Steam](https://store.steampowered.com/app/620/Portal_2/)
-
-# Mini-metro
-
-Mini Metro est un jeu de gestion et de simulation de réseaux de transports en commun.
-
-* [Mini-metro - sur Steam](https://store.steampowered.com/app/287980/Mini_Metro/)
-
-# Reus
 
 # Counter-strike
 
