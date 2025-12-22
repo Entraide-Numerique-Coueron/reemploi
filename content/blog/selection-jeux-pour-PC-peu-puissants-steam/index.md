@@ -11,7 +11,7 @@ Avant d'acheter un jeu, vérifiez bien que la configuration matérielle requise 
 
 Les jeux PC jouables avec une manette le seront aussi au clavier et à la souris.
 
-* [Notre sélection de jeux pour manette](selection-jeux-manette-pour-PC-peu-puissants-steam)
+* [Notre sélection de jeux pour manette](/blog/selection-jeux-manette-pour-PC-peu-puissants-steam)
 
 # Peggle
 
