@@ -5,6 +5,7 @@ description: Les meilleurs jeux gratuits et disponibles nativement sur Linux et 
 ---
 
 Cette sélection liste les meilleurs jeux gratuits et disponibles nativement sur Linux et la distribution Zorin OS.
+Ces jeux s'installent comme n'importe quel logiciel, il suffit d'en rechercher le nom, voici notre tutoriel pour installer un logiciel : [Installer des logiciels sur Zorin OS](/blog/installer-logiciels-sur-zorin/)
 
 # Super Tux Kart
 
