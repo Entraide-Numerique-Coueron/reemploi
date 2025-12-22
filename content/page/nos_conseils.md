@@ -36,6 +36,7 @@ description: Nos réponses aux questions qui nous sont le plus posées
 * [Sélection de jeux gratuits sur Steam](/blog/selection-jeux-gratuits-sur-steam/)
 * [Sélection de jeux avec manettes, disponible sur Steam, pour ordinateurs peu puissants](/blog/selection-jeux-manette-pour-PC-peu-puissants-steam/)
 * [Sélection de jeux disponibles sur Steam pour ordinateurs peu puissants](/blog/selection-jeux-pour-PC-peu-puissants-steam/)
+* [Sélection de jeux de navigateur](/blog/selection-jeux-navigateurs/)
 * [Jouer à des jeux rétro grâce à RetroArch](/blog/retroarch/)
 * [Jouer à Roblox sous Linux](/blog/jouer-a-roblox-sous-Linux/)
 * Prochains tutoriels jeux : installer des jeux avec Lutris, Epic Games, Battle.net, Abandonware. Mais vous pouvez déjà rechercher ces informations sur Internet.
