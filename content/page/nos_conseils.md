@@ -38,5 +38,6 @@ description: Nos réponses aux questions qui nous sont le plus posées
 * [Sélection de jeux disponibles sur Steam pour ordinateurs peu puissants](/blog/selection-jeux-pour-PC-peu-puissants-steam/)
 * [Jouer à des jeux rétro grâce à RetroArch](/blog/retroarch/)
 * [Jouer à Roblox sous Linux](/blog/jouer-a-roblox-sous-Linux/)
+* Prochains tutoriels jeux : installer des jeux avec Lutris, Epic Games, Battle.net, Abandonware. Mais vous pouvez déjà rechercher ces informations sur Internet.
 
 
