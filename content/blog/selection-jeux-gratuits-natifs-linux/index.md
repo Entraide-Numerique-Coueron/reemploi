@@ -11,6 +11,11 @@ Cette sélection liste les meilleurs jeux gratuits et disponibles nativement sur
 Ce jeu de course de karting en 3D est similaire au célèbre Mario Kart. Il est jouable au clavier ou avec des manettes de jeux.
 Vous pouvez y jouer à plusieurs si vous avez plusieurs manettes.
 
+# Luanti & Minetest
+
+Minetest est un jeu d'exploration et de construction est similaire au célèbre Minecraft. Il est jouable au clavier et à la souris.
+Luanti est le moteur de création du jeu Minetest. En installant Luanti vous avez accès à plein d'autres jeux qui sont grandement personnalisables, à un tel point que certains préfèrent Luanti à Minecraft.
+
 # 0AD
 
 Ce jeu de stratégie en temps réel est similaire au célèbre Age of Empire. Il est jouable au clavier et à la souris.
