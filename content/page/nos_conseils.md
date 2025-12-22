@@ -4,7 +4,7 @@ menu:
   - main
   - footer1
 weight: 5
-description: Nos conseils
+description: Nos réponses aux questions qui nous sont le plus posées
 ---
 
 # Matériel
