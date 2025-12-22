@@ -40,7 +40,7 @@ Reus permet au joueur de prendre le contrôle de quatre géants (roche, marais, 
 
 # Half-life
 
-Half-life est un de jeuxvidéo de tir à la première personne de science-fiction, sorti en 1998. Le jeu dispose d'une suite, Half-Life 2 sorti en 2004, pour des ordinateurs plus récents.
+Half-life est un jeu-vidéo de tir à la première personne de science-fiction, sorti en 1998. Le jeu dispose d'une suite, Half-Life 2 sorti en 2004, pour des ordinateurs plus récents.
 
 * [Half-life - sur Steam](https://store.steampowered.com/app/70/HalfLife/?l=french)
 * [Half-life 2 - sur Steam](https://store.steampowered.com/app/220/HalfLife_2/)
