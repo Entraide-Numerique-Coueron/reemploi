@@ -20,7 +20,7 @@ description: Nos réponses aux questions qui nous sont le plus posées
 
 # Utiliser le numérique
 
-* [Utiliser Interner de façon écolo](/blog/utiliser-internet-de-facon-ecolo/)
+* [Utiliser Internet de façon écolo](/blog/utiliser-internet-de-facon-ecolo/)
 
 # Site Internet
 
