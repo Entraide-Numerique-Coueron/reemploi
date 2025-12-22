@@ -1,5 +1,5 @@
 ---
-title: Sélection de jeux pour PC peu puissant
+title: Jeux pour PC peu puissant
 date: 2025-12-21T15:37:13.013Z
 description: Jeux disponibles sur Steam, fonctionnant sur des ordinateurs peu puissants.
 ---

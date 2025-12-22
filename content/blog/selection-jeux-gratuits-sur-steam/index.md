@@ -1,5 +1,5 @@
 ---
-title: Sélection de jeux gratuits sur Steam
+title: Jeux gratuits sur Steam
 date: 2025-12-21T15:37:13.013Z
 description: Jeux gratuits disponibles sur Steam, fonctionnant sur des ordinateurs peu puissants.
 ---

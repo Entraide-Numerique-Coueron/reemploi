@@ -1,5 +1,5 @@
 ---
-title: Sélection de jeux gratuits natifs sous Linux
+title: Jeux gratuits natifs sous Linux
 date: 2025-12-21T15:37:13.013Z
 description: Les meilleurs jeux gratuits et disponibles nativement sur Linux et la distribution Zorin OS
 ---
