@@ -18,14 +18,13 @@ Terraria est un jeu de type bac à sable, survie en 2D, qui possède un système
 Move or Die est un jeu compétitif à quatre joueurs dans lequel chaque joueur contrôle un personnage colorée dont la santé diminue rapidement si elles cessent de bouger pendant un moment, et se régénère si elles reprennent le mouvement. Différentes règles ou modificateurs sont ajoutés à chaque tour, avec des états de défaillance supplémentaires variant entre les modes.
 Ce joue au clavier ou à la manette.
 
+* [Move or die - Sur Steam](https://store.steampowered.com/app/323850/Move_or_Die/)
+
 # Kao the Kangaroo: Round 2
 
 Kao the Kangaroo: Round 2 est un jeu de plaforme en 3D.
 
 * [Kao the Kangaroo: Round 2 - sur Steam](https://store.steampowered.com/app/1048540/Kao_the_Kangaroo_Round_2_2003_rerelease/)
-
-
-* [Move or die - Sur Steam](https://store.steampowered.com/app/323850/Move_or_Die/)
 
 # SteamWorld Dig
 
