@@ -42,6 +42,8 @@ Mini Metro est un jeu de gestion et de simulation de réseaux de transports en c
 
 * [Mini-metro - sur Steam](https://store.steampowered.com/app/287980/Mini_Metro/)
 
+# Reus
+
 # Counter-strike
 
 Counter-strike est un jeu de tir en équipe. Le jeu fait s'affronter une équipe de terroristes et d'antiterroristes au cours de plusieurs manches. Les joueurs marquent des points en accomplissant les objectifs de la carte de jeu et en éliminant leurs adversaires, dans le but de faire gagner leur équipe.

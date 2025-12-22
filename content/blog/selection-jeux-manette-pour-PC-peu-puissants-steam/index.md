@@ -35,6 +35,12 @@ Ces jeux fonctionnent au clavier, mais aussi à la manette.
 
 * [SteamWorld Heist - sur Steam](https://store.steampowered.com/app/322190/SteamWorld_Heist/)
 
+# Caveblazers
+
+Caveblazers est un jeu de plateform d'action, d'aventure et d'exploration de souterrain.
+
+* [Caveblazers - sur Steam](https://store.steampowered.com/app/452060/Caveblazers/)
+
 # Unrailed
 
 Dans Unrailed!, seul ou jusqu'à quatre joueurs, en ligne ou local, les joueurs coopèrent pour construire une voie ferrée à partir de matériaux qu'ils doivent récupérer dans l'environnement pour empêcher le train de dérailler en route vers sa destination
