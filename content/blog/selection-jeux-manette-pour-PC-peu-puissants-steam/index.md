@@ -18,18 +18,18 @@ Terraria est un jeu de type bac à sable, survie en 2D, qui possède un système
 Move or Die est un jeu compétitif à quatre joueurs dans lequel chaque joueur contrôle un personnage colorée dont la santé diminue rapidement si elles cessent de bouger pendant un moment, et se régénère si elles reprennent le mouvement. Différentes règles ou modificateurs sont ajoutés à chaque tour, avec des états de défaillance supplémentaires variant entre les modes.
 Ce joue au clavier ou à la manette.
 
+* [Move or die - Sur Steam](https://store.steampowered.com/app/323850/Move_or_Die/)
+
 # Worms
 
 Worms est une série de jeux vidéo d'artillerie et de tactique. Les joueurs commandent un petit peloton de vers à travers des niveaux de jeu destructibles, affrontant d'autres équipes de vers contrôlés par la machine ou par un autre joueur.
 Au fil des ans plusieurs jeux de cette série sont sortis, le premier en 1994 et le dernier en 2020, il y a donc forcement une version qui convient à votre ordinateur. 
 Choisissez la version correspondant à votre ordinateur, la date de sortis est un bon indicateur.
 
-* 1999 : [Worms Armaggedon - sur Steam](https://store.steampowered.com/app/217200/Worms_Armageddon/) - celui-ci ne fonctionne pas avec une manette, il faut jouer au clavier
+* 1999 : [Worms Armaggedon - sur Steam](https://store.steampowered.com/app/217200/Worms_Armageddon/) celui-ci ne fonctionne pas avec une manette, il faut jouer au clavier
 * 2010 : [Worms Reloaded - sur Steam](https://store.steampowered.com/app/22600/Worms_Reloaded/)
 * 2012 : [Worms Revolution - sur Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)
 * Pour des versions plus récentes nous vous invitons à les rechercher directement sur Steam
-
-* [Move or die - Sur Steam](https://store.steampowered.com/app/323850/Move_or_Die/)
 
 # Kao the Kangaroo: Round 2
 
