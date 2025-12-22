@@ -15,3 +15,5 @@ Depuis cette application vous pouvez rechercher et installer des applications co
 Pour rechercher un logiciel dont vous connaissez le nom, cliquez sur l'icône en forme de loupe, en haut à gauche de la fenêtre.
 
 Si vous ne connaissez pas le nom du logiciel que vous voulez, vous pouvez naviguer parmi les catégories affichées à l'écran.
+
+Une fois votre logiciel trouvé, cliquez sur "Installer", le mot de passe de l'ordinateur vous sera alors demandé.
