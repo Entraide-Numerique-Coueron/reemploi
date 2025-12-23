@@ -92,14 +92,6 @@ Jeu de stratégie en tant réel sorti en 1997.
 
 * [Total Annihilation - sur Steam](https://store.steampowered.com/app/298030/Total_Annihilation/) - 4,99€
 
-# Rayman Legends
-
-Jeu de plateforme. Jouable en solo, ou en coop locale avec écran partagé.
-
-Testez bien le jeu avec la version de démo gratuite avant de l'acheter, car il ne fonctionne pas sur des ordinateurs trop vieux.
-
-* [Rayman Legends - sur Steam](https://store.steampowered.com/app/242550/Rayman_Legends/) - 3,99€
-
 # 39 days to mars
 
 Jeu coopératif en local à bord d'un vaisseau spacial du XIXème siècle.
@@ -175,3 +167,13 @@ Steam propose une démo pour tester le jeu avant de l'acheter.
 Ce jeu peut rencontrer des difficultés à fonctionner sous certaines distributions Linux.
 
 * [Mini ninja - sur Steam](https://store.steampowered.com/app/35000/Mini_Ninjas/) - 1,49€
+
+# Rayman Legends
+
+Jeu de plateforme. Jouable en solo, ou en coop locale avec écran partagé.
+
+Testez bien le jeu avec la version de démo gratuite avant de l'acheter, car il ne fonctionne pas sur des ordinateurs trop vieux.
+
+Ce jeu peut rencontrer des difficultés à fonctionner sous certaines distributions Linux.
+
+* [Rayman Legends - sur Steam](https://store.steampowered.com/app/242550/Rayman_Legends/) - 3,99€

@@ -75,6 +75,8 @@ Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différe
 
 Terraria est un jeu de type bac à sable, survie en 2D, qui possède un système de jeu basé sur l’exploration, la construction, l'action et le combat.
 
+Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux.
+
 * [Terraria - sur Steam](https://store.steampowered.com/app/105600/Terraria/) - prix vu le plus bas : 4,78€
 
 # Move or Die
@@ -87,6 +89,8 @@ Ce joue au clavier ou à la manette.
 # Brawlhalla
 
 Jeu de combat jusqu'à 8 joueurs, en ligne ou en local.
+
+Ce jeu a une bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux.
 
 * [Brawlhalla - sur Steam](https://store.steampowered.com/app/291550/Brawlhalla/) - gratuit
 
@@ -104,7 +108,7 @@ Jeu de plateforme.
 
 Testez bien le jeu avec la version de démo gratuite avant de l'acheter, car il ne fonctionne pas sur des ordinateurs trop vieux.
 
-Ce jeu peut rencontrer des difficultés à fonctionner sous certaines distributions Linux.
+Ce jeu peut rencontrer des difficultés à fonctionner sous certaines distributions Linux ou sur des ordinateurs moins anciens.
 
 * [Rayman Origins - sur Steam](https://store.steampowered.com/app/207490/Rayman_Origins/) - 2,99€
 
