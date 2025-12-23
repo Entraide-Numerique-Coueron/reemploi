@@ -21,14 +21,24 @@ Ce joue au clavier ou à la manette.
 
 * [Move or die - Sur Steam](https://store.steampowered.com/app/323850/Move_or_Die/)
 
+# Limbo
+
+Jeu de plateforme et de puzzle, ambiance sombre.
+
+Steam propre une démo pour tester le jeu avant de l'acheter.
+
+* [Limbo - sur Steam](https://store.steampowered.com/app/48000/LIMBO/)
+
 # Worms
 
 Worms est une série de jeux vidéo d'artillerie et de tactique. Les joueurs commandent un petit peloton de vers à travers des niveaux de jeu destructibles, affrontant d'autres équipes de vers contrôlés par la machine ou par un autre joueur.
 Au fil des ans plusieurs jeux de cette série sont sortis, le premier en 1994 et le dernier en 2020, il y a donc forcement une version qui convient à votre ordinateur. 
 Choisissez la version correspondant à votre ordinateur, la date de sortis est un bon indicateur.
 
+Une démo gratuite est disponible pour Worms Realoaded.
+
 * 1999 : [Worms Armaggedon - sur Steam](https://store.steampowered.com/app/217200/Worms_Armageddon/) celui-ci ne fonctionne pas avec une manette, il faut jouer au clavier
-* 2010 : [Worms Reloaded - sur Steam](https://store.steampowered.com/app/22600/Worms_Reloaded/)
+* 2010 : [Worms Reloaded - sur Steam](https://store.steampowered.com/app/22600/Worms_Reloaded/) - Démo gratuite
 * 2012 : [Worms Revolution - sur Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)
 * Pour des versions plus récentes nous vous invitons à les rechercher directement sur Steam
 

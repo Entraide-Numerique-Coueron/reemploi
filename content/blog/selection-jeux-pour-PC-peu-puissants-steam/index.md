@@ -33,14 +33,6 @@ Steam propre une démo pour tester le jeu avant de l'acheter.
 
 * [Mini ninja - sur Steam](https://store.steampowered.com/app/35000/Mini_Ninjas/)
 
-# Limbo
-
-Jeu de platforme et de puzzle, ambiance sombre.
-
-Steam propre une démo pour tester le jeu avant de l'acheter.
-
-* [Limbo - sur Steam](https://store.steampowered.com/app/48000/LIMBO/)
-
 # Tori-Toki
 
 Toki Tori est un jeu qui mélange deux genres : le jeu de plateforme et le jeu d'énigmes.
