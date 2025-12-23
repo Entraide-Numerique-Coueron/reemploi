@@ -64,3 +64,9 @@ Il existe 3 versions de Counter-strike :
 * Counter-strike : pour les ordinateurs très peu puissants - [Counter-strike - sur Steam](https://store.steampowered.com/app/10/CounterStrike/)
 * Counter-strike: Source : pour les ordinateurs peu puissants - [Counter-strike: Source - sur Steam](https://store.steampowered.com/app/240/CounterStrike_Source/)
 * GRATUIT : Counter-strike 2 : pour les ordinateurs plus récents - [disponible gratuitement sur Steam](https://store.steampowered.com/app/730/CounterStrike_2/)
+
+# Total Annihilation
+
+Jeu de stratégie en tant réel sorti en 1997.
+
+* [Total Annihilation - sur Steam](https://store.steampowered.com/app/298030/Total_Annihilation/)
