@@ -31,7 +31,7 @@ Deux démos gratuites sont disponibles.
 
 Mini Ninjas est un jeu qui combine action nerveuse, infiltration et exploration.
 
-Steam propre une démo pour tester le jeu avant de l'acheter.
+Steam propose une démo pour tester le jeu avant de l'acheter.
 
 * [Mini ninja - sur Steam](https://store.steampowered.com/app/35000/Mini_Ninjas/) - 1,49€
 
