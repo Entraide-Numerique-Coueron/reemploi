@@ -8,6 +8,8 @@ Cette sélection liste des jeux disponibles sur Steam, fonctionnant sur des ordi
 Avant d'acheter un jeu, vérifiez bien que la configuration matérielle requise nécessaire pour faire fonctionner ces jeux.
 Si vous n'avez pas encore installé Steam et que vous ne savez pas le faire, voici notre tutoriel : [Installer des logiciels sur Zorin OS](/blog/installer-logiciels-sur-zorin/)
 
+Nous affichons à titre indicatif les prix vus les plus bas proposés par Steam lors des évènements promotionnels (solde d'hiver par exemple).
+
 # Notre sélection de jeux avec manette
 
 Les jeux PC jouables avec une manette le seront aussi au clavier et à la souris.
@@ -20,8 +22,8 @@ Peggle est un jeu de bille, où le joueur dispose de 10 billes pour toucher des 
 
 Deux démos gratuites sont disponibles.
 
-* [Peggle - sur Steam](https://store.steampowered.com/app/3480/Peggle_Deluxe/)
-* [Peggle Night - sur Steam](https://store.steampowered.com/app/3540/Peggle_Nights/)
+* [Peggle - sur Steam](https://store.steampowered.com/app/3480/Peggle_Deluxe/) - 0,99€
+* [Peggle Night - sur Steam](https://store.steampowered.com/app/3540/Peggle_Nights/) - 0,99€
 * Démo : [Peggle Extreme - sur Steam](https://store.steampowered.com/app/3483/Peggle_Extreme/)
 * Démo : [Peggle Deluxe - sur Steam](https://store.steampowered.com/app/3480/Peggle_Deluxe/)
 
@@ -31,32 +33,32 @@ Mini Ninjas est un jeu qui combine action nerveuse, infiltration et exploration.
 
 Steam propre une démo pour tester le jeu avant de l'acheter.
 
-* [Mini ninja - sur Steam](https://store.steampowered.com/app/35000/Mini_Ninjas/)
+* [Mini ninja - sur Steam](https://store.steampowered.com/app/35000/Mini_Ninjas/) - 1,49€
 
 # Tori-Toki
 
 Toki Tori est un jeu qui mélange deux genres : le jeu de plateforme et le jeu d'énigmes.
 
-* [Tori-Toki - sur Steam](https://store.steampowered.com/app/38700/Toki_Tori/)
+* [Tori-Toki - sur Steam](https://store.steampowered.com/app/38700/Toki_Tori/) - 0,69€
 
 # Mini-metro
 
 Mini Metro est un jeu de gestion et de simulation de réseaux de transports en commun.
 
-* [Mini-metro - sur Steam](https://store.steampowered.com/app/287980/Mini_Metro/)
+* [Mini-metro - sur Steam](https://store.steampowered.com/app/287980/Mini_Metro/) - 4,09€
 
 # Reus
 
 Reus permet au joueur de prendre le contrôle de quatre géants (roche, marais, forêt et océan) sur une planète initialement vierge afin de créer une utopie pour l'humanité qui s'y installera.
 
-* [Reus - sur Steam](https://store.steampowered.com/app/222730/Reus/?l=french)
+* [Reus - sur Steam](https://store.steampowered.com/app/222730/Reus/?l=french) - 3,99€
 
 # Half-life
 
 Half-life est un jeu-vidéo de tir à la première personne de science-fiction, sorti en 1998. Le jeu dispose d'une suite, Half-Life 2 sorti en 2004, pour des ordinateurs plus récents.
 
-* [Half-life - sur Steam](https://store.steampowered.com/app/70/HalfLife/?l=french)
-* [Half-life 2 - sur Steam](https://store.steampowered.com/app/220/HalfLife_2/)
+* [Half-life - sur Steam](https://store.steampowered.com/app/70/HalfLife/?l=french) - 1,63€
+* [Half-life 2 - sur Steam](https://store.steampowered.com/app/220/HalfLife_2/) - 1,95€
 
 # Portal
 
@@ -64,8 +66,8 @@ Portal est un jeu vidéo de réflexion et d'action en vue à la première person
 
 Une suite, Portal 2, est sorti en 2001.
 
-* [Portal - sur Steam](https://store.steampowered.com/app/400/Portal/?l=french)
-* [Portal 2 - sur Steam](https://store.steampowered.com/app/620/Portal_2/)
+* [Portal - sur Steam](https://store.steampowered.com/app/400/Portal/?l=french) - 1,95€
+* [Portal 2 - sur Steam](https://store.steampowered.com/app/620/Portal_2/) - 1,95€
 
 # Counter-strike
 
@@ -73,13 +75,13 @@ Counter-strike est un jeu de tir en équipe. Le jeu fait s'affronter une équipe
 Ce jeu ce joue au clavier et à la souris.
 
 Il existe 3 versions de Counter-strike :
-* Counter-strike : pour les ordinateurs très peu puissants - [Counter-strike - sur Steam](https://store.steampowered.com/app/10/CounterStrike/)
-* Counter-strike: Source : pour les ordinateurs peu puissants - [Counter-strike: Source - sur Steam](https://store.steampowered.com/app/240/CounterStrike_Source/)
-* GRATUIT : Counter-strike 2 : pour les ordinateurs plus récents - [disponible gratuitement sur Steam](https://store.steampowered.com/app/730/CounterStrike_2/)
+* Counter-strike : pour les ordinateurs très peu puissants - [Counter-strike - sur Steam](https://store.steampowered.com/app/10/CounterStrike/) - 1,63€
+* Counter-strike: Source : pour les ordinateurs peu puissants - [Counter-strike: Source - sur Steam](https://store.steampowered.com/app/240/CounterStrike_Source/) - 1,95€
+* GRATUIT : Counter-strike 2 : pour les ordinateurs plus récents - [disponible gratuitement sur Steam](https://store.steampowered.com/app/730/CounterStrike_2/) - gratuit
 
 # Total Annihilation
 
 Jeu de stratégie en tant réel sorti en 1997.
 
-* [Total Annihilation - sur Steam](https://store.steampowered.com/app/298030/Total_Annihilation/)
+* [Total Annihilation - sur Steam](https://store.steampowered.com/app/298030/Total_Annihilation/) - 4,99€
 

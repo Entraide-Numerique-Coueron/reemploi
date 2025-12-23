@@ -8,18 +8,20 @@ Cette sélection liste des jeux disponibles sur Steam, fonctionnant sur des ordi
 Avant d'acheter un jeu, vérifiez bien que la configuration matérielle requise nécessaire pour faire fonctionner ces jeux.
 Si vous n'avez pas encore installé Steam et que vous ne savez pas le faire, voici notre tutoriel : [Installer des logiciels sur Zorin OS](/blog/installer-logiciels-sur-zorin/)
 
+Nous affichons à titre indicatif les prix vus les plus bas proposés par Steam lors des évènements promotionnels (solde d'hiver par exemple).
+
 # Terraria
 
 Terraria est un jeu de type bac à sable, survie en 2D, qui possède un système de jeu basé sur l’exploration, la construction, l'action et le combat.
 
-* [Terraria - sur Steam](https://store.steampowered.com/app/105600/Terraria/)
+* [Terraria - sur Steam](https://store.steampowered.com/app/105600/Terraria/) - prix vu le plus bas : 4,78€
 
 # Move or Die
 
 Move or Die est un jeu compétitif à quatre joueurs dans lequel chaque joueur contrôle un personnage colorée dont la santé diminue rapidement si elles cessent de bouger pendant un moment, et se régénère si elles reprennent le mouvement. Différentes règles ou modificateurs sont ajoutés à chaque tour, avec des états de défaillance supplémentaires variant entre les modes.
 Ce joue au clavier ou à la manette.
 
-* [Move or die - Sur Steam](https://store.steampowered.com/app/323850/Move_or_Die/)
+* [Move or die - Sur Steam](https://store.steampowered.com/app/323850/Move_or_Die/) - prix vu le plus bas : 3,74€
 
 # Limbo
 
@@ -27,7 +29,7 @@ Jeu de plateforme et de puzzle, ambiance sombre.
 
 Steam propre une démo pour tester le jeu avant de l'acheter.
 
-* [Limbo - sur Steam](https://store.steampowered.com/app/48000/LIMBO/)
+* [Limbo - sur Steam](https://store.steampowered.com/app/48000/LIMBO/) - prix vu le plus bas : 0,99€
 
 # Worms
 
@@ -37,41 +39,41 @@ Choisissez la version correspondant à votre ordinateur, la date de sortis est u
 
 Une démo gratuite est disponible pour Worms Realoaded.
 
-* 1999 : [Worms Armaggedon - sur Steam](https://store.steampowered.com/app/217200/Worms_Armageddon/) celui-ci ne fonctionne pas avec une manette, il faut jouer au clavier
-* 2010 : [Worms Reloaded - sur Steam](https://store.steampowered.com/app/22600/Worms_Reloaded/) - Démo gratuite
-* 2012 : [Worms Revolution - sur Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)
+* 1999 : [Worms Armaggedon - sur Steam](https://store.steampowered.com/app/217200/Worms_Armageddon/) - 2,24€ - celui-ci ne fonctionne pas avec une manette, il faut jouer au clavier
+* 2010 : [Worms Reloaded - sur Steam](https://store.steampowered.com/app/22600/Worms_Reloaded/) - 2,99€ - Démo gratuite
+* 2012 : [Worms Revolution - sur Steam](https://store.steampowered.com/app/200170/Worms_Revolution/) - 2,24€
 * Pour des versions plus récentes nous vous invitons à les rechercher directement sur Steam
 
 # Kao the Kangaroo: Round 2
 
 Kao the Kangaroo: Round 2 est un jeu de plaforme en 3D.
 
-* [Kao the Kangaroo: Round 2 - sur Steam](https://store.steampowered.com/app/1048540/Kao_the_Kangaroo_Round_2_2003_rerelease/)
+* [Kao the Kangaroo: Round 2 - sur Steam](https://store.steampowered.com/app/1048540/Kao_the_Kangaroo_Round_2_2003_rerelease/) - 0,99€
 
 # SteamWorld Dig
 
 SteamWorld Dig est un jeu de plateforme sortie en 2013. Une suite, SteamWorld Dig 2, est sortie en 2013.
 Ces jeux fonctionnent au clavier, mais aussi à la manette.
 
-* [SteamWorld Dig - sur Steam](https://store.steampowered.com/app/252410/SteamWorld_Dig/)
-* [SteamWorld Dig 2 - sur Steam](https://store.steampowered.com/app/571310/SteamWorld_Dig_2/)
+* [SteamWorld Dig - sur Steam](https://store.steampowered.com/app/252410/SteamWorld_Dig/) - 0,89€
+* [SteamWorld Dig 2 - sur Steam](https://store.steampowered.com/app/571310/SteamWorld_Dig_2/) - 1,19€
 
 # SteamWorld Heist
 
 SteamWorld Heist est un jeu de tir au tour par tour.
 Ces jeux fonctionnent au clavier, mais aussi à la manette.
 
-* [SteamWorld Heist - sur Steam](https://store.steampowered.com/app/322190/SteamWorld_Heist/)
+* [SteamWorld Heist - sur Steam](https://store.steampowered.com/app/322190/SteamWorld_Heist/) - 1,04€
 
 # Caveblazers
 
 Caveblazers est un jeu de plateform d'action, d'aventure et d'exploration de souterrain.
 
-* [Caveblazers - sur Steam](https://store.steampowered.com/app/452060/Caveblazers/)
+* [Caveblazers - sur Steam](https://store.steampowered.com/app/452060/Caveblazers/) - 0,78€
 
 # Unrailed
 
 Dans Unrailed!, seul ou jusqu'à quatre joueurs, en ligne ou local, les joueurs coopèrent pour construire une voie ferrée à partir de matériaux qu'ils doivent récupérer dans l'environnement pour empêcher le train de dérailler en route vers sa destination
 Ce joue au clavier ou à la manette.
 
-* [Unrailed - sur Steam](https://store.steampowered.com/app/1016920/Unrailed/)
+* [Unrailed - sur Steam](https://store.steampowered.com/app/1016920/Unrailed/) - 2,99€
