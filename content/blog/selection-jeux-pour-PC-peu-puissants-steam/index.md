@@ -18,8 +18,28 @@ Les jeux PC jouables avec une manette le seront aussi au clavier et à la souris
 
 Peggle est un jeu de bille, où le joueur dispose de 10 billes pour toucher des cibles.
 
+Deux démos gratuites sont disponibles.
+
 * [Peggle - sur Steam](https://store.steampowered.com/app/3480/Peggle_Deluxe/)
 * [Peggle Night - sur Steam](https://store.steampowered.com/app/3540/Peggle_Nights/)
+* Démo : [Peggle Extreme - sur Steam](https://store.steampowered.com/app/3483/Peggle_Extreme/)
+* Démo : [Peggle Deluxe - sur Steam](https://store.steampowered.com/app/3480/Peggle_Deluxe/)
+
+# Mini ninja
+
+Mini Ninjas est un jeu qui combine action nerveuse, infiltration et exploration.
+
+Steam propre une démo pour tester le jeu avant de l'acheter.
+
+* [Mini ninja - sur Steam](https://store.steampowered.com/app/35000/Mini_Ninjas/)
+
+# Limbo
+
+Jeu de platforme et de puzzle, ambiance sombre.
+
+Steam propre une démo pour tester le jeu avant de l'acheter.
+
+* [Limbo - sur Steam](https://store.steampowered.com/app/48000/LIMBO/)
 
 # Tori-Toki
 
@@ -70,3 +90,4 @@ Il existe 3 versions de Counter-strike :
 Jeu de stratégie en tant réel sorti en 1997.
 
 * [Total Annihilation - sur Steam](https://store.steampowered.com/app/298030/Total_Annihilation/)
+
