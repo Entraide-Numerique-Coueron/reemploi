@@ -29,10 +29,10 @@ Jouer contre l'ordinateur ou d'autres joueurs aux échecs
 
 Jeu de cache-cache
 
-[Hide and Seek World](https://hideandseek.world/)
+* [Hide and Seek World](https://hideandseek.world/)
 
 # Slow Roads
 
 Jeu de conduite de voiture
 
-[Slow Roads](https://slowroads.io/)
+* [Slow Roads](https://slowroads.io/)
