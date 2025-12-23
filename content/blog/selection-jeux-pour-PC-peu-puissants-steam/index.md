@@ -85,3 +85,44 @@ Jeu de stratégie en tant réel sorti en 1997.
 
 * [Total Annihilation - sur Steam](https://store.steampowered.com/app/298030/Total_Annihilation/) - 4,99€
 
+# Rayman Legends
+
+Jeu de plateforme. Jouable en solo, ou en coop locale avec écran partagé.
+
+Testez bien le jeu avec la version de démo gratuite avant de l'acheter, car il ne fonctionne pas sur des ordinateurs trop vieux.
+
+* [Rayman Legends - sur Steam](https://store.steampowered.com/app/242550/Rayman_Legends/) - 3,99€
+
+# 39 days to mars
+
+Jeu coopératif en local à bord d'un vaisseau spacial du XIXème siècle.
+
+Une démo gratuite vous permet de vérifier si le jeu fonctionne avant de l'acheter.
+
+* [39 Days to Mars - sur Steam](https://store.steampowered.com/app/504920/39_Days_to_Mars/) - 13,06€
+
+# Unspottable
+
+Unspottable est un jeu compétitif en local ou en-ligne de 2 à 8 joueurs. Dissimulez-vous parmis la foule, traquez les autres joueurs.
+
+Une démo gratuite vous permet de vérifier si le jeu fonctionne avant de l'acheter.
+
+* [Unspottable - sur Steam](https://store.steampowered.com/app/1243960/Unspottable/) - 4,99€
+
+# Left for Dead
+
+Jeu de tir à la première personne, en coopératif, face à une invasion de zombies.
+
+Deux versions existent, la deuxième nécessite un ordinateur un peu plus puissant que la première version.
+
+* 2008 [Left 4 Dead - sur Steam](https://store.steampowered.com/app/500/Left_4_Dead/) - 1,95€
+* 2009 [Left 4 Dead 2 - sur Steam](https://store.steampowered.com/app/550/Left_4_Dead_2/) - 1,95€
+
+# Dungeon Defenders
+
+Dungeon Defenders est un jeu de rôle et d'action et de tourelles défensives. Jouable jusqu'à 4 en coopération.
+
+Deux versions du jeu existe :
+* 2011 [Dungeon Defenders - sur Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/?curator_clanid=42283991) - 2,95€
+* 2017 [Dungeon Defenders II - sur Stean](https://store.steampowered.com/app/236110/Dungeon_Defenders_II/)
+

@@ -77,3 +77,19 @@ Dans Unrailed!, seul ou jusqu'à quatre joueurs, en ligne ou local, les joueurs 
 Ce joue au clavier ou à la manette.
 
 * [Unrailed - sur Steam](https://store.steampowered.com/app/1016920/Unrailed/) - 2,99€
+
+# Brawlhalla
+
+Jeu de combat jusqu'à 8 joueurs, en ligne ou en local.
+
+* [Brawlhalla - sur Steam](https://store.steampowered.com/app/291550/Brawlhalla/) - gratuit
+
+# Rayman Origins
+
+Jeu de plateforme.
+
+Testez bien le jeu avec la version de démo gratuite avant de l'acheter, car il ne fonctionne pas sur des ordinateurs trop vieux.
+
+* [Rayman Origins - sur Steam](https://store.steampowered.com/app/207490/Rayman_Origins/) - 2,99€
+
+

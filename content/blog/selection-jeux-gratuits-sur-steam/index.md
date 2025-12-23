@@ -85,3 +85,35 @@ Jeu de stratégie. Disponible aussi [nativement sous Linux](/blog/selection-jeux
 
 * [Battle for Wesnoth- sur Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/)
 
+# Brawlhalla
+
+Jeu de combat jusqu'à 8 joueurs, en ligne ou en local.
+
+* [Brawlhalla - sur Steam](https://store.steampowered.com/app/291550/Brawlhalla/)
+
+# DYO
+
+DYO est un jeu casse-tête coopératif pour un ou deux joueurs dans lequel deux minotaures doivent être dirigés à travers un labyrinthe.
+
+* [DYO - sur Steam](https://store.steampowered.com/app/791470/DYO/)
+
+# Yet Another Zombie Defense
+
+Construction de défense face à une invasion de zombies. 
+
+* [Yet Another Zombie Defense - sur Steam](https://store.steampowered.com/app/270550/Yet_Another_Zombie_Defense/)
+
+# Ball grabbers
+
+Jeu à deux sur écran partagé, une version de Pong amélioré.
+
+* [Ball grabbers - sur Steam](https://store.steampowered.com/app/851980/Ball_Grabbers/)
+
+# Dungeon Defenders
+
+Dungeon Defenders est un jeu de rôle et d'action et de tourelles défensives. Jouable jusqu'à 4 en coopération.
+
+Deux versions du jeu existe :
+* 2011 [Dungeon Defenders - sur Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/?curator_clanid=42283991) - 2,95€
+* 2017 [Dungeon Defenders II - sur Stean](https://store.steampowered.com/app/236110/Dungeon_Defenders_II/)
+
