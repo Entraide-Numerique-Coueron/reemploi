@@ -37,7 +37,7 @@ Worms est une série de jeux vidéo d'artillerie et de tactique. Les joueurs com
 Au fil des ans plusieurs jeux de cette série sont sortis, le premier en 1994 et le dernier en 2020, il y a donc forcement une version qui convient à votre ordinateur. 
 Choisissez la version correspondant à votre ordinateur, la date de sortis est un bon indicateur.
 
-Une démo gratuite est disponible pour Worms Realoaded.
+Une démo gratuite est disponible pour Worms Reloaded.
 
 * 1999 : [Worms Armaggedon - sur Steam](https://store.steampowered.com/app/217200/Worms_Armageddon/) - 2,24€ - celui-ci ne fonctionne pas avec une manette, il faut jouer au clavier
 * 2010 : [Worms Reloaded - sur Steam](https://store.steampowered.com/app/22600/Worms_Reloaded/) - 2,99€ - Démo gratuite
@@ -67,7 +67,7 @@ Ces jeux fonctionnent au clavier, mais aussi à la manette.
 
 # Caveblazers
 
-Caveblazers est un jeu de plateform d'action, d'aventure et d'exploration de souterrain.
+Caveblazers est un jeu de plateforme d'action, d'aventure et d'exploration de souterrain.
 
 * [Caveblazers - sur Steam](https://store.steampowered.com/app/452060/Caveblazers/) - 0,78€
 

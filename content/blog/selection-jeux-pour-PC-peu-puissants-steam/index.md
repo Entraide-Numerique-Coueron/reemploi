@@ -129,28 +129,33 @@ Deux versions existent, la deuxième nécessite un ordinateur un peu plus puissa
 
 Dungeon Defenders est un jeu de rôle et d'action et de tourelles défensives. Jouable jusqu'à 4 en coopération.
 
-Deux versions du jeu existe :
+Deux versions du jeu existent :
 * 2011 [Dungeon Defenders - sur Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/?curator_clanid=42283991) - 2,95€
-* 2017 [Dungeon Defenders II - sur Stean](https://store.steampowered.com/app/236110/Dungeon_Defenders_II/)
+* 2017 [Dungeon Defenders II - sur Stean](https://store.steampowered.com/app/236110/Dungeon_Defenders_II/) - gratuit
 
-# Hitman: Blood money
+# Hitman
 
-Hitman est un jeu où vous incarnez un assassin.
+Hitman est un jeu où vous incarnez un assassin. Plusieurs versions existent, choisissez celle qui convient à la puissance ou âge de votre ordinateur.
+Des versions plus récentes existent mais nous ne les avons pas listées ici.
 
-* [Hitman: Blood money - sur Steam](https://store.steampowered.com/app/6860/Hitman_Blood_Money/)
+* 2000 : [Hitman - sur Steam](https://store.steampowered.com/app/6900/Hitman_Codename_47/) - 0,79€
+* 2002 : [Hitman 2: Silent Assassin - sur Steam](https://store.steampowered.com/app/6850/Hitman_2_Silent_Assassin/) - 0,89€
+* 2004 : [Hitman: Contracts - sur Steam](https://store.steampowered.com/app/247430/Hitman_Contracts/) - 0,89€
+* 2006 : [Hitman: Blood money - sur Steam](https://store.steampowered.com/app/6860/Hitman_Blood_Money/) - 0,97€
+* 2012 : [Hitman: Absolution - sur Steam](https://store.steampowered.com/app/6860/Hitman_Blood_Money/) - 1,99€
 
 # Mount and blade
 
 Mount and blade est un jeu où vous incarnez un chevalier. Le jeu possède des suites "Warband" sorti en 2010, puis "Bannerlord" sorti en 2020, mais nécessiteront des ordinateurs plus récents.
 
-* [Mount and blade - sur Steam](https://store.steampowered.com/app/22100/Mount__Blade/)
-* [Mount and blade "Warband" - sur Steam](https://store.steampowered.com/app/48700/Mount__Blade_Warband/)
+* 2008 : [Mount and blade - sur Steam](https://store.steampowered.com/app/22100/Mount__Blade/) - 2,49€
+* 2010 : [Mount and blade "Warband" - sur Steam](https://store.steampowered.com/app/48700/Mount__Blade_Warband/) - 4,99€
 
 # Crimsonland
 
 Jeu de tir, en vue de dessus, face à une invasion d'aliens. Jouable avec des manettes et en coopération locale.
 
-* [Crimsonland - sur Steam](https://store.steampowered.com/app/262830/Crimsonland/)
+* [Crimsonland - sur Steam](https://store.steampowered.com/app/262830/Crimsonland/) - 4,82€
 
 # Overlord
 
@@ -158,5 +163,5 @@ Vous incarnez l'Overlord, un seigneur, et vous contrôlez vos serviteurs, de pet
 
 Deux éditions existent et chacune propose une démo gratuite. Testez la démo avant d'acheter le jeu.
 
-* 2007 : [Overlord - sur Steam](https://store.steampowered.com/app/11450/Overlord)
-* 2009 : [Overlord - sur Steam](https://store.steampowered.com/app/12810/Overlord_II/)
+* 2007 : [Overlord - sur Steam](https://store.steampowered.com/app/11450/Overlord) - 2,49€
+* 2009 : [Overlord - sur Steam](https://store.steampowered.com/app/12810/Overlord_II/) - 4,49€
