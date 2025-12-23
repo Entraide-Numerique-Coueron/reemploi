@@ -20,6 +20,8 @@ Les jeux PC jouables avec une manette le seront aussi au clavier et à la souris
 
 Peggle est un jeu de bille, où le joueur dispose de 10 billes pour toucher des cibles.
 
+Ces jeux ont une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux.
+
 Deux démos gratuites sont disponibles.
 
 * [Peggle - sur Steam](https://store.steampowered.com/app/3480/Peggle_Deluxe/) - 0,99€
@@ -27,17 +29,11 @@ Deux démos gratuites sont disponibles.
 * Démo : [Peggle Extreme - sur Steam](https://store.steampowered.com/app/3483/Peggle_Extreme/)
 * Démo : [Peggle Deluxe - sur Steam](https://store.steampowered.com/app/3480/Peggle_Deluxe/)
 
-# Mini ninja
-
-Mini Ninjas est un jeu qui combine action nerveuse, infiltration et exploration.
-
-Steam propose une démo pour tester le jeu avant de l'acheter.
-
-* [Mini ninja - sur Steam](https://store.steampowered.com/app/35000/Mini_Ninjas/) - 1,49€
-
 # Tori-Toki
 
 Toki Tori est un jeu qui mélange deux genres : le jeu de plateforme et le jeu d'énigmes.
+
+Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux
 
 * [Tori-Toki - sur Steam](https://store.steampowered.com/app/38700/Toki_Tori/) - 0,69€
 
@@ -45,11 +41,15 @@ Toki Tori est un jeu qui mélange deux genres : le jeu de plateforme et le jeu d
 
 Mini Metro est un jeu de gestion et de simulation de réseaux de transports en commun.
 
+Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux
+
 * [Mini-metro - sur Steam](https://store.steampowered.com/app/287980/Mini_Metro/) - 4,09€
 
 # Reus
 
 Reus permet au joueur de prendre le contrôle de quatre géants (roche, marais, forêt et océan) sur une planète initialement vierge afin de créer une utopie pour l'humanité qui s'y installera.
+
+Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux
 
 * [Reus - sur Steam](https://store.steampowered.com/app/222730/Reus/?l=french) - 3,99€
 
@@ -165,3 +165,13 @@ Deux éditions existent et chacune propose une démo gratuite. Testez la démo a
 
 * 2007 : [Overlord - sur Steam](https://store.steampowered.com/app/11450/Overlord) - 2,49€
 * 2009 : [Overlord - sur Steam](https://store.steampowered.com/app/12810/Overlord_II/) - 4,49€
+
+# Mini ninja
+
+Mini Ninjas est un jeu qui combine action nerveuse, infiltration et exploration.
+
+Steam propose une démo pour tester le jeu avant de l'acheter.
+
+Ce jeu peut rencontrer des difficultés à fonctionner sous certaines distributions Linux.
+
+* [Mini ninja - sur Steam](https://store.steampowered.com/app/35000/Mini_Ninjas/) - 1,49€
