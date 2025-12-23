@@ -19,11 +19,12 @@ Adaptation du jeu de plateau Risk.
 
 * [Risk : Global Domination - sur Steam](https://store.steampowered.com/app/1128810/RISK_Global_Domination/)
 
-# Team Fortress 2
+# Team Fortress
 
-Team Fortress est un jeu de tir en équipe. Vous devez capturez les drapeaux de l'équipe adverse.
+Team Fortress est un jeu de tir en équipe. Vous devez capturer les drapeaux de l'équipe adverse.
 
-* [Team Fortress 2 - sur Steam](https://store.steampowered.com/app/440/Team_Fortress_2/?l=french)
+* [Fortress forever](https://store.steampowered.com/app/253530/Fortress_Forever/)
+* version recommandée : [Team Fortress 2 - sur Steam](https://store.steampowered.com/app/440/Team_Fortress_2/?l=french)
 
 # The Lord of the Rings Online
 

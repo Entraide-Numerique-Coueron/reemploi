@@ -53,6 +53,13 @@ Reus permet au joueur de prendre le contrôle de quatre géants (roche, marais, 
 
 * [Reus - sur Steam](https://store.steampowered.com/app/222730/Reus/?l=french) - 3,99€
 
+# Fallout 1 & 2
+
+Fallout est un jeu de rôle dans un univers post-apocalyptique.
+
+* 1997 : [Fallout 1](https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/)
+* 1998 : [Fallout 2](https://store.steampowered.com/app/38410/Fallout_2_A_Post_Nuclear_Role_Playing_Game/)
+
 # Half-life
 
 Half-life est un jeu-vidéo de tir à la première personne de science-fiction, sorti en 1998. Le jeu dispose d'une suite, Half-Life 2 sorti en 2004, pour des ordinateurs plus récents.
@@ -125,4 +132,23 @@ Dungeon Defenders est un jeu de rôle et d'action et de tourelles défensives. J
 Deux versions du jeu existe :
 * 2011 [Dungeon Defenders - sur Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/?curator_clanid=42283991) - 2,95€
 * 2017 [Dungeon Defenders II - sur Stean](https://store.steampowered.com/app/236110/Dungeon_Defenders_II/)
+
+# Hitman: Blood money
+
+Hitman est un jeu où vous incarnez un assassin.
+
+* [Hitman: Blood money - sur Steam](https://store.steampowered.com/app/6860/Hitman_Blood_Money/)
+
+# Mount and blade
+
+Mount and blade est un jeu où vous incarnez un chevalier. Le jeu possède des suites "Warband" sorti en 2010, puis "Bannerlord" sorti en 2020, mais nécessiteront des ordinateurs plus récents.
+
+* [Mount and blade - sur Steam](https://store.steampowered.com/app/22100/Mount__Blade/)
+* [Mount and blade "Warband" - sur Steam](https://store.steampowered.com/app/48700/Mount__Blade_Warband/)
+
+# Crimsonland
+
+Jeu de tir, en vue de dessus, face à une invasion d'aliens. Jouable avec des manettes et en coopération locale.
+
+* [Crimsonland - sur Steam](https://store.steampowered.com/app/262830/Crimsonland/)
 
