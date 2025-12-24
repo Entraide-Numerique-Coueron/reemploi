@@ -44,9 +44,17 @@ Ce jeu de plateforme en 3D est jouable au clavier et à la souris.
 
 Ce jeu de stratégie au tour par tour est similaire au célèbre jeu Civilisation. Il est jouable au clavier et à la souris.
 
+# Frogatto & friends
+
+Frogatto & friends est un jeu de plateforme en 2D.
+
 # Super Tux
 
 Ce jeu de plateforme en 2D est similaire au célèbre Super Mario. Il est jouable au clavier.
+
+# Hedgewars
+
+Hedgewars est un jeu de combat en 2D inspiré du célèbre jeu Worms.
 
 # Hurry Curry
 
@@ -123,6 +131,38 @@ Warzone 2100 est un jeu de stratégie en temps réel.
 # Urban Terror
 
 Urban Terror est un jeu de tir à la première personne, mettant en avant l'aspect tactique.
+
+# Granatier
+
+Granatier est un jeu inspiré de Bomberman.
+
+# OpenClonk
+
+OpenClonk est un jeu multijoueurs.
+
+# MegaGlest
+
+MegaGlest est un jeu stratégie en temps réel en 3D.
+
+# Rigs of rods
+
+Rigs of rods est un jeu de simulation de conduite de véhicule.
+
+# Astromenace
+
+Astromenace est un jeu de tir en vaisseau spacial.
+
+# Pioneer
+
+Pioneer est un jeu d'aventure spaciale.
+
+# AssaultCube
+
+AssaultCube est un jeu de tir à la première personne.
+
+# OpenSpades
+
+OpenSpades est un jeu de tir à la première personne dans un univers Voxel (style Minecraft)
 
 # Flare: Emperyan Campaign
 
