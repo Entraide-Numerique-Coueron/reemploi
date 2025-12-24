@@ -5,7 +5,7 @@ description: Jeux gratuits disponibles sur Steam, fonctionnant sur des ordinateu
 ---
 
 Cette sélection liste des jeux gratuits disponibles sur Steam, fonctionnant sur des ordinateurs peu puissants. 
-Si vous n'avez pas encore installé Steam et que vous ne savez pas le faire, voici notre tutoriel : [Installer des logiciels sur Zorin OS](/blog/installer-logiciels-sur-zorin/)
+Si vous utilisez ZorinOs, et que vous n'avez pas encore installé Steam et que vous ne savez pas le faire, voici notre tutoriel : [Installer des logiciels sur Zorin OS](/blog/installer-logiciels-sur-zorin/)
 
 # Trove
 

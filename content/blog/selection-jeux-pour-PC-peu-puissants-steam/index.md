@@ -6,7 +6,7 @@ description: Jeux disponibles sur Steam, fonctionnant sur des ordinateurs peu pu
 
 Cette sélection liste des jeux disponibles sur Steam, fonctionnant sur des ordinateurs peu puissants.
 Avant d'acheter un jeu, vérifiez bien que la configuration matérielle requise nécessaire pour faire fonctionner ces jeux.
-Si vous n'avez pas encore installé Steam et que vous ne savez pas le faire, voici notre tutoriel : [Installer des logiciels sur Zorin OS](/blog/installer-logiciels-sur-zorin/)
+Si vous utilisez ZorinOs, et que vous n'avez pas encore installé Steam et que vous ne savez pas le faire, voici notre tutoriel : [Installer des logiciels sur Zorin OS](/blog/installer-logiciels-sur-zorin/)
 
 Nous affichons à titre indicatif les prix vus les plus bas proposés par Steam lors des évènements promotionnels (solde d'hiver par exemple).
 
@@ -78,6 +78,8 @@ Half-life est un jeu-vidéo de tir à la première personne de science-fiction, 
 Portal est un jeu vidéo de réflexion et d'action en vue à la première personne, sorti en 2007. Le jeu consiste en une succession de parcours que le joueur doit franchir en téléportant son personnage ou des objets à l'aide d'une arme capable de créer un portail spatial entre deux surfaces planes, solides et non métalliques.
 
 Une suite, Portal 2, est sorti en 2001.
+
+Le jeu Portal peut rencontrer des difficultés à être lancé avec certaines cartes graphiques.
 
 * [Portal - sur Steam](https://store.steampowered.com/app/400/Portal/?l=french) - 1,95€
 * [Portal 2 - sur Steam](https://store.steampowered.com/app/620/Portal_2/) - 1,95€
