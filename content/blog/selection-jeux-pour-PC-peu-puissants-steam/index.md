@@ -77,7 +77,9 @@ Half-life est un jeu-vidéo de tir à la première personne de science-fiction, 
 
 # Metro
 
-Métro est une serie de jeux de tir à la première personne dans un univers post-apocalyptique. Les premiers jeux de cette série fonctionne bien sur des PC anciens.
+Métro est une série de jeux de tir à la première personne dans un univers post-apocalyptique. Les premiers jeux de cette série fonctionne bien sur des PC anciens.
+
+Testé avec succès sur ZorinOs.
 
 * [Metro last light - sur Steam](https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/) - 1,99€
 
