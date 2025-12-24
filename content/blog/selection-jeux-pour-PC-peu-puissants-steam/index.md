@@ -164,7 +164,7 @@ Mini Ninjas est un jeu qui combine action nerveuse, infiltration et exploration.
 
 Steam propose une démo pour tester le jeu avant de l'acheter.
 
-Ce jeu peut rencontrer des difficultés à fonctionner sous certaines distributions Linux.
+Ce jeu peut rencontrer des difficultés à fonctionner sous certaines distributions Linux, ainsi que sur des ordinateurs trop anciens.
 
 * [Mini ninja - sur Steam](https://store.steampowered.com/app/35000/Mini_Ninjas/) - 1,49€
 
