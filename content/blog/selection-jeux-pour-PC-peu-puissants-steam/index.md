@@ -21,6 +21,7 @@ Les jeux PC jouables avec une manette le seront aussi au clavier et à la souris
 Peggle est un jeu de bille, où le joueur dispose de 10 billes pour toucher des cibles.
 
 Ces jeux ont une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux.
+Joué avec succès sous ZorinOs.
 
 Deux démos gratuites sont disponibles.
 
@@ -33,7 +34,10 @@ Deux démos gratuites sont disponibles.
 
 Toki Tori est un jeu qui mélange deux genres : le jeu de plateforme et le jeu d'énigmes.
 
-Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux
+Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux.
+Joué avec succès sous ZorinOs.
+
+Le jeu se joue à la souris (et non pas à la manette comme indiqué sur Steam).
 
 * [Tori-Toki - sur Steam](https://store.steampowered.com/app/38700/Toki_Tori/) - 0,69€
 
@@ -41,7 +45,8 @@ Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différe
 
 Mini Metro est un jeu de gestion et de simulation de réseaux de transports en commun.
 
-Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux
+Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux.
+Joué avec succès sous ZorinOs.
 
 * [Mini-metro - sur Steam](https://store.steampowered.com/app/287980/Mini_Metro/) - 4,09€
 
@@ -49,7 +54,8 @@ Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différe
 
 Reus permet au joueur de prendre le contrôle de quatre géants (roche, marais, forêt et océan) sur une planète initialement vierge afin de créer une utopie pour l'humanité qui s'y installera.
 
-Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux
+Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux.
+Joué avec succès sous ZorinOs.
 
 * [Reus - sur Steam](https://store.steampowered.com/app/222730/Reus/?l=french) - 3,99€
 
@@ -57,8 +63,8 @@ Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différe
 
 Fallout est un jeu de rôle dans un univers post-apocalyptique.
 
-* 1997 : [Fallout 1](https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/)
-* 1998 : [Fallout 2](https://store.steampowered.com/app/38410/Fallout_2_A_Post_Nuclear_Role_Playing_Game/)
+* 1997 : [Fallout 1](https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/) - 2,49€
+* 1998 : [Fallout 2](https://store.steampowered.com/app/38410/Fallout_2_A_Post_Nuclear_Role_Playing_Game/) - 2,49€
 
 # Half-life
 
@@ -158,6 +164,34 @@ Deux éditions existent et chacune propose une démo gratuite. Testez la démo a
 * 2007 : [Overlord - sur Steam](https://store.steampowered.com/app/11450/Overlord) - 2,49€
 * 2009 : [Overlord - sur Steam](https://store.steampowered.com/app/12810/Overlord_II/) - 4,49€
 
+# Outcast 1.1
+
+Outcast est un jeu d'aventure et d'action.
+
+Joué avec succès sous ZorinOs.
+
+* [Outcast - sur Steam](https://store.steampowered.com/app/336610/Outcast_11/) - 1,74€
+
+# Ever seen a cat
+
+Ever seen a cat est un jeu de type "cherche et trouve", il faut retrouver des chats cachés dans un dessin.
+
+Joué avec succès sous ZorinOs et sous Batocera.
+
+* [Ever seen a cat- sur Steam](https://store.steampowered.com/app/3618030/Flock_Around/) - 0,59€
+
+# Flock Around
+
+Flock Around est un jeu d'exploration où il faut trouver et prendre en photo des oiseaux.
+
+Le jeu n'est pas disponible en français.
+
+Steam propose une démo gratuite pour tester le jeu avant de l'acheter.
+
+Joué avec succès sous ZorinOs.
+
+* [Flock Around - sur Steam](https://store.steampowered.com/app/3618030/Flock_Around/)
+  
 # Mini ninja
 
 Mini Ninjas est un jeu qui combine action nerveuse, infiltration et exploration.

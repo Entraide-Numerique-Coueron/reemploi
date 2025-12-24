@@ -164,6 +164,10 @@ AssaultCube est un jeu de tir à la première personne.
 
 OpenSpades est un jeu de tir à la première personne dans un univers Voxel (style Minecraft)
 
+# Augustus
+
+Augustus est une réadaptation du jeu Caesar 3.
+
 # Flare: Emperyan Campaign
 
 Flare: Emperyan Campaign est un jeu de rôle en 2D.
