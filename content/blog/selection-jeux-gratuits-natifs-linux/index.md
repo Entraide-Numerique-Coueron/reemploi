@@ -110,15 +110,27 @@ OpenRA est un jeu de stratégie en temps réel inspiré du célèbre jeu "Alerte
 
 # Tremulous
 
-Tremulous est un jeu de tir à la première personne.
+Tremulous est un jeu de tir à la première personne en multijoueur.
 
 # Unvanquished
 
 Unvanquished est un jeu de stratégie en temps réel se jouant à la première personne.
 
+# Warzone 2100
+
+Warzone 2100 est un jeu de stratégie en temps réel.
+
+# Urban Terror
+
+Urban Terror est un jeu de tir à la première personne, mettant en avant l'aspect tactique.
+
 # Flare: Emperyan Campaign
 
 Flare: Emperyan Campaign est un jeu de rôle en 2D.
+
+# Warmux
+
+Warmux est un jeu de combat en 2D inspiré du célèbre jeu Worms.
 
 
 
