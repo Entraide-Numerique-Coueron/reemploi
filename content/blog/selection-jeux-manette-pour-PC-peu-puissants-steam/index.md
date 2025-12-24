@@ -59,6 +59,8 @@ Kao the Kangaroo: Round 2 est un jeu de plateforme en 3D.
 
 Ce jeu a une très bonne compatibilité avec des ordinateurs anciens et différentes versions de Linux.
 
+Ce jeu est conçu pour être joué à la manette. Il fonctionne néanmoins avec un clavier, mais c'est moins pratique.
+
 * [Kao the Kangaroo: Round 2 - sur Steam](https://store.steampowered.com/app/1048540/Kao_the_Kangaroo_Round_2_2003_rerelease/) - 0,99€
 
 # Limbo
