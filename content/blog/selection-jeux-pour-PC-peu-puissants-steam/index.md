@@ -81,6 +81,8 @@ Une suite, Portal 2, est sorti en 2001.
 
 Le jeu Portal peut rencontrer des difficultés à être lancé avec certaines cartes graphiques.
 
+Le jeu Portal 2 peut au contraire bien mieux fonctionner, il bénéficie d'une compatibilité plus large.
+
 * [Portal - sur Steam](https://store.steampowered.com/app/400/Portal/?l=french) - 1,95€
 * [Portal 2 - sur Steam](https://store.steampowered.com/app/620/Portal_2/) - 1,95€
 
