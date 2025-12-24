@@ -61,7 +61,9 @@ Joué avec succès sous ZorinOs.
 
 # Fallout 1 & 2
 
-Fallout est un jeu de rôle dans un univers post-apocalyptique.
+Fallout est un jeu de rôle dans un univers post-apocalyptique. Plusieurs éditions du jeu sont sortiees. Les deux premières sont en 3D isométrique.
+
+La 3ème version "Fallout new vegas" est en vrai 3D et nécessitera un PC plus puissant, c'est pourquoi nous ne l'avons pas listé, après l'avoir testé.
 
 * 1997 : [Fallout 1](https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/) - 2,49€
 * 1998 : [Fallout 2](https://store.steampowered.com/app/38410/Fallout_2_A_Post_Nuclear_Role_Playing_Game/) - 2,49€
@@ -72,6 +74,12 @@ Half-life est un jeu-vidéo de tir à la première personne de science-fiction, 
 
 * [Half-life - sur Steam](https://store.steampowered.com/app/70/HalfLife/?l=french) - 1,63€
 * [Half-life 2 - sur Steam](https://store.steampowered.com/app/220/HalfLife_2/) - 1,95€
+
+# Metro
+
+Métro est une serie de jeux de tir à la première personne dans un univers post-apocalyptique. Les premiers jeux de cette série fonctionne bien sur des PC anciens.
+
+* [Metro last light - sur Steam](https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/) - 1,99€
 
 # Portal
 
@@ -130,6 +138,25 @@ Left 4 Dead 2, testé avec succès sur ZorinOs.
 * 2008 [Left 4 Dead - sur Steam](https://store.steampowered.com/app/500/Left_4_Dead/) - 1,95€
 * 2009 [Left 4 Dead 2 - sur Steam](https://store.steampowered.com/app/550/Left_4_Dead_2/) - 1,95€
 
+# Dont' Starve
+
+Dont' Starve est un jeu de survie dans une ambiance ressemblant à un film de Tim Burton.
+
+Testé avec succès sur ZorinOs.
+
+* [Dont' Starve - sur Steam](https://store.steampowered.com/app/219740/Dont_Starve/) - 2,04€
+
+# Darkest Dungeon
+
+Darkest Dungeon est un jeu de rôle, en mode rogue-like, au tour par tour.
+
+Le jeu est sorti en 2016 mais fonctionne sur des PC plus anciens. Testé avec succès sous ZorinOs.
+
+Une suite, Darkest Dungeon 2 est sorti en 2022 mais ne fonctionne que sur des PC plus récents.
+
+* [Darkest Dungeon - sur Steam](https://store.steampowered.com/app/262060/Darkest_Dungeon/) - 3,44€
+
+
 # Dungeon Defenders
 
 Dungeon Defenders est un jeu de rôle et d'action et de tourelles défensives. Jouable jusqu'à 4 en coopération.
@@ -140,7 +167,7 @@ Deux versions du jeu existent :
 
 # Hitman
 
-Hitman est un jeu où vous incarnez un assassin. Plusieurs versions existent, choisissez celle qui convient à la puissance ou âge de votre ordinateur.
+Hitman est un jeu où vous incarnez un assassin. Plusieurs versions existent, choisissez celle qui convient à la puissance ou âge de votre ordinateur, dans le doute prennez un jeu sorti à une date antérieure à la date de vente de votre PC.
 Des versions plus récentes existent mais nous ne les avons pas listées ici.
 
 * 2000 : [Hitman - sur Steam](https://store.steampowered.com/app/6900/Hitman_Codename_47/) - 0,79€
@@ -218,3 +245,4 @@ Testez bien le jeu avec la version de démo gratuite avant de l'acheter, car il 
 Ce jeu peut rencontrer des difficultés à fonctionner sous certaines distributions Linux.
 
 * [Rayman Legends - sur Steam](https://store.steampowered.com/app/242550/Rayman_Legends/) - 3,99€
+
