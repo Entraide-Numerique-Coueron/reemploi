@@ -82,6 +82,7 @@ Une suite, Portal 2, est sorti en 2001.
 Le jeu Portal peut rencontrer des difficultés à être lancé avec certaines cartes graphiques.
 
 Le jeu Portal 2 peut au contraire bien mieux fonctionner, il bénéficie d'une compatibilité plus large.
+Testé avec succès sous ZorinOS.
 
 * [Portal - sur Steam](https://store.steampowered.com/app/400/Portal/?l=french) - 1,95€
 * [Portal 2 - sur Steam](https://store.steampowered.com/app/620/Portal_2/) - 1,95€
@@ -123,6 +124,8 @@ Une démo gratuite vous permet de vérifier si le jeu fonctionne avant de l'ache
 Jeu de tir à la première personne, en coopératif, face à une invasion de zombies.
 
 Deux versions existent, la deuxième nécessite un ordinateur un peu plus puissant que la première version.
+
+Left 4 Dead 2, testé avec succès sur ZorinOs.
 
 * 2008 [Left 4 Dead - sur Steam](https://store.steampowered.com/app/500/Left_4_Dead/) - 1,95€
 * 2009 [Left 4 Dead 2 - sur Steam](https://store.steampowered.com/app/550/Left_4_Dead_2/) - 1,95€
