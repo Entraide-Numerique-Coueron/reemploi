@@ -243,3 +243,11 @@ MMORPG. Nécessite toutefois un PC assez puissant (6Go de RAM et un processeur r
 # Beneath a Steel Sky (1994)
 
 * [Beneath a Steel Sky (1994)](https://store.steampowered.com/app/1368340/Beneath_a_Steel_Sky_1994/)
+
+# World of Tanks
+
+La version "Blitz" est plus légère et fonctionnera mieux sur des PC anciens.
+La version Blitz a besoin de 2Go de Ram et 256Mo de vram. La version normale a besoin de 4Go de Ram et 1Go de vram.
+
+* [World of Tanks Bliz](https://store.steampowered.com/app/444200/World_of_Tanks_Blitz/)
+* [World of Tanks](https://store.steampowered.com/app/1407200/World_of_Tanks/)

@@ -61,7 +61,7 @@ Joué avec succès sous ZorinOs.
 
 # Fallout 1 & 2
 
-Fallout est un jeu de rôle dans un univers post-apocalyptique. Plusieurs éditions du jeu sont sortiees. Les deux premières sont en 3D isométrique.
+Fallout est un jeu de rôle dans un univers post-apocalyptique. Plusieurs éditions du jeu sont sorties. Les deux premières sont en 3D isométrique.
 
 La 3ème version "Fallout new vegas" est en vrai 3D et nécessitera un PC plus puissant, c'est pourquoi nous ne l'avons pas listé, après l'avoir testé.
 
@@ -368,6 +368,14 @@ Sorti en 2013, le deux a été refait en 2019. Pour les anciens PCs il faut priv
 
 * [Shovel Knight: Treasure Trove](https://store.steampowered.com/app/250760/Shovel_Knight_Treasure_Trove/) - 23,99€
 
+# Série Far Cry
+
+* 2004 : [Far Cry 1](https://store.steampowered.com/app/13520/Far_Cry) - 2,99€
+* 2008 : [Far Cry 2](https://store.steampowered.com/app/13520/Far_Cry) - 2,49€
+* 2012 : [Far Cry 3](https://store.steampowered.com/app/13520/Far_Cry) - 3,99€
+
+# Série Call of duty
+
 # Mini ninja
 
 Mini Ninjas est un jeu qui combine action nerveuse, infiltration et exploration.
@@ -420,8 +428,37 @@ Il existe un équivalent open-source : [OpenRA](/blog/selection-jeux-gratuits-na
 
 # Grim Fandango Remastered
 
-* [Grim Fandango Remastered](https://store.steampowered.com/app/316790/Grim_Fandango_Remastered/) -s 2,99€
+* [Grim Fandango Remastered](https://store.steampowered.com/app/316790/Grim_Fandango_Remastered/) - 2,99€
 
+# Ultra Street Fighter IV
+
+* [Ultra Street Fighter® IV](https://store.steampowered.com/app/45760/Ultra_Street_Fighter_IV/) - 3,89€
+
+# Just Cause
+
+128Mo de vram pour Just Cause. Et 256 Mo de vram pour Just Cause 2.
+
+* 2006 : [Just Cause](https://store.steampowered.com/app/6880/Just_Cause/) - 0,97€
+* 2010 : [Just Cause 2](https://store.steampowered.com/app/8190/Just_Cause_2/) - 1,49€
+
+# Série The Witcher
+
+* 2008 : [The witcher](https://store.steampowered.com/app/20900/The_Witcher_Enhanced_Edition_Directors_Cut) - 1,19€
+* 2011 : [The Witcher 2](https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/) - 2,99€
+
+# Série Tomb raider
+
+* 1996 : [Tomb Raider](https://store.steampowered.com/app/224960/Tomb_Raider_I_1996) - 3,49€
+* 1996 : [Tomb Raider 2](https://store.steampowered.com/app/225300/Tomb_Raider_II_1997) - 3,49€
+* 1998 : [Tomb Raider 3](https://store.steampowered.com/app/225320/Tomb_Raider_III_1998) - 3,49€
+* 2006 : [Tomb Raider Legend](https://store.steampowered.com/app/7000/Tomb_Raider_Legend) - 0,97€
+* 2007 : [Tomb Raider: Anniversary](https://store.steampowered.com/app/8000/Tomb_Raider_Anniversary) - 0,98€
+* 2008 : [Tomb Raider: Underworld](https://store.steampowered.com/app/8140/Tomb_Raider_Underworld) - 0,98€
+
+# Batman: Arkham Asylum Game of the Year Edition
+
+* [Batman: Arkham Asylum Game of the Year Edition](https://store.steampowered.com/app/35140/Batman_Arkham_Asylum_Game_of_the_Year_Edition) - 3,99€
+  
 # Allez plus loin
 
 ## Les groupes de curation / recommandations Steam
