@@ -275,4 +275,46 @@ Ce jeu peut rencontrer des difficultés à fonctionner sous certaines distributi
 
 * [Rayman Legends - sur Steam](https://store.steampowered.com/app/242550/Rayman_Legends/) - 3,99€
 
+# Allez plus loin
 
+## Les groupes de curation / recommandations Steam
+
+Les groupes de curation sont des groupes de recommandations de jeux sur Steam. Certains groupes sont spécialisés dans des recommandations pour des PC peu puissants. Voici quelques groupes de ce type.
+
+* [Low System Requirement Games](https://store.steampowered.com/curator/37108678-Low-System-Requirement-Games/)
+* [Low spec? No problem.](https://store.steampowered.com/curator/37440107-Low-spec-No-problem./)
+* [Low Spec Hub](https://store.steampowered.com/curator/34946995-Low-Spec-Hub/)
+* [Low Spec Gamers United](https://store.steampowered.com/curator/8848323-Low-Spec-Gamers-United/)
+* [Low Spec Games](https://store.steampowered.com/curator/6874705-Low-Spec-Games/)
+* [Cheap Low End Games](https://store.steampowered.com/curator/7414568-Cheap-Low-End-Games/)
+* [Low Spec](https://store.steampowered.com/curator/7941269-Low-Spec/)
+* [Low End PC Club](https://store.steampowered.com/curator/27311639-Low-End-PC-Club/)
+* [Low Spec Game Curator](https://store.steampowered.com/curator/44576184-Low-Spec-Game-Curator/)
+* [PC Classics](https://store.steampowered.com/curator/6951696-PC-Classics/)
+* [The Low Spec Gamer](https://store.steampowered.com/curator/41948957-The-Low-Spec-Gamer/)
+* [Low Specs Low Memory Low Disk Space High Five](https://store.steampowered.com/curator/9218819-Low-Specs-Low-Memory-Low-Disk-Space-High/)
+
+## Les vidéos de recommandations Youtube
+
+Souvent, il faut chercher "vram" suivi du nombre de ram dont dispose votre carte graphique (à ne pas confondre avec la RAM de l'ordinateur).
+
+On peut considérer qu'un jeu PC est ancien lorsqu'il demande de 256Mb de vram maximum.
+
+Beaucoup de ces jeux sont introuvables sur Steam.
+
+En français :
+
+* [30 JEUX GRATUITS pour PC POURRIS/PC de BUREAU ( Core 2 Duo, HD Graphics )](https://www.youtube.com/watch?v=OpocO8JxIEg)
+* [30 JEUX pour POTATO PC ( Pentium 4, 256 Mb RAM )](https://www.youtube.com/watch?v=nom7qi7eVHs)
+
+Une recheche de "vram 128" dans Youtube va donner ces résultat :
+
+* [vram 128](https://www.youtube.com/results?search_query=vram+128)
+
+Exemples de vidéos :
+
+* [16Mb | 32Mb | 64Mb Vram | Top 20 Games for Low Spec Pc | Intel Hd Graphics | Without GPU](https://www.youtube.com/watch?v=pT6rFkV933c)
+* [Best Low Spec PC games ( 16 МБ /32 MB /64 МБ VRAM/ Intel HD Graphics)](https://www.youtube.com/watch?v=p7eAmtKeP7Y)
+* [TOP 100 Single Player Games from the 2000s for Low End PCs (128 MB / 256 MB VRAM / Intel GMA)](https://www.youtube.com/watch?v=ex9gbebK-_4)
+
+Il existe plein d'autres vidéos de ce type.
