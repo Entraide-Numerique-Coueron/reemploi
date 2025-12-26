@@ -499,6 +499,11 @@ Il existe un équivalent open-source : [OpenRA](/blog/selection-jeux-gratuits-na
 
 * [Medal of honor](https://store.steampowered.com/app/47790/Medal_of_Honor/) 4,99€
 
+# Série Deus Ex
+
+* [Deus Ex](https://store.steampowered.com/app/6910/Deus_Ex_Game_of_the_Year_Edition/) 6,99€
+* [Deus Ex: Invisible War](https://store.steampowered.com/app/6920/Deus_Ex_Invisible_War/) 1,74€
+
 # Allez plus loin
 
 ## Les groupes de curation / recommandations Steam
