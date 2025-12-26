@@ -29,6 +29,7 @@ description: Nos réponses aux questions qui nous sont le plus posées
 # Zorin OS
 
 * [Installer des logiciels sur Zorin OS](/blog/installer-logiciels-sur-zorin/)
+* [Mettre à jour Zorin OS](/blog/mettre-a-jour-zorin/)
 
 # Jouer sous Linux / Zorin OS
 
