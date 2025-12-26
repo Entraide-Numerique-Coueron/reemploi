@@ -124,11 +124,23 @@ Jeu de gestion d'un bunker après une catastrophe nucléaire.
 
 * [Fallout Shelter - sur Steam](https://store.steampowered.com/app/588430/Fallout_Shelter/)
 
+# The Desolate Hope
+
+* [The Desolate Hope](https://store.steampowered.com/app/298180/The_Desolate_Hope/)
+
 # Gwent
 
 Jeu de carte
 
 * [Gwent - sur Steam](https://store.steampowered.com/app/1284410/GWENT_The_Witcher_Card_Game/)
+
+# Eve Online
+
+* [Eve Online](https://store.steampowered.com/app/8500/EVE_Online/)
+
+# Wakfu
+
+* [Wakfu](https://store.steampowered.com/app/215080/WAKFU/)
 
 # Dungeon Defenders
 
@@ -170,6 +182,10 @@ Il existe 3 versions de Counter-strike :
 * 2000 : Counter-strike : pour les ordinateurs très peu puissants - [Counter-strike - sur Steam](https://store.steampowered.com/app/10/CounterStrike/) - 1,63€
 * 2004 : Counter-strike: Source : pour les ordinateurs peu puissants - [Counter-strike: Source - sur Steam](https://store.steampowered.com/app/240/CounterStrike_Source/) - 1,95€
 * 2012 : GRATUIT : Counter-strike 2 : pour les ordinateurs plus récents - [disponible gratuitement sur Steam](https://store.steampowered.com/app/730/CounterStrike_2/) - gratuit
+
+# Counter-Strike Nexon
+
+* [Counter-Strike Nexon](https://store.steampowered.com/app/273110/CounterStrike_Nexon/)
 
 # War Thunder
 
@@ -251,3 +267,31 @@ La version Blitz a besoin de 2Go de Ram et 256Mo de vram. La version normale a b
 
 * [World of Tanks Bliz](https://store.steampowered.com/app/444200/World_of_Tanks_Blitz/)
 * [World of Tanks](https://store.steampowered.com/app/1407200/World_of_Tanks/)
+
+# BLOCKADE 3D
+
+* [BLOCKADE 3D](https://store.steampowered.com/app/302830/BLOCKADE_3D)
+
+# BLOCKPOST LEGACY
+
+* [BLOCKPOST LEGACY](https://store.steampowered.com/app/706990/BLOCKPOST_LEGACY/)
+
+# Transformice
+
+* [Transformice](https://store.steampowered.com/app/335240/Transformice/)
+
+# Modern Warships
+
+* [Modern Warships](https://store.steampowered.com/app/3144230/Modern_Warships/)
+
+# World of Warships
+
+Il faut 6Go de RAM pour celui-ci.
+
+* [World of Warships](https://store.steampowered.com/app/552990/World_of_Warships/)
+
+# Unturned
+
+Il faut 8Go de RAM pour celui-ci.
+
+* [Unturned](https://store.steampowered.com/app/304930/Unturned/)
