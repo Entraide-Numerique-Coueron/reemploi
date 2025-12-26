@@ -67,6 +67,7 @@ La 3ème version "Fallout new vegas" est en vrai 3D et nécessitera un PC plus p
 
 * 1997 : [Fallout 1](https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/) - 2,49€
 * 1998 : [Fallout 2](https://store.steampowered.com/app/38410/Fallout_2_A_Post_Nuclear_Role_Playing_Game/) - 2,49€
+* 2008 : [Fallout 3](https://store.steampowered.com/app/22300/Fallout_3/) - 2,49€
 
 # Half-life
 
@@ -202,7 +203,7 @@ Vous incarnez l'Overlord, un seigneur, et vous contrôlez vos serviteurs, de pet
 Deux éditions existent et chacune propose une démo gratuite. Testez la démo avant d'acheter le jeu.
 
 * 2007 : [Overlord - sur Steam](https://store.steampowered.com/app/11450/Overlord) - 2,49€
-* 2009 : [Overlord - sur Steam](https://store.steampowered.com/app/12810/Overlord_II/) - 4,49€
+* 2009 : [Overlord 2 - sur Steam](https://store.steampowered.com/app/12810/Overlord_II/) - 4,49€
 
 # Outcast 1.1
 
@@ -269,6 +270,17 @@ Pour le premier Bioshock, une démo est disponible pour tester le jeu avant de l
 * 2009 : [Killing Floor](https://store.steampowered.com/app/1250/Killing_Floor/) - 1,99€
 * 2009 : [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2/) - 2,79€
 
+# Borderlands
+
+* [Borderlands](https://store.steampowered.com/app/8980/Borderlands_Game_of_the_Year/) - 9,89€
+* [Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) - 7,49€
+
+# Série Tropico
+
+* 2009 : [Tropico 3](https://store.steampowered.com/app/23490/Tropico_3/) - 1,99€
+* 2011 : [Tropico 4](https://store.steampowered.com/app/57690/Tropico_4/) - 4,49€
+* 2014 : [Tropico 5](https://store.steampowered.com/app/245620/Tropico_5/) - 6,99€
+
 # Devil May Cry 4
 
 * [Devil May Cry 4](https://store.steampowered.com/app/329050/Devil_May_Cry_4_Special_Edition/) - 7,49€
@@ -279,7 +291,7 @@ Pour le premier Bioshock, une démo est disponible pour tester le jeu avant de l
 
 # F.E.A.R. 2: Project Origin
 
-* [F.E.A.R. 2: Project Origin](https://store.steampowered.com/app/16450/FEAR_2_Project_Origin/) - 1,49€
+* [F.E.A.R. 2: Project Origin](https://store.steampowered.com/app/16450/FEAR_2_Project_Origin/) - 2,99€
 
 # Super Meat Boy
 
@@ -296,15 +308,10 @@ Pour le premier Bioshock, une démo est disponible pour tester le jeu avant de l
 
 * 2005 : [Prince of Persia: The Two Thrones](https://store.steampowered.com/app/13530/Prince_of_Persia_The_Two_Thrones/) - 1,99€
 
-# Overlord II
-
-Une démo gratuite est disponible pour tester le jeu.
-
-* [Overlord II](https://store.steampowered.com/app/12810/Overlord_II/) - 4,49€
-
 # Hotline Miami
 
-* [Hotline Miami](https://store.steampowered.com/app/219150/Hotline_Miami/) - 1,95€
+* 2012 : [Hotline Miami](https://store.steampowered.com/app/219150/Hotline_Miami/) - 1,95€
+* 2015 : [Hotline Miami 2](https://store.steampowered.com/app/219150/Hotline_Miami/) - 2,21€
 
 # Série Quake
 
@@ -312,6 +319,33 @@ Une démo gratuite est disponible pour tester le jeu.
 * 1997 : [Quake 2](https://store.steampowered.com/app/2320/Quake_II/) - 3,99€
 * 1999 : [Quake 3 Arena](https://store.steampowered.com/app/2200/Quake_III_Arena/) - 5,99€
 * 2005 : [Quake 4](https://store.steampowered.com/app/2210/Quake_4/) - 4,94€
+
+# Age of empire 2
+
+Sorti en 2013, le deux a été refait en 2019. Pour les anciens PCs il faut privilégier la version de 2013.
+
+* 1999 : [Age of Empires II](https://store.steampowered.com/app/221380/Age_of_Empires_II_Retired/) - 19,99€
+* 2019 : [Age of Empires II: Definitive Edition](https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/) - 11,54€
+
+# Undertale
+
+* [Undertale](https://store.steampowered.com/app/219150/Hotline_Miami/) - 2,49€
+
+# Spore
+
+* [Spore](https://store.steampowered.com/app/17390/SPORE/) - 4,99€
+
+# Stardew Valley
+
+* [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/) - 8,39€
+
+# Civilization V
+
+* [Civilization V](https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/) - 9,89€
+
+# Shovel Knight: Treasure Trove
+
+* [Shovel Knight: Treasure Trove](https://store.steampowered.com/app/250760/Shovel_Knight_Treasure_Trove/) - 23,99€
 
 # Mini ninja
 
@@ -332,6 +366,30 @@ Testez bien le jeu avec la version de démo gratuite avant de l'acheter, car il 
 Ce jeu peut rencontrer des difficultés à fonctionner sous certaines distributions Linux.
 
 * [Rayman Legends - sur Steam](https://store.steampowered.com/app/242550/Rayman_Legends/) - 3,99€
+
+# South Park
+
+* [South Park](https://store.steampowered.com/app/213670/South_Park_The_Stick_of_Truth/) - 5,99€
+
+# Série Assassin's Creed
+
+## Assassin's Creed 1
+
+Requière : 256Mo de vram
+
+* 2008 : [Assassin's Creed](https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition) - 2,49€
+
+## Assassin's Creed 2
+
+Requière : 256Mo de vram
+
+* 2010 : [Assassin's Creed 2](https://store.steampowered.com/app/33230/Assassins_Creed_2) - 2,49€
+
+# Command & Conquer : Alerte Rouge 3
+
+Requière : 256Mo de vram
+
+* [Command & Conquer™: Alerte Rouge™ 3](https://store.steampowered.com/app/17480/Command__Conquer_Alerte_Rouge_3) - 6,56€
 
 # Allez plus loin
 

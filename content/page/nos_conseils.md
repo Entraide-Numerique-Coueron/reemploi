@@ -39,6 +39,6 @@ description: Nos réponses aux questions qui nous sont le plus posées
 * [Sélection de jeux de navigateur](/blog/selection-jeux-navigateurs/)
 * [Jouer à des jeux rétro grâce à RetroArch](/blog/retroarch/)
 * [Jouer à Roblox sous Linux](/blog/jouer-a-roblox-sous-Linux/)
-* Prochains tutoriels jeux : installer des jeux avec Lutris, Epic Games, Battle.net, Abandonware. Jouer à The Dark Mod, Voxelands, secret maryo chronicles. Mais vous pouvez déjà rechercher ces informations sur Internet.
+* Prochains tutoriels jeux : installer des jeux avec Lutris, Bottles, Epic Games, Battle.net, Abandonware. Jouer à The Dark Mod, Voxelands, secret maryo chronicles, League of Legend, Rocket League, Hearthstone, Dofus, Warcraft, Starcraft. Mais vous pouvez déjà rechercher ces informations sur Internet.
 
 
