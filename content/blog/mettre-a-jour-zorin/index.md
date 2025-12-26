@@ -14,7 +14,7 @@ Il vous suffit de cliquer sur "Télécharger", puis sur "Installer"
 
 # Mise à jour du système d'exploitation
 
-Actuellement la dernière version de Zorin est Zorin 18. Si vous avez une version antérieure, veuillez faire la mise à jour.
+Pour vérifier si votre version de Zorin est à jour, effectuer la recherche dans votre menu démarrer "Zorin" et ouvrez l'outil "Mise à jour de Zorin".
 
 # Mise à jour des pilotes additionnels
 
