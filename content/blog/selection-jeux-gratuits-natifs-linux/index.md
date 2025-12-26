@@ -250,6 +250,30 @@ OpenSpades est un jeu de tir à la première personne dans un univers Voxel (sty
 
 Augustus est une réadaptation du jeu Caesar 3.
 
+# Alien Arena
+
+![Alien Arena](/img/AlienArena.webp "Alien Arena")
+
+FPS
+
+# Trigger Rally
+
+![Trigger Rally Arena](/img/triggerrally.webp "Trigger Rally")
+
+Jeu de pilotage rally
+
+# Thrive
+
+![Thrive](/img/Thrive.webp "Thrive")
+
+Jeu de simulation de l'évolution de la vie
+
+# Armagetron Advanced
+
+![Armagetron Advanced](/img/armagetron.webp "Armagetron Advanced")
+
+Jeu de pilotage rally
+
 # Flare: Emperyan Campaign
 
 ![Flare](/img/Flare.webp "Flare")
