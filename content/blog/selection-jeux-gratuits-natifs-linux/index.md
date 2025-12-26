@@ -9,6 +9,8 @@ Ces jeux s'installent comme n'importe quel logiciel, il suffit d'en rechercher l
 
 # Super Tux Kart
 
+![Super Tux Kart](/img/supertuxkart.png "Super Tux Kart")
+
 Ce jeu de course de karting en 3D est similaire au célèbre Mario Kart. Il est jouable au clavier ou avec des manettes de jeux.
 Vous pouvez y jouer à plusieurs si vous avez plusieurs manettes.
 
