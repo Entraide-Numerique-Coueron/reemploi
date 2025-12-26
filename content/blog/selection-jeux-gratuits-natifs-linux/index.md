@@ -48,7 +48,7 @@ Ce jeu de stratégie en temps réel est similaire au célèbre Age of Empire. Il
 
 # Sonic Robo Blast 2
 
-![Sonic Robo Blast 2](/img/sonicroboblast2.jpg "Sonic Robo Blast 2")
+![Sonic Robo Blast 2](/img/sonicroboblast2.png "Sonic Robo Blast 2")
 
 Ce jeu de plateforme en 3D est jouable au clavier et à la souris.
 
