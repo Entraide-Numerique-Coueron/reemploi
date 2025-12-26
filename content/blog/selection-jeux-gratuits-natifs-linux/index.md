@@ -208,6 +208,12 @@ Urban Terror est un jeu de tir à la première personne, mettant en avant l'aspe
 
 Granatier est un jeu inspiré de Bomberman.
 
+# FreeCiv
+
+![FreeCiv](/img/freeciv.webp "FreeCiv")
+
+Equivalent open-source du jeu Civilization
+
 # OpenClonk
 
 ![OpenClonk](/img/OpenClonk.webp "OpenClonk")
