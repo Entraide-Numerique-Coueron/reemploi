@@ -213,12 +213,18 @@ Jeu de combat et de stratégie.
 
 * [Dota Underlors - sur Stean](https://store.steampowered.com/app/1046930/Dota_Underlords/)
 
-# The Elder Scrolls Online
+# Série - The Elder Scrolls
 
-MMORPG dans l'univers des Elders Scrolls (Skyrim, Oblivion, Morrowind etc.).
+Jeu solo :
+
+* 1994 : [The Elder Scrolls: Arena](https://store.steampowered.com/app/1812290/The_Elder_Scrolls_Arena) - gratuit
+* 1996 : [The Elder Scrolls II: Daggerfall](https://store.steampowered.com/app/1812390/The_Elder_Scrolls_II_Daggerfall/) - gratuit
+* 2002 : [The Elder Scrolls III: Morrowind](https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/) - 5,99€
+* 2009 : [The Elder Scrolls IV: Oblivion](https://store.steampowered.com/app/22330/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_2009/) - 3,74€
+
+Jeu multijoueur en ligne, MMORPG.
 
 * [The Elder Scrolls Online - sur Stean](https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/)
-
 
 # Destiny 2
 

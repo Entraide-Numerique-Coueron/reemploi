@@ -254,7 +254,65 @@ Pour le premier Bioshock, une démo est disponible pour tester le jeu avant de l
 * 2010 : [Bioshock 2  - sur Steam](https://store.steampowered.com/app/8850/BioShock_2/) - 2,99€
 * 2016 : [Bioshock Remastered - sur Steam](https://store.steampowered.com/app/409710/BioShock_Remastered/) - 4,99€
 * 2016 : [Bioshock 2 Remastered - sur Steam](https://store.steampowered.com/app/409720/BioShock_2_Remastered/) - 2,99€
-  
+
+# The Binding of Isaac
+
+* [The Binding of Isaac - sur Steam](https://store.steampowered.com/app/113200/The_Binding_of_Isaac/) - 1,64€
+
+# Serious Sam
+
+* 2009 : [Serious Sam HD: The First Encounter](https://store.steampowered.com/app/41000/Serious_Sam_HD_The_First_Encounter/) - 1,49€
+* 2010 : [Serious Sam HD: The Second Encounter](https://store.steampowered.com/app/41014/Serious_Sam_HD_The_Second_Encounter/) - 1,99€
+
+# Killing Floor
+
+* 2009 : [Killing Floor](https://store.steampowered.com/app/1250/Killing_Floor/) - 1,99€
+* 2009 : [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2/) - 2,79€
+
+# Devil May Cry 4
+
+* [Devil May Cry 4](https://store.steampowered.com/app/329050/Devil_May_Cry_4_Special_Edition/) - 7,49€
+
+# Saints Row 2
+
+* [Saints Row 2](https://store.steampowered.com/app/9480/Saints_Row_2/) - 2,99€
+
+# F.E.A.R. 2: Project Origin
+
+* [F.E.A.R. 2: Project Origin](https://store.steampowered.com/app/16450/FEAR_2_Project_Origin/) - 1,49€
+
+# Super Meat Boy
+
+* [Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/) - 3,74€
+
+# Série - The Elder Scrolls
+
+* 1994 : [The Elder Scrolls: Arena](https://store.steampowered.com/app/1812290/The_Elder_Scrolls_Arena) - gratuit
+* 1996 : [The Elder Scrolls II: Daggerfall](https://store.steampowered.com/app/1812390/The_Elder_Scrolls_II_Daggerfall/) - gratuit
+* 2002 : [The Elder Scrolls III: Morrowind](https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/) - 5,99€
+* 2009 : [The Elder Scrolls IV: Oblivion](https://store.steampowered.com/app/22330/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_2009/) - 3,74€
+
+# Série - Prince of Persia
+
+* 2005 : [Prince of Persia: The Two Thrones](https://store.steampowered.com/app/13530/Prince_of_Persia_The_Two_Thrones/) - 1,99€
+
+# Overlord II
+
+Une démo gratuite est disponible pour tester le jeu.
+
+* [Overlord II](https://store.steampowered.com/app/12810/Overlord_II/) - 4,49€
+
+# Hotline Miami
+
+* [Hotline Miami](https://store.steampowered.com/app/219150/Hotline_Miami/) - 1,95€
+
+# Série Quake
+
+* 1996 : [Quake](https://store.steampowered.com/app/2310/Quake/) - 3,99€
+* 1997 : [Quake 2](https://store.steampowered.com/app/2320/Quake_II/) - 3,99€
+* 1999 : [Quake 3 Arena](https://store.steampowered.com/app/2200/Quake_III_Arena/) - 5,99€
+* 2005 : [Quake 4](https://store.steampowered.com/app/2210/Quake_4/) - 4,94€
+
 # Mini ninja
 
 Mini Ninjas est un jeu qui combine action nerveuse, infiltration et exploration.
