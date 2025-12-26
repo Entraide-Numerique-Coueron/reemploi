@@ -196,6 +196,12 @@ MMORPG
 
 Warzone 2100 est un jeu de stratégie en temps réel.
 
+# Unciv
+
+![Unciv](/img/unciv.webp "Unciv")
+
+Equivalent open-source du jeu Civilization
+
 # Urban Terror
 
 ![Urban Terror](/img/UrbanTerror.webp "Urban Terror")
@@ -297,6 +303,30 @@ Jeu de simulation de gestion d'une ville.
 ![Sauerbraten](/img/Sauerbraten.webp "Sauerbraten")
 
 FPS
+
+# OSU!
+
+![OSU!](/img/osu.webp "OSU!")
+
+Jeu de clic en rythme rapide
+
+# Taisei Project
+
+![Taisei Project](/img/taisei.webp "Taisei Project")
+
+Jeu de tir, façon "shoot 'em up"
+
+# Celeste64
+
+![Celeste64](/img/celeste64.webp "Celeste64")
+
+Jeu de plateforme en 3D
+
+# Quadrapassei
+
+![Quadrapassei](/img/quadrapassei.webp "Quadrapassei")
+
+Adaptation du célèbre jeu Tetris
 
 # Flare: Emperyan Campaign
 
