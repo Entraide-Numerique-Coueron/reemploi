@@ -360,9 +360,11 @@ Sorti en 2013, le deux a été refait en 2019. Pour les anciens PCs il faut priv
 
 * [Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/) - 8,39€
 
-# Civilization V
+# Série Civilization
 
-* [Civilization V](https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/) - 9,89€
+* 2001 : [Civilization III](https://store.steampowered.com/app/3910/Sid_Meiers_Civilization_III_Complete/) - 4,99€
+* 2006 : [Civilization IV](https://store.steampowered.com/app/3990/Civilization_IV_Warlords/) - 4,99€
+* 2010 : [Civilization V](https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/) - 9,89€
 
 # Série Oddworld
 
@@ -435,9 +437,17 @@ Requière : 256Mo de vram
 
 Il existe un équivalent open-source : [OpenRA](/blog/selection-jeux-gratuits-natifs-linux/) - gratuit
 
+# SimCity 4
+
+* [SimCity 4](https://store.steampowered.com/app/24780/SimCity_4_Deluxe_Edition/) - 4,99€
+
 # Wolfenstein 3D
 
 [Wolfenstein 3D](https://store.steampowered.com/app/2270/Wolfenstein_3D/) - 1,49€
+
+# Max Payne
+
+* [Max Payne 1](https://store.steampowered.com/app/202570/Max_Payne/) - 3,49€
 
 # Grim Fandango Remastered
 
