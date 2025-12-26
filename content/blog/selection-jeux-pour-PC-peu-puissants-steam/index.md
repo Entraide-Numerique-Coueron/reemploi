@@ -441,6 +441,14 @@ Il existe un équivalent open-source : [OpenRA](/blog/selection-jeux-gratuits-na
 
 * [SimCity 4](https://store.steampowered.com/app/24780/SimCity_4_Deluxe_Edition/) - 4,99€
 
+# Company of Heroes
+
+* [Company of Heroes](https://store.steampowered.com/app/228200/Company_of_Heroes/) - 3,69€
+
+# Warhammer 40,000: Dawn of War
+
+* [Warhammer 40,000: Dawn of War](https://store.steampowered.com/app/4570/Warhammer_40000_Dawn_of_War__dition_Anniversaire/) - 9,13€
+
 # Wolfenstein 3D
 
 [Wolfenstein 3D](https://store.steampowered.com/app/2270/Wolfenstein_3D/) - 1,49€
@@ -463,6 +471,11 @@ Il existe un équivalent open-source : [OpenRA](/blog/selection-jeux-gratuits-na
 
 * 2006 : [Just Cause](https://store.steampowered.com/app/6880/Just_Cause/) - 0,97€
 * 2010 : [Just Cause 2](https://store.steampowered.com/app/8190/Just_Cause_2/) - 1,49€
+
+# STAR WARS Knights of the Old Republic (KOTOR)
+
+* 2003 : [STAR WARS Knights of the Old Republic](https://store.steampowered.com/app/32370/STAR_WARS_Knights_of_the_Old_Republic/) - 4,87€
+* 2005 : [STAR WARS Knights of the Old Republic II - The Sith Lords](https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II__The_Sith_Lords/) - 4,87€
 
 # Série The Witcher
 
