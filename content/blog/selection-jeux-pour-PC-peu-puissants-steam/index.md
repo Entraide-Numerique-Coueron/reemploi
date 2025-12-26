@@ -297,6 +297,11 @@ Pour le premier Bioshock, une démo est disponible pour tester le jeu avant de l
 
 * [Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/) - 3,74€
 
+# Série Splinter's Cell
+
+* 2003 : [Tom Clancy's Splinter Cell](https://store.steampowered.com/app/13560/Tom_Clancys_Splinter_Cell/) - 2,49€
+* 2010 : [Tom Clancy's Splinter Cell Conviction](https://store.steampowered.com/app/33220/Tom_Clancys_Splinter_Cell_Conviction/) - 2,49€
+
 # Série - The Elder Scrolls
 
 * 1994 : [The Elder Scrolls: Arena](https://store.steampowered.com/app/1812290/The_Elder_Scrolls_Arena) - gratuit
@@ -313,12 +318,23 @@ Pour le premier Bioshock, une démo est disponible pour tester le jeu avant de l
 * 2012 : [Hotline Miami](https://store.steampowered.com/app/219150/Hotline_Miami/) - 1,95€
 * 2015 : [Hotline Miami 2](https://store.steampowered.com/app/219150/Hotline_Miami/) - 2,21€
 
+# Série Monley Island
+
+* 1997 : [The Curse of Monkey Island](https://store.steampowered.com/app/730820/The_Curse_of_Monkey_Island/) - 3,44€
+* 2000 : [Escape from Monkey Island](https://store.steampowered.com/app/730830/Escape_from_Monkey_Island/) - 3,44€
+* 2010 : [Monkey Island 2 Special Edition: LeChuck’s Revenge](https://store.steampowered.com/app/32460/Monkey_Island_2_Special_Edition_LeChucks_Revenge/) - 4,87€
+
 # Série Quake
 
 * 1996 : [Quake](https://store.steampowered.com/app/2310/Quake/) - 3,99€
 * 1997 : [Quake 2](https://store.steampowered.com/app/2320/Quake_II/) - 3,99€
 * 1999 : [Quake 3 Arena](https://store.steampowered.com/app/2200/Quake_III_Arena/) - 5,99€
 * 2005 : [Quake 4](https://store.steampowered.com/app/2210/Quake_4/) - 4,94€
+
+# Série Dungeon Keeper
+
+* 1997 : [Dungeon Keeper 1](https://store.steampowered.com/app/1996630/Dungeon_Keeper_Gold/) - 2,49€
+* 1999 : [Dungeon Keeper 2](https://store.steampowered.com/app/2616460/Dungeon_Keeper_2/) - 2,49€
 
 # Age of empire 2
 
@@ -342,6 +358,11 @@ Sorti en 2013, le deux a été refait en 2019. Pour les anciens PCs il faut priv
 # Civilization V
 
 * [Civilization V](https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/) - 9,89€
+
+# Série Oddworld
+
+* 1997 : [Oddworld: Abe's Oddysee](https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/) - 0,89€
+* 1998 : [Oddworld: Abe's Exoddus](https://store.steampowered.com/app/15710/Oddworld_Abes_Exoddus/) - 0,89€
 
 # Shovel Knight: Treasure Trove
 
@@ -390,6 +411,14 @@ Requière : 256Mo de vram
 Requière : 256Mo de vram
 
 * [Command & Conquer™: Alerte Rouge™ 3](https://store.steampowered.com/app/17480/Command__Conquer_Alerte_Rouge_3) - 6,56€
+
+# Wolfenstein 3D
+
+[Wolfenstein 3D](https://store.steampowered.com/app/2270/Wolfenstein_3D/) - 1,49€
+
+# Grim Fandango Remastered
+
+* [Grim Fandango Remastered](https://store.steampowered.com/app/316790/Grim_Fandango_Remastered/) -s 2,99€
 
 # Allez plus loin
 
