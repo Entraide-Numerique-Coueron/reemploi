@@ -54,17 +54,25 @@ Ce jeu de plateforme en 3D est jouable au clavier et à la souris.
 
 # Battle for Wesnoth
 
+![Battle for Wesnoth](/img/battleforthewesnoth.png "Battle for Wesnoth")
+
 Ce jeu de stratégie au tour par tour est similaire au célèbre jeu Civilisation. Il est jouable au clavier et à la souris.
 
 # Frogatto & friends
+
+![Frogatto & friends](/img/frogatto.webp "Frogatto & friends")
 
 Frogatto & friends est un jeu de plateforme en 2D.
 
 # Super Tux
 
+![Super Tux](/img/supertux.png "Super Tux")
+
 Ce jeu de plateforme en 2D est similaire au célèbre Super Mario. Il est jouable au clavier.
 
 # Hedgewars
+
+![Hedgewars](/img/hedgewars.webp "Hedgewars")
 
 Hedgewars est un jeu de combat en 2D inspiré du célèbre jeu Worms.
 
