@@ -152,7 +152,7 @@ OpenArena est un jeu de tir à la première personne.
 
 ![FlightGear](/img/FlightGear.webp "FlightGear")
 
-FlightGear est un simulateur de pilotage d'avion et d'hélicptère.
+FlightGear est un simulateur de pilotage d'avion et d'hélicoptère.
 
 # Dungeon Crawl Stone Soup
 
