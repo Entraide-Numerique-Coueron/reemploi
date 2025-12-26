@@ -102,10 +102,12 @@ Testé avec succès sous ZorinOS.
 Counter-strike est un jeu de tir en équipe. Le jeu fait s'affronter une équipe de terroristes et d'antiterroristes au cours de plusieurs manches. Les joueurs marquent des points en accomplissant les objectifs de la carte de jeu et en éliminant leurs adversaires, dans le but de faire gagner leur équipe.
 Ce jeu ce joue au clavier et à la souris.
 
+Pour jouer à la version gratuite il faudra un PC plus récent.
+
 Il existe 3 versions de Counter-strike :
-* Counter-strike : pour les ordinateurs très peu puissants - [Counter-strike - sur Steam](https://store.steampowered.com/app/10/CounterStrike/) - 1,63€
-* Counter-strike: Source : pour les ordinateurs peu puissants - [Counter-strike: Source - sur Steam](https://store.steampowered.com/app/240/CounterStrike_Source/) - 1,95€
-* GRATUIT : Counter-strike 2 : pour les ordinateurs plus récents - [disponible gratuitement sur Steam](https://store.steampowered.com/app/730/CounterStrike_2/) - gratuit
+* 2000 : Counter-strike : pour les ordinateurs très peu puissants - [Counter-strike - sur Steam](https://store.steampowered.com/app/10/CounterStrike/) - 1,63€
+* 2004 : Counter-strike: Source : pour les ordinateurs peu puissants - [Counter-strike: Source - sur Steam](https://store.steampowered.com/app/240/CounterStrike_Source/) - 1,95€
+* 2012 : GRATUIT : Counter-strike 2 : pour les ordinateurs plus récents - [disponible gratuitement sur Steam](https://store.steampowered.com/app/730/CounterStrike_2/) - gratuit
 
 # Total Annihilation
 
@@ -162,6 +164,8 @@ Une suite, Darkest Dungeon 2 est sorti en 2022 mais ne fonctionne que sur des PC
 # Dungeon Defenders
 
 Dungeon Defenders est un jeu de rôle et d'action et de tourelles défensives. Jouable jusqu'à 4 en coopération.
+
+Pour jouer à la version gratuite il faudra un PC plus récent.
 
 Deux versions du jeu existent :
 * 2011 [Dungeon Defenders - sur Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/?curator_clanid=42283991) - 2,95€
