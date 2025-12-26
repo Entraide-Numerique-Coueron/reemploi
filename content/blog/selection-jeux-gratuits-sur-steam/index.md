@@ -195,6 +195,8 @@ MMORPG
 
 * [Albion Online - sur Stean](https://store.steampowered.com/app/761890/Albion_Online/)
 
+Il existe une version directement dans Linux qui devrait mieux fonctionner sous Linux : [Albion Online sous Linux](/blog/selection-jeux-gratuits-natifs-linux/) - gratuit
+
 # Dota 2
 
 Jeu de combat en équipe très connu.

@@ -412,6 +412,8 @@ Requière : 256Mo de vram
 
 * [Command & Conquer™: Alerte Rouge™ 3](https://store.steampowered.com/app/17480/Command__Conquer_Alerte_Rouge_3) - 6,56€
 
+Il existe un équivalent open-source : [OpenRA](/blog/selection-jeux-gratuits-natifs-linux/) - gratuit
+
 # Wolfenstein 3D
 
 [Wolfenstein 3D](https://store.steampowered.com/app/2270/Wolfenstein_3D/) - 1,49€
