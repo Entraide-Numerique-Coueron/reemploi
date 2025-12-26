@@ -42,7 +42,7 @@ Pour profiter du jeu, vous devez installer "Airshipper".
 
 # 0AD
 
-![0AD](/img/0ad.jpg "0AD")
+![0AD](/img/0ad.webp "0AD")
 
 Ce jeu de stratégie en temps réel est similaire au célèbre Age of Empire. Il est jouable au clavier et à la souris.
 
@@ -54,7 +54,7 @@ Ce jeu de plateforme en 3D est jouable au clavier et à la souris.
 
 # Battle for Wesnoth
 
-![Battle for Wesnoth](/img/battleforthewesnoth.png "Battle for Wesnoth")
+![Battle for Wesnoth](/img/battleforthewesnoth.webp "Battle for Wesnoth")
 
 Ce jeu de stratégie au tour par tour est similaire au célèbre jeu Civilisation. Il est jouable au clavier et à la souris.
 
@@ -66,7 +66,7 @@ Frogatto & friends est un jeu de plateforme en 2D.
 
 # Super Tux
 
-![Super Tux](/img/supertux.png "Super Tux")
+![Super Tux](/img/supertux.webp "Super Tux")
 
 Ce jeu de plateforme en 2D est similaire au célèbre Super Mario. Il est jouable au clavier.
 
