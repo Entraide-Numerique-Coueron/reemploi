@@ -216,7 +216,7 @@ MegaGlest est un jeu stratégie en temps réel en 3D.
 
 # Rigs of rods
 
-![Rigs of rods](/img/RigsofRods.webp "Rigs of rods")
+![Rigs of rods](/img/RigsofRods.jpg "Rigs of rods")
 
 Rigs of rods est un jeu de simulation de conduite de véhicule.
 
