@@ -84,9 +84,13 @@ Jeu en coopération de gestion d'une cuisine. Similaire au célèbre jeu Overcoo
 
 # Red Eclipse
 
+![Red Eclipse](/img/redeclipse.webp "Red Eclipse")
+
 Red Eclipse est un jeu de tir à première personne.
 
 # Beyond All Reason
+
+![# Beyond All Reason](/img/beyondallreason.webp "# Beyond All Reason")
 
 Beyond All Reason est un jeu de stratégie en temps réel, similaire au célèbre jeu Total Annihilation.
 
