@@ -34,7 +34,7 @@ Pour profiter du jeu, vous devez installer "Luanti".
 
 # Gcompris
 
-![Gcompris](/img/gcompris.jpg "Gcompris")
+![Gcompris](/img/gcompris.webp "Gcompris")
 
 Logiciels éducatifs incluant des jeux et activités pour les enfants de 2 à 10 ans.
 
