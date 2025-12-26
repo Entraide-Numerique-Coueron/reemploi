@@ -78,6 +78,8 @@ Hedgewars est un jeu de combat en 2D inspiré du célèbre jeu Worms.
 
 # Hurry Curry
 
+![Hurry Curry](/img/hurrycurry.webp "Hurry Curry")
+
 Jeu en coopération de gestion d'une cuisine. Similaire au célèbre jeu Overcooked.
 
 # Red Eclipse
