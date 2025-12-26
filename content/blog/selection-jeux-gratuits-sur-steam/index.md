@@ -213,6 +213,13 @@ Jeu de combat et de stratégie.
 
 * [Dota Underlors - sur Stean](https://store.steampowered.com/app/1046930/Dota_Underlords/)
 
+# The Elder Scrolls Online
+
+MMORPG dans l'univers des Elders Scrolls (Skyrim, Oblivion, Morrowind etc.).
+
+* [The Elder Scrolls Online - sur Stean](https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/)
+
+
 # Destiny 2
 
 MMO d'action. Nécessite toutefois un PC assez puissant (6Go de RAM et un processeur récent).

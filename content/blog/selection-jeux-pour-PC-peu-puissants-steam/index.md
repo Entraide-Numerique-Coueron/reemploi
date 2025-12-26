@@ -231,6 +231,29 @@ Steam propose une démo gratuite pour tester le jeu avant de l'acheter.
 Joué avec succès sous ZorinOs.
 
 * [Flock Around - sur Steam](https://store.steampowered.com/app/3618030/Flock_Around/)
+
+# Arx Fatalis
+
+Jeu de rôle à la première personne. Une démo est disponible pour tester le jeu avant de l'acheter.
+
+* [Arx Fatalis - sur Steam](https://store.steampowered.com/app/1700/Arx_Fatalis/) - 1,64€
+
+# Dark Messiah of Might & Magic
+
+Jeu de RPG action.  Une démo est disponible pour tester le jeu avant de l'acheter.
+
+* [Dark Messiah of Might & Magic - sur Steam](https://store.steampowered.com/app/1700/Arx_Fatalis/) - 1,24€
+
+# Bioshock
+
+Jeu de tir à la première personne. Ils ont été refait quelques années plus tard pour être plus beau sur des PC récents.
+
+Pour le premier Bioshock, une démo est disponible pour tester le jeu avant de l'acheter.
+
+* 2007 : [Bioshock - sur Steam](https://store.steampowered.com/app/7670/BioShock/) - 4,99€
+* 2010 : [Bioshock 2  - sur Steam](https://store.steampowered.com/app/8850/BioShock_2/) - 2,99€
+* 2016 : [Bioshock Remastered - sur Steam](https://store.steampowered.com/app/409710/BioShock_Remastered/) - 4,99€
+* 2016 : [Bioshock 2 Remastered - sur Steam](https://store.steampowered.com/app/409720/BioShock_2_Remastered/) - 2,99€
   
 # Mini ninja
 
@@ -251,4 +274,5 @@ Testez bien le jeu avec la version de démo gratuite avant de l'acheter, car il 
 Ce jeu peut rencontrer des difficultés à fonctionner sous certaines distributions Linux.
 
 * [Rayman Legends - sur Steam](https://store.steampowered.com/app/242550/Rayman_Legends/) - 3,99€
+
 
