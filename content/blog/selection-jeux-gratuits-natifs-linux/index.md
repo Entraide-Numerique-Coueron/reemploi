@@ -90,115 +90,175 @@ Red Eclipse est un jeu de tir à première personne.
 
 # Beyond All Reason
 
-![# Beyond All Reason](/img/beyondallreason.webp "# Beyond All Reason")
+![Beyond All Reason](/img/beyondallreason.webp "Beyond All Reason")
 
 Beyond All Reason est un jeu de stratégie en temps réel, similaire au célèbre jeu Total Annihilation.
 
 # Mindustry
 
+![Mindustry](/img/mindustry.webp "Mindustry")
+
 Jeu de "tower defense", avec gestion du matériel de production.
 
 # Rexuiz
+
+![Rexuiz](/img/rexuiz.webp "Rexuiz")
 
 Rexuiz est un jeu de tir à première personne.
 
 # Endless Sky
 
+![Endless Sky](/img/endlesssky.webp "Endless Sky")
+
 Endless Sky est un jeu d'exploration et de combat dans l'espace.
 
 # Pingus
+
+![Pingus](/img/Pingus.jpg "Pingus")
 
 Pingus est un jeu de réflexion similaire au célèbre jeu Lemmings.
 
 # Shooting Game Flyre
 
+![Shooting Game Flyre](/img/ShootingGameFlyre.webp "Shooting Game Flyre")
+
 Shooting Game Flyre est un jeu de tir en pixel art.
 
 # Super Tux Party
+
+![Super Tux Party](/img/supertuxparty.webp "Super Tux Party")
 
 Super Tux Party est un "Party Game", c'est à dire un jeu qui permet de faire de courtes parties avec ses amis.
 
 # Project: Starfighter
 
+![Project: Starfighter](/img/Starfighter.webp "Project: Starfighter")
+
 Project: Starfighter est un jeu de tir dans l'espace.
 
 # OpenRCT2
+
+![OpenRCT2](/img/OpenRCT2.webp "OpenRCT2")
 
 OpenRCT2 est un jeu de gestion de parc d'attractions.
 
 # OpenArena
 
+![OpenArena](/img/OpenArena.webp "OpenArena")
+
 OpenArena est un jeu de tir à la première personne.
 
 # FlightGear
+
+![FlightGear](/img/FlightGear.webp "FlightGear")
 
 FlightGear est un simulateur de pilotage d'avion et d'hélicptère.
 
 # Dungeon Crawl Stone Soup
 
+![Dungeon Crawl Stone Soup](/img/DungeonCrawlStoneSoup.webp "Dungeon Crawl Stone Soup")
+
 Dungeon Crawl Stone Soup est un jeu de rôle en 2D de type RogueLike.
 
 # OpenRA
+
+![OpenRA](/img/OpenRA.webp "OpenRA")
 
 OpenRA est un jeu de stratégie en temps réel inspiré du célèbre jeu "Alerte Rouge"
 
 # Tremulous
 
+![Tremulous](/img/Tremulous.webp "Tremulous")
+
 Tremulous est un jeu de tir à la première personne en multijoueur.
 
 # Unvanquished
 
+![Unvanquished](/img/Unvanquished.webp "Unvanquished")
+
 Unvanquished est un jeu de stratégie en temps réel se jouant à la première personne.
 
+# Albion Online
+
+![Albion Online](/img/AlbionOnline.webp "Albion Online")
+
+MMORPG
+
 # Warzone 2100
+
+![Warzone 2100](/img/Warzone2100.webp "Warzone 2100")
 
 Warzone 2100 est un jeu de stratégie en temps réel.
 
 # Urban Terror
 
+![Urban Terror](/img/UrbanTerror.webp "Urban Terror")
+
 Urban Terror est un jeu de tir à la première personne, mettant en avant l'aspect tactique.
 
 # Granatier
+
+![Granatier](/img/Granatier.webp "Granatier")
 
 Granatier est un jeu inspiré de Bomberman.
 
 # OpenClonk
 
+![OpenClonk](/img/OpenClonk.webp "OpenClonk")
+
 OpenClonk est un jeu multijoueurs.
 
 # MegaGlest
+
+![MegaGlest](/img/MegaGlest.webp "MegaGlest")
 
 MegaGlest est un jeu stratégie en temps réel en 3D.
 
 # Rigs of rods
 
+![Rigs of rods](/img/RigsofRods.webp "Rigs of rods")
+
 Rigs of rods est un jeu de simulation de conduite de véhicule.
 
 # Astromenace
+
+![Astromenace](/img/Astromenace.webp "Astromenace")
 
 Astromenace est un jeu de tir en vaisseau spacial.
 
 # Pioneer
 
+![Pioneer](/img/Pioneer.webp "Pioneer")
+
 Pioneer est un jeu d'aventure spaciale.
 
 # AssaultCube
+
+![AssaultCube](/img/AssaultCube.webp "AssaultCube")
 
 AssaultCube est un jeu de tir à la première personne.
 
 # OpenSpades
 
+![OpenSpades](/img/OpenSpades.webp "OpenSpades")
+
 OpenSpades est un jeu de tir à la première personne dans un univers Voxel (style Minecraft)
 
 # Augustus
+
+![Augustus](/img/Augustus.webp "Augustus")
 
 Augustus est une réadaptation du jeu Caesar 3.
 
 # Flare: Emperyan Campaign
 
+![Flare](/img/Flare.webp "Flare")
+
 Flare: Emperyan Campaign est un jeu de rôle en 2D.
 
 # Warmux
+
+![Warmux](/img/Warmux.webp "Warmux")
 
 Warmux est un jeu de combat en 2D inspiré du célèbre jeu Worms.
 
