@@ -34,11 +34,15 @@ Pour profiter du jeu, vous devez installer "Luanti".
 
 # Airshipper & Veloren
 
+![Veloren](/img/veloren.jpg "Veloren")
+
 Veloren est un jeu de rôle à mi-chemin entre Minecraft, Zelda et Cube World.
 
 Pour profiter du jeu, vous devez installer "Airshipper".
 
 # 0AD
+
+![0AD](/img/0ad.jpg "0AD")
 
 Ce jeu de stratégie en temps réel est similaire au célèbre Age of Empire. Il est jouable au clavier et à la souris.
 
