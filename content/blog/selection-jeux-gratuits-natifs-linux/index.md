@@ -16,9 +16,13 @@ Vous pouvez y jouer à plusieurs si vous avez plusieurs manettes.
 
 # Xonotic
 
+![Xonotic](/img/xonotic.jpg "Xonotic")
+
 Xonotic est un jeu de tir à première personne, intense et rapide, similaire aux célèbres jeux Quake ou Unreal Tournament.
 
 # Luanti & Minetest
+
+![Minetest](/img/minetest.jpg "Minetest")
 
 Minetest est un jeu d'exploration et de construction est similaire au célèbre Minecraft. Il est jouable au clavier et à la souris.
 Luanti est le moteur de création du jeu Minetest. En installant Luanti vous avez accès à plein d'autres jeux qui sont grandement personnalisables, à un tel point que certains préfèrent Luanti à Minecraft.
