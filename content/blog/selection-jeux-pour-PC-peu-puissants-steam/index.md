@@ -318,6 +318,11 @@ Pour le premier Bioshock, une démo est disponible pour tester le jeu avant de l
 * 2012 : [Hotline Miami](https://store.steampowered.com/app/219150/Hotline_Miami/) - 1,95€
 * 2015 : [Hotline Miami 2](https://store.steampowered.com/app/219150/Hotline_Miami/) - 2,21€
 
+# Série Flatout
+
+* 2005 : [FlatOut](https://store.steampowered.com/app/6220/FlatOut/) - 1,39€
+* 2006 : [FlatOut 2](https://store.steampowered.com/app/2990/FlatOut_2/) - 1,99€
+
 # Série Monley Island
 
 * 1997 : [The Curse of Monkey Island](https://store.steampowered.com/app/730820/The_Curse_of_Monkey_Island/) - 3,44€
@@ -400,6 +405,14 @@ Ce jeu peut rencontrer des difficultés à fonctionner sous certaines distributi
 
 * [South Park](https://store.steampowered.com/app/213670/South_Park_The_Stick_of_Truth/) - 5,99€
 
+# Série Lego
+
+* 2008 : [LEGO Batman](https://store.steampowered.com/app/21000/LEGO_Batman_The_Videogame/) - 2,99€
+* 2008 : [LEGO Indiana Jones](https://store.steampowered.com/app/32330/LEGO_Indiana_Jones_The_Original_Adventures/) - 6,82€
+* 2009 : [LEGO Star Wars - The Complete Saga](https://store.steampowered.com/app/32440/LEGO_Star_Wars__The_Complete_Saga/) - 6,82€
+* 2011 : [LEGO Star Wars III - The Clone Wars](https://store.steampowered.com/app/32510/LEGO_Star_Wars_III__The_Clone_Wars/) - 2,99€
+* 2013 : [LEGO Marvel Super Heroes](https://store.steampowered.com/app/249130/LEGO_Marvel_Super_Heroes/) - 3,99€
+
 # Série Assassin's Creed
 
 ## Assassin's Creed 1
@@ -459,6 +472,10 @@ Il existe un équivalent open-source : [OpenRA](/blog/selection-jeux-gratuits-na
 
 * [Batman: Arkham Asylum Game of the Year Edition](https://store.steampowered.com/app/35140/Batman_Arkham_Asylum_Game_of_the_Year_Edition) - 3,99€
   
+# Medal of honor
+
+* [Medal of honor](https://store.steampowered.com/app/47790/Medal_of_Honor/) 4,99€
+
 # Allez plus loin
 
 ## Les groupes de curation / recommandations Steam
